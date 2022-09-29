@@ -3,7 +3,16 @@ from helper.imports.functionImports import *
 from helper.imports.configImports import * 
 from helper.imports.classImports import *
 
-dataSetName = sys.argv[1]
+parser = argparse.ArgumentParser()
+parser.add_argument("-dataset",
+                    help="Data set to use for building decision tree",
+                    choices=["car", "bank"]
+                )
+args = parser.parse_args()
+if args.dataset:
+    dataSetName = args.dataset
+else: 
+    print(f"No dataset provided!")
 
 train = readCSV(dataConfig.dataSets[dataSetName]["trainPath"], True)
 test = readCSV(dataConfig.dataSets[dataSetName]["testPath"], True)
