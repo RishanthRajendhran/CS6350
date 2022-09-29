@@ -3,6 +3,7 @@ from helper.imports.functionImports import getGain
 #getBestSplitAttr
 #Input          :
 #                   X               :   Numpy matrix of data instances
+#                   weights         :   Numpy array of weights of data instances in X
 #                   Y               :   Numpy matrix of target labels of instances in X
 #                   attrsRem        :   List of remaining attributes on which splitting can be done
 #                   metric          :   Metric to be used for computing gain
@@ -18,7 +19,7 @@ from helper.imports.functionImports import getGain
 #Assumption     :
 #                   It is assumed that all values that all attributes can take can be inferred from
 #                   the input X
-def getBestSplitAttr(X,Y, attrsRem, metric="e"):
+def getBestSplitAttr(X, weights, Y, attrsRem, metric="e"):
     X = np.array(X)
     Y = np.array(Y)
     bestAttr = None
@@ -27,9 +28,10 @@ def getBestSplitAttr(X,Y, attrsRem, metric="e"):
     maxGain = 0
     classes = np.unique(Y)
     counts = []
-    XY = np.concatenate((X, Y.reshape((Y.shape[0],1))),axis=1)
+    WXY = np.concatenate((weights.reshape((weights.shape[0],1)), X),axis=1)
+    WXY = np.concatenate((WXY, Y.reshape((Y.shape[0],1))),axis=1)
     for clas in classes:
-        counts.append(len(np.where(XY[:,-1]==str(clas))[0]))
+        counts.append(len(np.where(WXY[:,-1]==str(clas))[0]))
     for attr in range(len(attrsRem)):
         newCounts = counts.copy()
         vals = np.unique(X[:,attrsRem[attr]])
@@ -37,10 +39,12 @@ def getBestSplitAttr(X,Y, attrsRem, metric="e"):
         for val in vals:
             xVal = X[np.where(X[:,attrsRem[attr]] == str(val))]
             yVal = Y[np.where(X[:,attrsRem[attr]] == str(val))]
-            xValy = np.concatenate((xVal, yVal.reshape((yVal.shape[0],1))),axis=1)
+            wVal = weights[np.where(X[:,attrsRem[attr]] == str(val))]
+            xValy = np.concatenate((wVal.reshape((wVal.shape[0],1)), xVal), axis=1)
+            xValy = np.concatenate((xValy, yVal.reshape((yVal.shape[0],1))),axis=1)
             xValys[val] = (xValy)
             for clas in classes:
-                newCounts.append(len(np.where(xValy[:,-1]==str(clas))[0]))
+                newCounts.append(np.sum(xValy[np.where(xValy[:,-1]==str(clas))[0],0].astype(np.float64)))
         gain = getGain(newCounts,len(classes),metric)
         if gain > maxGain or bestAttr == None:
             maxGain = gain 

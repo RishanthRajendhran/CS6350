@@ -37,13 +37,17 @@ if dataSetName == "bank":
 if dataConfig.dataSets[dataSetName]["attrVals"] == None:
     dataConfig.dataSets[dataSetName]["attrVals"] = getAttrVals(X)
     
+#Temporary
+weights = np.ones((len(X),))
+#Temporary
+
 trainPredErrors = []
 testPredErrors = []
 for maxDepth in dataConfig.dataSets[dataSetName]["maxTreeDepths"]:
     trainPredError = []
     testPredError = []
     for metric in miscConfig.metricsMap.keys():
-        root = buildTree(X,Y,dataConfig.dataSets[dataSetName]["attrVals"],1,np.arange(X.shape[1]),dataConfig.dataSets[dataSetName]["labelType"],metric, maxDepth)
+        root = buildTree(X,weights,Y,dataConfig.dataSets[dataSetName]["attrVals"],1,np.arange(X.shape[1]),dataConfig.dataSets[dataSetName]["labelType"],metric, maxDepth)
         trainPredError.append(testTree(root, X, Y))
         testPredError.append(testTree(root, testX, testY))
     trainPredErrors.append(trainPredError)
