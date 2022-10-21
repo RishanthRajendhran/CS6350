@@ -1,0 +1,3633 @@
+Growing a random forest...
+numAttrs = 2
+	numLearners = 1
+		Error made by randomForest on trainX: 0.1180236047209442
+		Accuracy of randomForest on trainX: 0.8819763952790558
+
+		Performing testing...
+		Error made by randomForest on testX: 0.124624924984997
+		Accuracy of randomForest on testX: 0.875375075015003
+---------------------------
+	numLearners = 2
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 3
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 4
+		Error made by randomForest on trainX: 0.10882176435287061
+		Accuracy of randomForest on trainX: 0.8911782356471294
+
+		Performing testing...
+		Error made by randomForest on testX: 0.11662332466493308
+		Accuracy of randomForest on testX: 0.8833766753350669
+---------------------------
+	numLearners = 5
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 6
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 7
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 8
+		Error made by randomForest on trainX: 0.1180236047209442
+		Accuracy of randomForest on trainX: 0.8819763952790558
+
+		Performing testing...
+		Error made by randomForest on testX: 0.124624924984997
+		Accuracy of randomForest on testX: 0.875375075015003
+---------------------------
+	numLearners = 9
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 10
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 11
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 12
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 13
+		Error made by randomForest on trainX: 0.10882176435287061
+		Accuracy of randomForest on trainX: 0.8911782356471294
+
+		Performing testing...
+		Error made by randomForest on testX: 0.11662332466493308
+		Accuracy of randomForest on testX: 0.8833766753350669
+---------------------------
+	numLearners = 14
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 15
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 16
+		Error made by randomForest on trainX: 0.11762352470494108
+		Accuracy of randomForest on trainX: 0.8823764752950589
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12262452490498099
+		Accuracy of randomForest on testX: 0.877375475095019
+---------------------------
+	numLearners = 17
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 18
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 19
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 20
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 21
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 22
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 23
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 24
+		Error made by randomForest on trainX: 0.1180236047209442
+		Accuracy of randomForest on trainX: 0.8819763952790558
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12522504500900178
+		Accuracy of randomForest on testX: 0.8747749549909982
+---------------------------
+	numLearners = 25
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 26
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 27
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 28
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 29
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 30
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 31
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 32
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 33
+		Error made by randomForest on trainX: 0.10882176435287061
+		Accuracy of randomForest on trainX: 0.8911782356471294
+
+		Performing testing...
+		Error made by randomForest on testX: 0.11662332466493308
+		Accuracy of randomForest on testX: 0.8833766753350669
+---------------------------
+	numLearners = 34
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 35
+		Error made by randomForest on trainX: 0.11762352470494108
+		Accuracy of randomForest on trainX: 0.8823764752950589
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12262452490498099
+		Accuracy of randomForest on testX: 0.877375475095019
+---------------------------
+	numLearners = 36
+		Error made by randomForest on trainX: 0.10882176435287061
+		Accuracy of randomForest on trainX: 0.8911782356471294
+
+		Performing testing...
+		Error made by randomForest on testX: 0.11662332466493308
+		Accuracy of randomForest on testX: 0.8833766753350669
+---------------------------
+	numLearners = 37
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 38
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 39
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 40
+		Error made by randomForest on trainX: 0.10882176435287061
+		Accuracy of randomForest on trainX: 0.8911782356471294
+
+		Performing testing...
+		Error made by randomForest on testX: 0.11662332466493308
+		Accuracy of randomForest on testX: 0.8833766753350669
+---------------------------
+	numLearners = 41
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 42
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 43
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 44
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 45
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 46
+		Error made by randomForest on trainX: 0.11882376475295053
+		Accuracy of randomForest on trainX: 0.8811762352470495
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12282456491298255
+		Accuracy of randomForest on testX: 0.8771754350870175
+---------------------------
+	numLearners = 47
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 48
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 49
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 50
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 51
+		Error made by randomForest on trainX: 0.1180236047209442
+		Accuracy of randomForest on trainX: 0.8819763952790558
+
+		Performing testing...
+		Error made by randomForest on testX: 0.124624924984997
+		Accuracy of randomForest on testX: 0.875375075015003
+---------------------------
+	numLearners = 52
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 53
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 54
+		Error made by randomForest on trainX: 0.11762352470494108
+		Accuracy of randomForest on trainX: 0.8823764752950589
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12262452490498099
+		Accuracy of randomForest on testX: 0.877375475095019
+---------------------------
+	numLearners = 55
+		Error made by randomForest on trainX: 0.10882176435287061
+		Accuracy of randomForest on trainX: 0.8911782356471294
+
+		Performing testing...
+		Error made by randomForest on testX: 0.11662332466493308
+		Accuracy of randomForest on testX: 0.8833766753350669
+---------------------------
+	numLearners = 56
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 57
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 58
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 59
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 60
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 61
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 62
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 63
+		Error made by randomForest on trainX: 0.1180236047209442
+		Accuracy of randomForest on trainX: 0.8819763952790558
+
+		Performing testing...
+		Error made by randomForest on testX: 0.124624924984997
+		Accuracy of randomForest on testX: 0.875375075015003
+---------------------------
+	numLearners = 64
+		Error made by randomForest on trainX: 0.10882176435287061
+		Accuracy of randomForest on trainX: 0.8911782356471294
+
+		Performing testing...
+		Error made by randomForest on testX: 0.11662332466493308
+		Accuracy of randomForest on testX: 0.8833766753350669
+---------------------------
+	numLearners = 65
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 66
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 67
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 68
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 69
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 70
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 71
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 72
+		Error made by randomForest on trainX: 0.10882176435287061
+		Accuracy of randomForest on trainX: 0.8911782356471294
+
+		Performing testing...
+		Error made by randomForest on testX: 0.11662332466493308
+		Accuracy of randomForest on testX: 0.8833766753350669
+---------------------------
+	numLearners = 73
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 74
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 75
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 76
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 77
+		Error made by randomForest on trainX: 0.10882176435287061
+		Accuracy of randomForest on trainX: 0.8911782356471294
+
+		Performing testing...
+		Error made by randomForest on testX: 0.11662332466493308
+		Accuracy of randomForest on testX: 0.8833766753350669
+---------------------------
+	numLearners = 78
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 79
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 80
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 81
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 82
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 83
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 84
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 85
+		Error made by randomForest on trainX: 0.10882176435287061
+		Accuracy of randomForest on trainX: 0.8911782356471294
+
+		Performing testing...
+		Error made by randomForest on testX: 0.11662332466493308
+		Accuracy of randomForest on testX: 0.8833766753350669
+---------------------------
+	numLearners = 86
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 87
+		Error made by randomForest on trainX: 0.1180236047209442
+		Accuracy of randomForest on trainX: 0.8819763952790558
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12522504500900178
+		Accuracy of randomForest on testX: 0.8747749549909982
+---------------------------
+	numLearners = 88
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 89
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 90
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 91
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 92
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 93
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 94
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 95
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 96
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 97
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 98
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 99
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 100
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 101
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 102
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 103
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 104
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 105
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 106
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 107
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 108
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 109
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 110
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 111
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 112
+		Error made by randomForest on trainX: 0.10882176435287061
+		Accuracy of randomForest on trainX: 0.8911782356471294
+
+		Performing testing...
+		Error made by randomForest on testX: 0.11662332466493308
+		Accuracy of randomForest on testX: 0.8833766753350669
+---------------------------
+	numLearners = 113
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 114
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 115
+		Error made by randomForest on trainX: 0.11962392478495709
+		Accuracy of randomForest on trainX: 0.8803760752150429
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12742548509701945
+		Accuracy of randomForest on testX: 0.8725745149029805
+---------------------------
+	numLearners = 116
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 117
+		Error made by randomForest on trainX: 0.10882176435287061
+		Accuracy of randomForest on trainX: 0.8911782356471294
+
+		Performing testing...
+		Error made by randomForest on testX: 0.11662332466493308
+		Accuracy of randomForest on testX: 0.8833766753350669
+---------------------------
+	numLearners = 118
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 119
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 120
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 121
+		Error made by randomForest on trainX: 0.10882176435287061
+		Accuracy of randomForest on trainX: 0.8911782356471294
+
+		Performing testing...
+		Error made by randomForest on testX: 0.11662332466493308
+		Accuracy of randomForest on testX: 0.8833766753350669
+---------------------------
+	numLearners = 122
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 123
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 124
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 125
+		Error made by randomForest on trainX: 0.11982396479295865
+		Accuracy of randomForest on trainX: 0.8801760352070414
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12542508501700333
+		Accuracy of randomForest on testX: 0.8745749149829967
+---------------------------
+	numLearners = 126
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 127
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 128
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 129
+		Error made by randomForest on trainX: 0.10882176435287061
+		Accuracy of randomForest on trainX: 0.8911782356471294
+
+		Performing testing...
+		Error made by randomForest on testX: 0.11662332466493308
+		Accuracy of randomForest on testX: 0.8833766753350669
+---------------------------
+	numLearners = 130
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 131
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 132
+		Error made by randomForest on trainX: 0.12102420484096821
+		Accuracy of randomForest on trainX: 0.8789757951590318
+
+		Performing testing...
+		Error made by randomForest on testX: 0.1256251250250051
+		Accuracy of randomForest on testX: 0.8743748749749949
+---------------------------
+	numLearners = 133
+		Error made by randomForest on trainX: 0.11842368473694742
+		Accuracy of randomForest on trainX: 0.8815763152630526
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12722544508901779
+		Accuracy of randomForest on testX: 0.8727745549109822
+---------------------------
+	numLearners = 134
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 135
+		Error made by randomForest on trainX: 0.11842368473694742
+		Accuracy of randomForest on trainX: 0.8815763152630526
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12722544508901779
+		Accuracy of randomForest on testX: 0.8727745549109822
+---------------------------
+	numLearners = 136
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 137
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 138
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 139
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 140
+		Error made by randomForest on trainX: 0.10882176435287061
+		Accuracy of randomForest on trainX: 0.8911782356471294
+
+		Performing testing...
+		Error made by randomForest on testX: 0.11662332466493308
+		Accuracy of randomForest on testX: 0.8833766753350669
+---------------------------
+	numLearners = 141
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 142
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 143
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 144
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 145
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 146
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 147
+		Error made by randomForest on trainX: 0.11762352470494108
+		Accuracy of randomForest on trainX: 0.8823764752950589
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12262452490498099
+		Accuracy of randomForest on testX: 0.877375475095019
+---------------------------
+	numLearners = 148
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 149
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 150
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+(train data) => Best numLearners = 140
+Error = 0.10882176435287061
+BestAccuracy = 0.8911782356471294
+(test data) => Best numLearners = 140
+Error = 0.11662332466493308
+BestAccuracy = 0.8833766753350669
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+numAttrs = 4
+	numLearners = 1
+		Error made by randomForest on trainX: 0.10602120424084815
+		Accuracy of randomForest on trainX: 0.8939787957591518
+
+		Performing testing...
+		Error made by randomForest on testX: 0.1114222844568914
+		Accuracy of randomForest on testX: 0.8885777155431086
+---------------------------
+	numLearners = 2
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 3
+		Error made by randomForest on trainX: 0.12022404480896176
+		Accuracy of randomForest on trainX: 0.8797759551910382
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 4
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 5
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 6
+		Error made by randomForest on trainX: 0.11122224444888973
+		Accuracy of randomForest on trainX: 0.8887777555511103
+
+		Performing testing...
+		Error made by randomForest on testX: 0.11942388477695531
+		Accuracy of randomForest on testX: 0.8805761152230447
+---------------------------
+	numLearners = 7
+		Error made by randomForest on trainX: 0.12082416483296665
+		Accuracy of randomForest on trainX: 0.8791758351670333
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12742548509701934
+		Accuracy of randomForest on testX: 0.8725745149029807
+---------------------------
+	numLearners = 8
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 9
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 10
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 11
+		Error made by randomForest on trainX: 0.12542508501700333
+		Accuracy of randomForest on trainX: 0.8745749149829967
+
+		Performing testing...
+		Error made by randomForest on testX: 0.13522704540908181
+		Accuracy of randomForest on testX: 0.8647729545909182
+---------------------------
+	numLearners = 12
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 13
+		Error made by randomForest on trainX: 0.11482296459291863
+		Accuracy of randomForest on trainX: 0.8851770354070814
+
+		Performing testing...
+		Error made by randomForest on testX: 0.127625525105021
+		Accuracy of randomForest on testX: 0.872374474894979
+---------------------------
+	numLearners = 14
+		Error made by randomForest on trainX: 0.12042408481696343
+		Accuracy of randomForest on trainX: 0.8795759151830366
+
+		Performing testing...
+		Error made by randomForest on testX: 0.13002600520104024
+		Accuracy of randomForest on testX: 0.8699739947989598
+---------------------------
+	numLearners = 15
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 16
+		Error made by randomForest on trainX: 0.11362272454490907
+		Accuracy of randomForest on trainX: 0.8863772754550909
+
+		Performing testing...
+		Error made by randomForest on testX: 0.125625125025005
+		Accuracy of randomForest on testX: 0.874374874974995
+---------------------------
+	numLearners = 17
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 18
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 19
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 20
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 21
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 22
+		Error made by randomForest on trainX: 0.13242648529705936
+		Accuracy of randomForest on trainX: 0.8675735147029406
+
+		Performing testing...
+		Error made by randomForest on testX: 0.14162832566513306
+		Accuracy of randomForest on testX: 0.8583716743348669
+---------------------------
+	numLearners = 23
+		Error made by randomForest on trainX: 0.10762152430486105
+		Accuracy of randomForest on trainX: 0.892378475695139
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12022404480896176
+		Accuracy of randomForest on testX: 0.8797759551910382
+---------------------------
+	numLearners = 24
+		Error made by randomForest on trainX: 0.12222444488897777
+		Accuracy of randomForest on trainX: 0.8777755551110222
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12722544508901779
+		Accuracy of randomForest on testX: 0.8727745549109822
+---------------------------
+	numLearners = 25
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 26
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 27
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 28
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 29
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 30
+		Error made by randomForest on trainX: 0.11762352470494097
+		Accuracy of randomForest on trainX: 0.882376475295059
+
+		Performing testing...
+		Error made by randomForest on testX: 0.125625125025005
+		Accuracy of randomForest on testX: 0.874374874974995
+---------------------------
+	numLearners = 31
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 32
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 33
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 34
+		Error made by randomForest on trainX: 0.1078215643128626
+		Accuracy of randomForest on trainX: 0.8921784356871374
+
+		Performing testing...
+		Error made by randomForest on testX: 0.11622324464892975
+		Accuracy of randomForest on testX: 0.8837767553510703
+---------------------------
+	numLearners = 35
+		Error made by randomForest on trainX: 0.11022204440888173
+		Accuracy of randomForest on trainX: 0.8897779555911183
+
+		Performing testing...
+		Error made by randomForest on testX: 0.1144228845769154
+		Accuracy of randomForest on testX: 0.8855771154230846
+---------------------------
+	numLearners = 36
+		Error made by randomForest on trainX: 0.12202440488097621
+		Accuracy of randomForest on trainX: 0.8779755951190238
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12742548509701934
+		Accuracy of randomForest on testX: 0.8725745149029807
+---------------------------
+	numLearners = 37
+		Error made by randomForest on trainX: 0.11562312462492497
+		Accuracy of randomForest on trainX: 0.884376875375075
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12602520504100823
+		Accuracy of randomForest on testX: 0.8739747949589918
+---------------------------
+	numLearners = 38
+		Error made by randomForest on trainX: 0.10602120424084815
+		Accuracy of randomForest on trainX: 0.8939787957591518
+
+		Performing testing...
+		Error made by randomForest on testX: 0.1114222844568914
+		Accuracy of randomForest on testX: 0.8885777155431086
+---------------------------
+	numLearners = 39
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 40
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 41
+		Error made by randomForest on trainX: 0.1084216843368675
+		Accuracy of randomForest on trainX: 0.8915783156631325
+
+		Performing testing...
+		Error made by randomForest on testX: 0.11662332466493286
+		Accuracy of randomForest on testX: 0.8833766753350671
+---------------------------
+	numLearners = 42
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 43
+		Error made by randomForest on trainX: 0.128625725145029
+		Accuracy of randomForest on trainX: 0.871374274854971
+
+		Performing testing...
+		Error made by randomForest on testX: 0.13142628525705136
+		Accuracy of randomForest on testX: 0.8685737147429486
+---------------------------
+	numLearners = 44
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 45
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 46
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 47
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 48
+		Error made by randomForest on trainX: 0.1398279655931185
+		Accuracy of randomForest on trainX: 0.8601720344068815
+
+		Performing testing...
+		Error made by randomForest on testX: 0.14582916583316663
+		Accuracy of randomForest on testX: 0.8541708341668334
+---------------------------
+	numLearners = 49
+		Error made by randomForest on trainX: 0.19923984796959393
+		Accuracy of randomForest on trainX: 0.8007601520304061
+
+		Performing testing...
+		Error made by randomForest on testX: 0.20384076815363072
+		Accuracy of randomForest on testX: 0.7961592318463693
+---------------------------
+	numLearners = 50
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 51
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 52
+		Error made by randomForest on trainX: 0.11982396479295865
+		Accuracy of randomForest on trainX: 0.8801760352070414
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12622524504900978
+		Accuracy of randomForest on testX: 0.8737747549509902
+---------------------------
+	numLearners = 53
+		Error made by randomForest on trainX: 0.11822364472894575
+		Accuracy of randomForest on trainX: 0.8817763552710542
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12782556511302268
+		Accuracy of randomForest on testX: 0.8721744348869773
+---------------------------
+	numLearners = 54
+		Error made by randomForest on trainX: 0.12502500500100022
+		Accuracy of randomForest on trainX: 0.8749749949989998
+
+		Performing testing...
+		Error made by randomForest on testX: 0.1312262452490498
+		Accuracy of randomForest on testX: 0.8687737547509502
+---------------------------
+	numLearners = 55
+		Error made by randomForest on trainX: 0.10842168433686727
+		Accuracy of randomForest on trainX: 0.8915783156631327
+
+		Performing testing...
+		Error made by randomForest on testX: 0.1164232846569313
+		Accuracy of randomForest on testX: 0.8835767153430687
+---------------------------
+	numLearners = 56
+		Error made by randomForest on trainX: 0.11942388477695531
+		Accuracy of randomForest on trainX: 0.8805761152230447
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12582516503300667
+		Accuracy of randomForest on testX: 0.8741748349669933
+---------------------------
+	numLearners = 57
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 58
+		Error made by randomForest on trainX: 0.11762352470494097
+		Accuracy of randomForest on trainX: 0.882376475295059
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12522504500900178
+		Accuracy of randomForest on testX: 0.8747749549909982
+---------------------------
+	numLearners = 59
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 60
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 61
+		Error made by randomForest on trainX: 0.10942188437687528
+		Accuracy of randomForest on trainX: 0.8905781156231247
+
+		Performing testing...
+		Error made by randomForest on testX: 0.11662332466493297
+		Accuracy of randomForest on testX: 0.883376675335067
+---------------------------
+	numLearners = 62
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 63
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 64
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 65
+		Error made by randomForest on trainX: 0.1084216843368675
+		Accuracy of randomForest on trainX: 0.8915783156631325
+
+		Performing testing...
+		Error made by randomForest on testX: 0.11602320464092819
+		Accuracy of randomForest on testX: 0.8839767953590718
+---------------------------
+	numLearners = 66
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 67
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 68
+		Error made by randomForest on trainX: 0.12602520504100823
+		Accuracy of randomForest on trainX: 0.8739747949589918
+
+		Performing testing...
+		Error made by randomForest on testX: 0.1342268453690738
+		Accuracy of randomForest on testX: 0.8657731546309262
+---------------------------
+	numLearners = 69
+		Error made by randomForest on trainX: 0.13362672534506903
+		Accuracy of randomForest on trainX: 0.866373274654931
+
+		Performing testing...
+		Error made by randomForest on testX: 0.1398279655931186
+		Accuracy of randomForest on testX: 0.8601720344068814
+---------------------------
+	numLearners = 70
+		Error made by randomForest on trainX: 0.10842168433686727
+		Accuracy of randomForest on trainX: 0.8915783156631327
+
+		Performing testing...
+		Error made by randomForest on testX: 0.11682336467293464
+		Accuracy of randomForest on testX: 0.8831766353270654
+---------------------------
+	numLearners = 71
+		Error made by randomForest on trainX: 0.10962192438487695
+		Accuracy of randomForest on trainX: 0.890378075615123
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12322464492898577
+		Accuracy of randomForest on testX: 0.8767753550710142
+---------------------------
+	numLearners = 72
+		Error made by randomForest on trainX: 0.11882376475295053
+		Accuracy of randomForest on trainX: 0.8811762352470495
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12222444488897777
+		Accuracy of randomForest on testX: 0.8777755551110222
+---------------------------
+	numLearners = 73
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 74
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 75
+		Error made by randomForest on trainX: 0.11942388477695531
+		Accuracy of randomForest on trainX: 0.8805761152230447
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 76
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12502500500100022
+		Accuracy of randomForest on testX: 0.8749749949989998
+---------------------------
+	numLearners = 77
+		Error made by randomForest on trainX: 0.11422284456891374
+		Accuracy of randomForest on trainX: 0.8857771554310863
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12502500500100022
+		Accuracy of randomForest on testX: 0.8749749949989998
+---------------------------
+	numLearners = 78
+		Error made by randomForest on trainX: 0.12162432486497299
+		Accuracy of randomForest on trainX: 0.878375675135027
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 79
+		Error made by randomForest on trainX: 0.11042208441688328
+		Accuracy of randomForest on trainX: 0.8895779155831167
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12122424484896976
+		Accuracy of randomForest on testX: 0.8787757551510302
+---------------------------
+	numLearners = 80
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 81
+		Error made by randomForest on trainX: 0.1058211642328466
+		Accuracy of randomForest on trainX: 0.8941788357671534
+
+		Performing testing...
+		Error made by randomForest on testX: 0.11302260452090418
+		Accuracy of randomForest on testX: 0.8869773954790958
+---------------------------
+	numLearners = 82
+		Error made by randomForest on trainX: 0.1078215643128626
+		Accuracy of randomForest on trainX: 0.8921784356871374
+
+		Performing testing...
+		Error made by randomForest on testX: 0.11862372474494898
+		Accuracy of randomForest on testX: 0.881376275255051
+---------------------------
+	numLearners = 83
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 84
+		Error made by randomForest on trainX: 0.10662132426485293
+		Accuracy of randomForest on trainX: 0.8933786757351471
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12422484496899378
+		Accuracy of randomForest on testX: 0.8757751550310062
+---------------------------
+	numLearners = 85
+		Error made by randomForest on trainX: 0.13562712542508504
+		Accuracy of randomForest on trainX: 0.864372874574915
+
+		Performing testing...
+		Error made by randomForest on testX: 0.14482896579315863
+		Accuracy of randomForest on testX: 0.8551710342068414
+---------------------------
+	numLearners = 86
+		Error made by randomForest on trainX: 0.10882176435287061
+		Accuracy of randomForest on trainX: 0.8911782356471294
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12702540508101623
+		Accuracy of randomForest on testX: 0.8729745949189838
+---------------------------
+	numLearners = 87
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 88
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 89
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 90
+		Error made by randomForest on trainX: 0.11662332466493297
+		Accuracy of randomForest on trainX: 0.883376675335067
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12522504500900178
+		Accuracy of randomForest on testX: 0.8747749549909982
+---------------------------
+	numLearners = 91
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 92
+		Error made by randomForest on trainX: 0.10882176435287061
+		Accuracy of randomForest on trainX: 0.8911782356471294
+
+		Performing testing...
+		Error made by randomForest on testX: 0.11662332466493308
+		Accuracy of randomForest on testX: 0.8833766753350669
+---------------------------
+	numLearners = 93
+		Error made by randomForest on trainX: 0.12382476495299066
+		Accuracy of randomForest on trainX: 0.8761752350470093
+
+		Performing testing...
+		Error made by randomForest on testX: 0.13802760552110427
+		Accuracy of randomForest on testX: 0.8619723944788957
+---------------------------
+	numLearners = 94
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 95
+		Error made by randomForest on trainX: 0.1200240048009602
+		Accuracy of randomForest on trainX: 0.8799759951990398
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12642528505701145
+		Accuracy of randomForest on testX: 0.8735747149429886
+---------------------------
+	numLearners = 96
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 97
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 98
+		Error made by randomForest on trainX: 0.14022804560912183
+		Accuracy of randomForest on trainX: 0.8597719543908782
+
+		Performing testing...
+		Error made by randomForest on testX: 0.14662932586517297
+		Accuracy of randomForest on testX: 0.853370674134827
+---------------------------
+	numLearners = 99
+		Error made by randomForest on trainX: 0.11182236447289462
+		Accuracy of randomForest on trainX: 0.8881776355271054
+
+		Performing testing...
+		Error made by randomForest on testX: 0.11782356471294264
+		Accuracy of randomForest on testX: 0.8821764352870574
+---------------------------
+	numLearners = 100
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 101
+		Error made by randomForest on trainX: 0.10662132426485293
+		Accuracy of randomForest on trainX: 0.8933786757351471
+
+		Performing testing...
+		Error made by randomForest on testX: 0.11322264452890585
+		Accuracy of randomForest on testX: 0.8867773554710942
+---------------------------
+	numLearners = 102
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 103
+		Error made by randomForest on trainX: 0.12182436487297466
+		Accuracy of randomForest on trainX: 0.8781756351270253
+
+		Performing testing...
+		Error made by randomForest on testX: 0.13102620524104824
+		Accuracy of randomForest on testX: 0.8689737947589518
+---------------------------
+	numLearners = 104
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 105
+		Error made by randomForest on trainX: 0.10862172434486894
+		Accuracy of randomForest on trainX: 0.8913782756551311
+
+		Performing testing...
+		Error made by randomForest on testX: 0.11882376475295064
+		Accuracy of randomForest on testX: 0.8811762352470494
+---------------------------
+	numLearners = 106
+		Error made by randomForest on trainX: 0.12242448489697932
+		Accuracy of randomForest on trainX: 0.8775755151030207
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12782556511302268
+		Accuracy of randomForest on testX: 0.8721744348869773
+---------------------------
+	numLearners = 107
+		Error made by randomForest on trainX: 0.11642328465693141
+		Accuracy of randomForest on trainX: 0.8835767153430686
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12342468493698733
+		Accuracy of randomForest on testX: 0.8765753150630127
+---------------------------
+	numLearners = 108
+		Error made by randomForest on trainX: 0.11942388477695531
+		Accuracy of randomForest on trainX: 0.8805761152230447
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12502500500100022
+		Accuracy of randomForest on testX: 0.8749749949989998
+---------------------------
+	numLearners = 109
+		Error made by randomForest on trainX: 0.1200240048009602
+		Accuracy of randomForest on trainX: 0.8799759951990398
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12662532506501312
+		Accuracy of randomForest on testX: 0.8733746749349869
+---------------------------
+	numLearners = 110
+		Error made by randomForest on trainX: 0.11102220444088817
+		Accuracy of randomForest on trainX: 0.8889777955591118
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12022404480896176
+		Accuracy of randomForest on testX: 0.8797759551910382
+---------------------------
+	numLearners = 111
+		Error made by randomForest on trainX: 0.1068213642728546
+		Accuracy of randomForest on trainX: 0.8931786357271454
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12082416483296665
+		Accuracy of randomForest on testX: 0.8791758351670333
+---------------------------
+	numLearners = 112
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 113
+		Error made by randomForest on trainX: 0.1200240048009602
+		Accuracy of randomForest on trainX: 0.8799759951990398
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12442488497699533
+		Accuracy of randomForest on testX: 0.8755751150230047
+---------------------------
+	numLearners = 114
+		Error made by randomForest on trainX: 0.12082416483296665
+		Accuracy of randomForest on trainX: 0.8791758351670333
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12582516503300667
+		Accuracy of randomForest on testX: 0.8741748349669933
+---------------------------
+	numLearners = 115
+		Error made by randomForest on trainX: 0.12102420484096821
+		Accuracy of randomForest on trainX: 0.8789757951590318
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12602520504100823
+		Accuracy of randomForest on testX: 0.8739747949589918
+---------------------------
+	numLearners = 116
+		Error made by randomForest on trainX: 0.10722144428885771
+		Accuracy of randomForest on trainX: 0.8927785557111423
+
+		Performing testing...
+		Error made by randomForest on testX: 0.11402280456091218
+		Accuracy of randomForest on testX: 0.8859771954390878
+---------------------------
+	numLearners = 117
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 118
+		Error made by randomForest on trainX: 0.12382476495299066
+		Accuracy of randomForest on trainX: 0.8761752350470093
+
+		Performing testing...
+		Error made by randomForest on testX: 0.13242648529705936
+		Accuracy of randomForest on testX: 0.8675735147029406
+---------------------------
+	numLearners = 119
+		Error made by randomForest on trainX: 0.10882176435287061
+		Accuracy of randomForest on trainX: 0.8911782356471294
+
+		Performing testing...
+		Error made by randomForest on testX: 0.11662332466493308
+		Accuracy of randomForest on testX: 0.8833766753350669
+---------------------------
+	numLearners = 120
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 121
+		Error made by randomForest on trainX: 0.1200240048009602
+		Accuracy of randomForest on trainX: 0.8799759951990398
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12702540508101623
+		Accuracy of randomForest on testX: 0.8729745949189838
+---------------------------
+	numLearners = 122
+		Error made by randomForest on trainX: 0.11622324464892975
+		Accuracy of randomForest on trainX: 0.8837767553510703
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12982596519303868
+		Accuracy of randomForest on testX: 0.8701740348069613
+---------------------------
+	numLearners = 123
+		Error made by randomForest on trainX: 0.10922184436887372
+		Accuracy of randomForest on trainX: 0.8907781556311263
+
+		Performing testing...
+		Error made by randomForest on testX: 0.11722344468893775
+		Accuracy of randomForest on testX: 0.8827765553110622
+---------------------------
+	numLearners = 124
+		Error made by randomForest on trainX: 0.1226245249049811
+		Accuracy of randomForest on trainX: 0.8773754750950189
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12842568513702735
+		Accuracy of randomForest on testX: 0.8715743148629727
+---------------------------
+	numLearners = 125
+		Error made by randomForest on trainX: 0.12042408481696332
+		Accuracy of randomForest on trainX: 0.8795759151830367
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12622524504900978
+		Accuracy of randomForest on testX: 0.8737747549509902
+---------------------------
+	numLearners = 126
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 127
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 128
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 129
+		Error made by randomForest on trainX: 0.10602120424084815
+		Accuracy of randomForest on trainX: 0.8939787957591518
+
+		Performing testing...
+		Error made by randomForest on testX: 0.11602320464092819
+		Accuracy of randomForest on testX: 0.8839767953590718
+---------------------------
+	numLearners = 130
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 131
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 132
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 133
+		Error made by randomForest on trainX: 0.12582516503300667
+		Accuracy of randomForest on trainX: 0.8741748349669933
+
+		Performing testing...
+		Error made by randomForest on testX: 0.1450290058011603
+		Accuracy of randomForest on testX: 0.8549709941988397
+---------------------------
+	numLearners = 134
+		Error made by randomForest on trainX: 0.10882176435287061
+		Accuracy of randomForest on trainX: 0.8911782356471294
+
+		Performing testing...
+		Error made by randomForest on testX: 0.1190238047609522
+		Accuracy of randomForest on testX: 0.8809761952390478
+---------------------------
+	numLearners = 135
+		Error made by randomForest on trainX: 0.11642328465693141
+		Accuracy of randomForest on trainX: 0.8835767153430686
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 136
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 137
+		Error made by randomForest on trainX: 0.12642528505701134
+		Accuracy of randomForest on trainX: 0.8735747149429887
+
+		Performing testing...
+		Error made by randomForest on testX: 0.128625725145029
+		Accuracy of randomForest on testX: 0.871374274854971
+---------------------------
+	numLearners = 138
+		Error made by randomForest on trainX: 0.11882376475295064
+		Accuracy of randomForest on trainX: 0.8811762352470494
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12522504500900178
+		Accuracy of randomForest on testX: 0.8747749549909982
+---------------------------
+	numLearners = 139
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 140
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 141
+		Error made by randomForest on trainX: 0.12142428485697132
+		Accuracy of randomForest on trainX: 0.8785757151430287
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12842568513702735
+		Accuracy of randomForest on testX: 0.8715743148629727
+---------------------------
+	numLearners = 142
+		Error made by randomForest on trainX: 0.1134226845369074
+		Accuracy of randomForest on trainX: 0.8865773154630926
+
+		Performing testing...
+		Error made by randomForest on testX: 0.11542308461692341
+		Accuracy of randomForest on testX: 0.8845769153830766
+---------------------------
+	numLearners = 143
+		Error made by randomForest on trainX: 0.12122424484896976
+		Accuracy of randomForest on trainX: 0.8787757551510302
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12502500500100022
+		Accuracy of randomForest on testX: 0.8749749949989998
+---------------------------
+	numLearners = 144
+		Error made by randomForest on trainX: 0.12382476495299055
+		Accuracy of randomForest on trainX: 0.8761752350470094
+
+		Performing testing...
+		Error made by randomForest on testX: 0.13042608521704335
+		Accuracy of randomForest on testX: 0.8695739147829566
+---------------------------
+	numLearners = 145
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 146
+		Error made by randomForest on trainX: 0.11942388477695531
+		Accuracy of randomForest on trainX: 0.8805761152230447
+
+		Performing testing...
+		Error made by randomForest on testX: 0.128625725145029
+		Accuracy of randomForest on testX: 0.871374274854971
+---------------------------
+	numLearners = 147
+		Error made by randomForest on trainX: 0.1226245249049811
+		Accuracy of randomForest on trainX: 0.8773754750950189
+
+		Performing testing...
+		Error made by randomForest on testX: 0.128625725145029
+		Accuracy of randomForest on testX: 0.871374274854971
+---------------------------
+	numLearners = 148
+		Error made by randomForest on trainX: 0.12202440488097621
+		Accuracy of randomForest on trainX: 0.8779755951190238
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12942588517703535
+		Accuracy of randomForest on testX: 0.8705741148229647
+---------------------------
+	numLearners = 149
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 150
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+(train data) => Best numLearners = 81
+Error = 0.1058211642328466
+BestAccuracy = 0.8941788357671534
+(test data) => Best numLearners = 38
+Error = 0.1114222844568914
+BestAccuracy = 0.8885777155431086
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+numAttrs = 6
+	numLearners = 1
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 2
+		Error made by randomForest on trainX: 0.12062412482496487
+		Accuracy of randomForest on trainX: 0.8793758751750351
+
+		Performing testing...
+		Error made by randomForest on testX: 0.13562712542508493
+		Accuracy of randomForest on testX: 0.8643728745749151
+---------------------------
+	numLearners = 3
+		Error made by randomForest on trainX: 0.10822164432886572
+		Accuracy of randomForest on trainX: 0.8917783556711343
+
+		Performing testing...
+		Error made by randomForest on testX: 0.11882376475295064
+		Accuracy of randomForest on testX: 0.8811762352470494
+---------------------------
+	numLearners = 4
+		Error made by randomForest on trainX: 0.1032206441288257
+		Accuracy of randomForest on trainX: 0.8967793558711743
+
+		Performing testing...
+		Error made by randomForest on testX: 0.13002600520104024
+		Accuracy of randomForest on testX: 0.8699739947989598
+---------------------------
+	numLearners = 5
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 6
+		Error made by randomForest on trainX: 0.11642328465693141
+		Accuracy of randomForest on trainX: 0.8835767153430686
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12802560512102423
+		Accuracy of randomForest on testX: 0.8719743948789758
+---------------------------
+	numLearners = 7
+		Error made by randomForest on trainX: 0.10662132426485293
+		Accuracy of randomForest on trainX: 0.8933786757351471
+
+		Performing testing...
+		Error made by randomForest on testX: 0.14482896579315874
+		Accuracy of randomForest on testX: 0.8551710342068413
+---------------------------
+	numLearners = 8
+		Error made by randomForest on trainX: 0.11282256451290262
+		Accuracy of randomForest on trainX: 0.8871774354870974
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12062412482496487
+		Accuracy of randomForest on testX: 0.8793758751750351
+---------------------------
+	numLearners = 9
+		Error made by randomForest on trainX: 0.11242248449689929
+		Accuracy of randomForest on trainX: 0.8875775155031007
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12542508501700345
+		Accuracy of randomForest on testX: 0.8745749149829966
+---------------------------
+	numLearners = 10
+		Error made by randomForest on trainX: 0.12642528505701134
+		Accuracy of randomForest on trainX: 0.8735747149429887
+
+		Performing testing...
+		Error made by randomForest on testX: 0.13742748549709938
+		Accuracy of randomForest on testX: 0.8625725145029006
+---------------------------
+	numLearners = 11
+		Error made by randomForest on trainX: 0.14402880576115218
+		Accuracy of randomForest on trainX: 0.8559711942388478
+
+		Performing testing...
+		Error made by randomForest on testX: 0.1470294058811763
+		Accuracy of randomForest on testX: 0.8529705941188237
+---------------------------
+	numLearners = 12
+		Error made by randomForest on trainX: 0.11482296459291863
+		Accuracy of randomForest on trainX: 0.8851770354070814
+
+		Performing testing...
+		Error made by randomForest on testX: 0.14062812562512506
+		Accuracy of randomForest on testX: 0.8593718743748749
+---------------------------
+	numLearners = 13
+		Error made by randomForest on trainX: 0.10982196439287861
+		Accuracy of randomForest on trainX: 0.8901780356071214
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12602520504100823
+		Accuracy of randomForest on testX: 0.8739747949589918
+---------------------------
+	numLearners = 14
+		Error made by randomForest on trainX: 0.10942188437687539
+		Accuracy of randomForest on trainX: 0.8905781156231246
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12522504500900178
+		Accuracy of randomForest on testX: 0.8747749549909982
+---------------------------
+	numLearners = 15
+		Error made by randomForest on trainX: 0.12042408481696332
+		Accuracy of randomForest on trainX: 0.8795759151830367
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12882576515303068
+		Accuracy of randomForest on testX: 0.8711742348469693
+---------------------------
+	numLearners = 16
+		Error made by randomForest on trainX: 0.11422284456891385
+		Accuracy of randomForest on trainX: 0.8857771554310861
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12442488497699533
+		Accuracy of randomForest on testX: 0.8755751150230047
+---------------------------
+	numLearners = 17
+		Error made by randomForest on trainX: 0.12222444488897777
+		Accuracy of randomForest on trainX: 0.8777755551110222
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12782556511302268
+		Accuracy of randomForest on testX: 0.8721744348869773
+---------------------------
+	numLearners = 18
+		Error made by randomForest on trainX: 0.10922184436887372
+		Accuracy of randomForest on trainX: 0.8907781556311263
+
+		Performing testing...
+		Error made by randomForest on testX: 0.11762352470494097
+		Accuracy of randomForest on testX: 0.882376475295059
+---------------------------
+	numLearners = 19
+		Error made by randomForest on trainX: 0.13642728545709137
+		Accuracy of randomForest on trainX: 0.8635727145429086
+
+		Performing testing...
+		Error made by randomForest on testX: 0.14322864572914584
+		Accuracy of randomForest on testX: 0.8567713542708542
+---------------------------
+	numLearners = 20
+		Error made by randomForest on trainX: 0.12282456491298266
+		Accuracy of randomForest on trainX: 0.8771754350870173
+
+		Performing testing...
+		Error made by randomForest on testX: 0.13142628525705136
+		Accuracy of randomForest on testX: 0.8685737147429486
+---------------------------
+	numLearners = 21
+		Error made by randomForest on trainX: 0.11942388477695531
+		Accuracy of randomForest on trainX: 0.8805761152230447
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12802560512102423
+		Accuracy of randomForest on testX: 0.8719743948789758
+---------------------------
+	numLearners = 22
+		Error made by randomForest on trainX: 0.12882576515303057
+		Accuracy of randomForest on trainX: 0.8711742348469694
+
+		Performing testing...
+		Error made by randomForest on testX: 0.14942988597719553
+		Accuracy of randomForest on testX: 0.8505701140228045
+---------------------------
+	numLearners = 23
+		Error made by randomForest on trainX: 0.10822164432886594
+		Accuracy of randomForest on trainX: 0.8917783556711341
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 24
+		Error made by randomForest on trainX: 0.16243248649729947
+		Accuracy of randomForest on trainX: 0.8375675135027005
+
+		Performing testing...
+		Error made by randomForest on testX: 0.16723344668933793
+		Accuracy of randomForest on testX: 0.8327665533106621
+---------------------------
+	numLearners = 25
+		Error made by randomForest on trainX: 0.10902180436087217
+		Accuracy of randomForest on trainX: 0.8909781956391278
+
+		Performing testing...
+		Error made by randomForest on testX: 0.1174234846969393
+		Accuracy of randomForest on testX: 0.8825765153030607
+---------------------------
+	numLearners = 26
+		Error made by randomForest on trainX: 0.124624924984997
+		Accuracy of randomForest on trainX: 0.875375075015003
+
+		Performing testing...
+		Error made by randomForest on testX: 0.1302260452090418
+		Accuracy of randomForest on testX: 0.8697739547909582
+---------------------------
+	numLearners = 27
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.1256251250250051
+		Accuracy of randomForest on testX: 0.8743748749749949
+---------------------------
+	numLearners = 28
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.125625125025005
+		Accuracy of randomForest on testX: 0.874374874974995
+---------------------------
+	numLearners = 29
+		Error made by randomForest on trainX: 0.11502300460092019
+		Accuracy of randomForest on trainX: 0.8849769953990798
+
+		Performing testing...
+		Error made by randomForest on testX: 0.1190238047609522
+		Accuracy of randomForest on testX: 0.8809761952390478
+---------------------------
+	numLearners = 30
+		Error made by randomForest on trainX: 0.12042408481696343
+		Accuracy of randomForest on trainX: 0.8795759151830366
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12722544508901779
+		Accuracy of randomForest on testX: 0.8727745549109822
+---------------------------
+	numLearners = 31
+		Error made by randomForest on trainX: 0.14162832566513306
+		Accuracy of randomForest on trainX: 0.8583716743348669
+
+		Performing testing...
+		Error made by randomForest on testX: 0.15343068613722743
+		Accuracy of randomForest on testX: 0.8465693138627726
+---------------------------
+	numLearners = 32
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 33
+		Error made by randomForest on trainX: 0.11502300460092019
+		Accuracy of randomForest on trainX: 0.8849769953990798
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12442488497699533
+		Accuracy of randomForest on testX: 0.8755751150230047
+---------------------------
+	numLearners = 34
+		Error made by randomForest on trainX: 0.12262452490498099
+		Accuracy of randomForest on trainX: 0.877375475095019
+
+		Performing testing...
+		Error made by randomForest on testX: 0.1322264452890578
+		Accuracy of randomForest on testX: 0.8677735547109422
+---------------------------
+	numLearners = 35
+		Error made by randomForest on trainX: 0.11862372474494909
+		Accuracy of randomForest on trainX: 0.8813762752550509
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12642528505701134
+		Accuracy of randomForest on testX: 0.8735747149429887
+---------------------------
+	numLearners = 36
+		Error made by randomForest on trainX: 0.10162032406481303
+		Accuracy of randomForest on trainX: 0.898379675935187
+
+		Performing testing...
+		Error made by randomForest on testX: 0.1170234046809362
+		Accuracy of randomForest on testX: 0.8829765953190638
+---------------------------
+	numLearners = 37
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 38
+		Error made by randomForest on trainX: 0.12042408481696343
+		Accuracy of randomForest on trainX: 0.8795759151830366
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12622524504900978
+		Accuracy of randomForest on testX: 0.8737747549509902
+---------------------------
+	numLearners = 39
+		Error made by randomForest on trainX: 0.09981996399279858
+		Accuracy of randomForest on trainX: 0.9001800360072014
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 40
+		Error made by randomForest on trainX: 0.12482496499299867
+		Accuracy of randomForest on trainX: 0.8751750350070013
+
+		Performing testing...
+		Error made by randomForest on testX: 0.13642728545709149
+		Accuracy of randomForest on testX: 0.8635727145429085
+---------------------------
+	numLearners = 41
+		Error made by randomForest on trainX: 0.12042408481696332
+		Accuracy of randomForest on trainX: 0.8795759151830367
+
+		Performing testing...
+		Error made by randomForest on testX: 0.13262652530506092
+		Accuracy of randomForest on testX: 0.8673734746949391
+---------------------------
+	numLearners = 42
+		Error made by randomForest on trainX: 0.11002200440088017
+		Accuracy of randomForest on trainX: 0.8899779955991198
+
+		Performing testing...
+		Error made by randomForest on testX: 0.14462892578515696
+		Accuracy of randomForest on testX: 0.855371074214843
+---------------------------
+	numLearners = 43
+		Error made by randomForest on trainX: 0.11862372474494898
+		Accuracy of randomForest on trainX: 0.881376275255051
+
+		Performing testing...
+		Error made by randomForest on testX: 0.1282256451290258
+		Accuracy of randomForest on testX: 0.8717743548709742
+---------------------------
+	numLearners = 44
+		Error made by randomForest on trainX: 0.11002200440088017
+		Accuracy of randomForest on trainX: 0.8899779955991198
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12642528505701134
+		Accuracy of randomForest on testX: 0.8735747149429887
+---------------------------
+	numLearners = 45
+		Error made by randomForest on trainX: 0.10282056411282259
+		Accuracy of randomForest on trainX: 0.8971794358871774
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12442488497699533
+		Accuracy of randomForest on testX: 0.8755751150230047
+---------------------------
+	numLearners = 46
+		Error made by randomForest on trainX: 0.1316263252650529
+		Accuracy of randomForest on trainX: 0.8683736747349471
+
+		Performing testing...
+		Error made by randomForest on testX: 0.13842768553710738
+		Accuracy of randomForest on testX: 0.8615723144628926
+---------------------------
+	numLearners = 47
+		Error made by randomForest on trainX: 0.09781956391278257
+		Accuracy of randomForest on trainX: 0.9021804360872174
+
+		Performing testing...
+		Error made by randomForest on testX: 0.13882776555311072
+		Accuracy of randomForest on testX: 0.8611722344468893
+---------------------------
+	numLearners = 48
+		Error made by randomForest on trainX: 0.1200240048009602
+		Accuracy of randomForest on trainX: 0.8799759951990398
+
+		Performing testing...
+		Error made by randomForest on testX: 0.1282256451290259
+		Accuracy of randomForest on testX: 0.8717743548709741
+---------------------------
+	numLearners = 49
+		Error made by randomForest on trainX: 0.10802160432086416
+		Accuracy of randomForest on trainX: 0.8919783956791358
+
+		Performing testing...
+		Error made by randomForest on testX: 0.11622324464892986
+		Accuracy of randomForest on testX: 0.8837767553510701
+---------------------------
+	numLearners = 50
+		Error made by randomForest on trainX: 0.11862372474494887
+		Accuracy of randomForest on trainX: 0.8813762752550511
+
+		Performing testing...
+		Error made by randomForest on testX: 0.1316263252650529
+		Accuracy of randomForest on testX: 0.8683736747349471
+---------------------------
+	numLearners = 51
+		Error made by randomForest on trainX: 0.15903180636127234
+		Accuracy of randomForest on trainX: 0.8409681936387277
+
+		Performing testing...
+		Error made by randomForest on testX: 0.17263452690538106
+		Accuracy of randomForest on testX: 0.8273654730946189
+---------------------------
+	numLearners = 52
+		Error made by randomForest on trainX: 0.10762152430486094
+		Accuracy of randomForest on trainX: 0.8923784756951391
+
+		Performing testing...
+		Error made by randomForest on testX: 0.11742348469693942
+		Accuracy of randomForest on testX: 0.8825765153030606
+---------------------------
+	numLearners = 53
+		Error made by randomForest on trainX: 0.13862772554510905
+		Accuracy of randomForest on trainX: 0.861372274454891
+
+		Performing testing...
+		Error made by randomForest on testX: 0.13902780556111227
+		Accuracy of randomForest on testX: 0.8609721944388877
+---------------------------
+	numLearners = 54
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 55
+		Error made by randomForest on trainX: 0.11982396479295865
+		Accuracy of randomForest on trainX: 0.8801760352070414
+
+		Performing testing...
+		Error made by randomForest on testX: 0.1302260452090419
+		Accuracy of randomForest on testX: 0.8697739547909581
+---------------------------
+	numLearners = 56
+		Error made by randomForest on trainX: 0.10262052410482103
+		Accuracy of randomForest on trainX: 0.897379475895179
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12162432486497299
+		Accuracy of randomForest on testX: 0.878375675135027
+---------------------------
+	numLearners = 57
+		Error made by randomForest on trainX: 0.10342068413682748
+		Accuracy of randomForest on trainX: 0.8965793158631725
+
+		Performing testing...
+		Error made by randomForest on testX: 0.11682336467293464
+		Accuracy of randomForest on testX: 0.8831766353270654
+---------------------------
+	numLearners = 58
+		Error made by randomForest on trainX: 0.20484096819363873
+		Accuracy of randomForest on trainX: 0.7951590318063613
+
+		Performing testing...
+		Error made by randomForest on testX: 0.21344268853770754
+		Accuracy of randomForest on testX: 0.7865573114622925
+---------------------------
+	numLearners = 59
+		Error made by randomForest on trainX: 0.11682336467293464
+		Accuracy of randomForest on trainX: 0.8831766353270654
+
+		Performing testing...
+		Error made by randomForest on testX: 0.13562712542508493
+		Accuracy of randomForest on testX: 0.8643728745749151
+---------------------------
+	numLearners = 60
+		Error made by randomForest on trainX: 0.10842168433686739
+		Accuracy of randomForest on trainX: 0.8915783156631326
+
+		Performing testing...
+		Error made by randomForest on testX: 0.11562312462492497
+		Accuracy of randomForest on testX: 0.884376875375075
+---------------------------
+	numLearners = 61
+		Error made by randomForest on trainX: 0.12582516503300667
+		Accuracy of randomForest on trainX: 0.8741748349669933
+
+		Performing testing...
+		Error made by randomForest on testX: 0.1450290058011603
+		Accuracy of randomForest on testX: 0.8549709941988397
+---------------------------
+	numLearners = 62
+		Error made by randomForest on trainX: 0.10962192438487706
+		Accuracy of randomForest on trainX: 0.8903780756151229
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12202440488097621
+		Accuracy of randomForest on testX: 0.8779755951190238
+---------------------------
+	numLearners = 63
+		Error made by randomForest on trainX: 0.10342068413682737
+		Accuracy of randomForest on trainX: 0.8965793158631726
+
+		Performing testing...
+		Error made by randomForest on testX: 0.11322264452890574
+		Accuracy of randomForest on testX: 0.8867773554710943
+---------------------------
+	numLearners = 64
+		Error made by randomForest on trainX: 0.10702140428085616
+		Accuracy of randomForest on trainX: 0.8929785957191438
+
+		Performing testing...
+		Error made by randomForest on testX: 0.13242648529705936
+		Accuracy of randomForest on testX: 0.8675735147029406
+---------------------------
+	numLearners = 65
+		Error made by randomForest on trainX: 0.09941988397679535
+		Accuracy of randomForest on trainX: 0.9005801160232046
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12062412482496487
+		Accuracy of randomForest on testX: 0.8793758751750351
+---------------------------
+	numLearners = 66
+		Error made by randomForest on trainX: 0.14762952590518097
+		Accuracy of randomForest on trainX: 0.852370474094819
+
+		Performing testing...
+		Error made by randomForest on testX: 0.15243048609721943
+		Accuracy of randomForest on testX: 0.8475695139027806
+---------------------------
+	numLearners = 67
+		Error made by randomForest on trainX: 0.09781956391278257
+		Accuracy of randomForest on trainX: 0.9021804360872174
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12182436487297466
+		Accuracy of randomForest on testX: 0.8781756351270253
+---------------------------
+	numLearners = 68
+		Error made by randomForest on trainX: 0.11202240448089618
+		Accuracy of randomForest on trainX: 0.8879775955191038
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12222444488897777
+		Accuracy of randomForest on testX: 0.8777755551110222
+---------------------------
+	numLearners = 69
+		Error made by randomForest on trainX: 0.1078215643128626
+		Accuracy of randomForest on trainX: 0.8921784356871374
+
+		Performing testing...
+		Error made by randomForest on testX: 0.11602320464092819
+		Accuracy of randomForest on testX: 0.8839767953590718
+---------------------------
+	numLearners = 70
+		Error made by randomForest on trainX: 0.12102420484096821
+		Accuracy of randomForest on trainX: 0.8789757951590318
+
+		Performing testing...
+		Error made by randomForest on testX: 0.126625325065013
+		Accuracy of randomForest on testX: 0.873374674934987
+---------------------------
+	numLearners = 71
+		Error made by randomForest on trainX: 0.11382276455291052
+		Accuracy of randomForest on trainX: 0.8861772354470895
+
+		Performing testing...
+		Error made by randomForest on testX: 0.11922384476895376
+		Accuracy of randomForest on testX: 0.8807761552310462
+---------------------------
+	numLearners = 72
+		Error made by randomForest on trainX: 0.10462092418483704
+		Accuracy of randomForest on trainX: 0.895379075815163
+
+		Performing testing...
+		Error made by randomForest on testX: 0.1174234846969393
+		Accuracy of randomForest on testX: 0.8825765153030607
+---------------------------
+	numLearners = 73
+		Error made by randomForest on trainX: 0.10882176435287061
+		Accuracy of randomForest on trainX: 0.8911782356471294
+
+		Performing testing...
+		Error made by randomForest on testX: 0.1374274854970995
+		Accuracy of randomForest on testX: 0.8625725145029005
+---------------------------
+	numLearners = 74
+		Error made by randomForest on trainX: 0.11962392478495709
+		Accuracy of randomForest on trainX: 0.8803760752150429
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12742548509701934
+		Accuracy of randomForest on testX: 0.8725745149029807
+---------------------------
+	numLearners = 75
+		Error made by randomForest on trainX: 0.10922184436887383
+		Accuracy of randomForest on trainX: 0.8907781556311262
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12902580516103224
+		Accuracy of randomForest on testX: 0.8709741948389678
+---------------------------
+	numLearners = 76
+		Error made by randomForest on trainX: 0.1800360072014402
+		Accuracy of randomForest on trainX: 0.8199639927985598
+
+		Performing testing...
+		Error made by randomForest on testX: 0.18383676735347065
+		Accuracy of randomForest on testX: 0.8161632326465293
+---------------------------
+	numLearners = 77
+		Error made by randomForest on trainX: 0.11422284456891374
+		Accuracy of randomForest on trainX: 0.8857771554310863
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12342468493698733
+		Accuracy of randomForest on testX: 0.8765753150630127
+---------------------------
+	numLearners = 78
+		Error made by randomForest on trainX: 0.12182436487297466
+		Accuracy of randomForest on trainX: 0.8781756351270253
+
+		Performing testing...
+		Error made by randomForest on testX: 0.13362672534506903
+		Accuracy of randomForest on testX: 0.866373274654931
+---------------------------
+	numLearners = 79
+		Error made by randomForest on trainX: 0.11462292458491707
+		Accuracy of randomForest on trainX: 0.8853770754150829
+
+		Performing testing...
+		Error made by randomForest on testX: 0.13002600520104024
+		Accuracy of randomForest on testX: 0.8699739947989598
+---------------------------
+	numLearners = 80
+		Error made by randomForest on trainX: 0.11462292458491685
+		Accuracy of randomForest on trainX: 0.8853770754150831
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12342468493698733
+		Accuracy of randomForest on testX: 0.8765753150630127
+---------------------------
+	numLearners = 81
+		Error made by randomForest on trainX: 0.12122424484896976
+		Accuracy of randomForest on trainX: 0.8787757551510302
+
+		Performing testing...
+		Error made by randomForest on testX: 0.1292258451690338
+		Accuracy of randomForest on testX: 0.8707741548309662
+---------------------------
+	numLearners = 82
+		Error made by randomForest on trainX: 0.12162432486497299
+		Accuracy of randomForest on trainX: 0.878375675135027
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12522504500900178
+		Accuracy of randomForest on testX: 0.8747749549909982
+---------------------------
+	numLearners = 83
+		Error made by randomForest on trainX: 0.11522304460892185
+		Accuracy of randomForest on trainX: 0.8847769553910781
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12802560512102423
+		Accuracy of randomForest on testX: 0.8719743948789758
+---------------------------
+	numLearners = 84
+		Error made by randomForest on trainX: 0.095619123824765
+		Accuracy of randomForest on trainX: 0.904380876175235
+
+		Performing testing...
+		Error made by randomForest on testX: 0.11882376475295064
+		Accuracy of randomForest on testX: 0.8811762352470494
+---------------------------
+	numLearners = 85
+		Error made by randomForest on trainX: 0.11402280456091218
+		Accuracy of randomForest on trainX: 0.8859771954390878
+
+		Performing testing...
+		Error made by randomForest on testX: 0.1170234046809362
+		Accuracy of randomForest on testX: 0.8829765953190638
+---------------------------
+	numLearners = 86
+		Error made by randomForest on trainX: 0.10622124424884971
+		Accuracy of randomForest on trainX: 0.8937787557511503
+
+		Performing testing...
+		Error made by randomForest on testX: 0.1134226845369074
+		Accuracy of randomForest on testX: 0.8865773154630926
+---------------------------
+	numLearners = 87
+		Error made by randomForest on trainX: 0.12222444488897777
+		Accuracy of randomForest on trainX: 0.8777755551110222
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12942588517703535
+		Accuracy of randomForest on testX: 0.8705741148229647
+---------------------------
+	numLearners = 88
+		Error made by randomForest on trainX: 0.12162432486497299
+		Accuracy of randomForest on trainX: 0.878375675135027
+
+		Performing testing...
+		Error made by randomForest on testX: 0.13542708541708337
+		Accuracy of randomForest on testX: 0.8645729145829166
+---------------------------
+	numLearners = 89
+		Error made by randomForest on trainX: 0.10862172434486894
+		Accuracy of randomForest on trainX: 0.8913782756551311
+
+		Performing testing...
+		Error made by randomForest on testX: 0.11582316463292663
+		Accuracy of randomForest on testX: 0.8841768353670734
+---------------------------
+	numLearners = 90
+		Error made by randomForest on trainX: 0.10842168433686739
+		Accuracy of randomForest on trainX: 0.8915783156631326
+
+		Performing testing...
+		Error made by randomForest on testX: 0.11782356471294264
+		Accuracy of randomForest on testX: 0.8821764352870574
+---------------------------
+	numLearners = 91
+		Error made by randomForest on trainX: 0.12682536507301456
+		Accuracy of randomForest on trainX: 0.8731746349269854
+
+		Performing testing...
+		Error made by randomForest on testX: 0.13182636527305458
+		Accuracy of randomForest on testX: 0.8681736347269454
+---------------------------
+	numLearners = 92
+		Error made by randomForest on trainX: 0.12122424484896976
+		Accuracy of randomForest on trainX: 0.8787757551510302
+
+		Performing testing...
+		Error made by randomForest on testX: 0.126625325065013
+		Accuracy of randomForest on testX: 0.873374674934987
+---------------------------
+	numLearners = 93
+		Error made by randomForest on trainX: 0.11602320464092819
+		Accuracy of randomForest on trainX: 0.8839767953590718
+
+		Performing testing...
+		Error made by randomForest on testX: 0.1170234046809362
+		Accuracy of randomForest on testX: 0.8829765953190638
+---------------------------
+	numLearners = 94
+		Error made by randomForest on trainX: 0.12302460492098422
+		Accuracy of randomForest on trainX: 0.8769753950790158
+
+		Performing testing...
+		Error made by randomForest on testX: 0.1282256451290258
+		Accuracy of randomForest on testX: 0.8717743548709742
+---------------------------
+	numLearners = 95
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 96
+		Error made by randomForest on trainX: 0.11422284456891385
+		Accuracy of randomForest on trainX: 0.8857771554310861
+
+		Performing testing...
+		Error made by randomForest on testX: 0.1236247249449891
+		Accuracy of randomForest on testX: 0.8763752750550109
+---------------------------
+	numLearners = 97
+		Error made by randomForest on trainX: 0.11862372474494898
+		Accuracy of randomForest on trainX: 0.881376275255051
+
+		Performing testing...
+		Error made by randomForest on testX: 0.1266253250650129
+		Accuracy of randomForest on testX: 0.8733746749349871
+---------------------------
+	numLearners = 98
+		Error made by randomForest on trainX: 0.12242448489697932
+		Accuracy of randomForest on trainX: 0.8775755151030207
+
+		Performing testing...
+		Error made by randomForest on testX: 0.128625725145029
+		Accuracy of randomForest on testX: 0.871374274854971
+---------------------------
+	numLearners = 99
+		Error made by randomForest on trainX: 0.10702140428085616
+		Accuracy of randomForest on trainX: 0.8929785957191438
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 100
+		Error made by randomForest on trainX: 0.10902180436087217
+		Accuracy of randomForest on trainX: 0.8909781956391278
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12202440488097621
+		Accuracy of randomForest on testX: 0.8779755951190238
+---------------------------
+	numLearners = 101
+		Error made by randomForest on trainX: 0.11962392478495698
+		Accuracy of randomForest on trainX: 0.880376075215043
+
+		Performing testing...
+		Error made by randomForest on testX: 0.13142628525705147
+		Accuracy of randomForest on testX: 0.8685737147429485
+---------------------------
+	numLearners = 102
+		Error made by randomForest on trainX: 0.11682336467293464
+		Accuracy of randomForest on trainX: 0.8831766353270654
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12342468493698744
+		Accuracy of randomForest on testX: 0.8765753150630126
+---------------------------
+	numLearners = 103
+		Error made by randomForest on trainX: 0.10622124424884971
+		Accuracy of randomForest on trainX: 0.8937787557511503
+
+		Performing testing...
+		Error made by randomForest on testX: 0.1190238047609522
+		Accuracy of randomForest on testX: 0.8809761952390478
+---------------------------
+	numLearners = 104
+		Error made by randomForest on trainX: 0.11022204440888184
+		Accuracy of randomForest on trainX: 0.8897779555911182
+
+		Performing testing...
+		Error made by randomForest on testX: 0.13002600520104024
+		Accuracy of randomForest on testX: 0.8699739947989598
+---------------------------
+	numLearners = 105
+		Error made by randomForest on trainX: 0.10922184436887372
+		Accuracy of randomForest on trainX: 0.8907781556311263
+
+		Performing testing...
+		Error made by randomForest on testX: 0.11882376475295053
+		Accuracy of randomForest on testX: 0.8811762352470495
+---------------------------
+	numLearners = 106
+		Error made by randomForest on trainX: 0.1144228845769154
+		Accuracy of randomForest on trainX: 0.8855771154230846
+
+		Performing testing...
+		Error made by randomForest on testX: 0.13362672534506903
+		Accuracy of randomForest on testX: 0.866373274654931
+---------------------------
+	numLearners = 107
+		Error made by randomForest on trainX: 0.10942188437687539
+		Accuracy of randomForest on trainX: 0.8905781156231246
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12102420484096821
+		Accuracy of randomForest on testX: 0.8789757951590318
+---------------------------
+	numLearners = 108
+		Error made by randomForest on trainX: 0.10942188437687528
+		Accuracy of randomForest on trainX: 0.8905781156231247
+
+		Performing testing...
+		Error made by randomForest on testX: 0.11862372474494898
+		Accuracy of randomForest on testX: 0.881376275255051
+---------------------------
+	numLearners = 109
+		Error made by randomForest on trainX: 0.11922384476895376
+		Accuracy of randomForest on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12482496499299867
+		Accuracy of randomForest on testX: 0.8751750350070013
+---------------------------
+	numLearners = 110
+		Error made by randomForest on trainX: 0.13002600520104024
+		Accuracy of randomForest on trainX: 0.8699739947989598
+
+		Performing testing...
+		Error made by randomForest on testX: 0.14762952590518097
+		Accuracy of randomForest on testX: 0.852370474094819
+---------------------------
+	numLearners = 111
+		Error made by randomForest on trainX: 0.10602120424084815
+		Accuracy of randomForest on trainX: 0.8939787957591518
+
+		Performing testing...
+		Error made by randomForest on testX: 0.11942388477695542
+		Accuracy of randomForest on testX: 0.8805761152230446
+---------------------------
+	numLearners = 112
+		Error made by randomForest on trainX: 0.11942388477695531
+		Accuracy of randomForest on trainX: 0.8805761152230447
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12542508501700345
+		Accuracy of randomForest on testX: 0.8745749149829966
+---------------------------
+	numLearners = 113
+		Error made by randomForest on trainX: 0.12062412482496498
+		Accuracy of randomForest on trainX: 0.879375875175035
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12502500500100022
+		Accuracy of randomForest on testX: 0.8749749949989998
+---------------------------
+	numLearners = 114
+		Error made by randomForest on trainX: 0.12022404480896176
+		Accuracy of randomForest on trainX: 0.8797759551910382
+
+		Performing testing...
+		Error made by randomForest on testX: 0.13082616523304658
+		Accuracy of randomForest on testX: 0.8691738347669534
+---------------------------
+	numLearners = 115
+		Error made by randomForest on trainX: 0.09761952390478101
+		Accuracy of randomForest on trainX: 0.902380476095219
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12342468493698733
+		Accuracy of randomForest on testX: 0.8765753150630127
+---------------------------
+	numLearners = 116
+		Error made by randomForest on trainX: 0.1922384476895379
+		Accuracy of randomForest on trainX: 0.8077615523104621
+
+		Performing testing...
+		Error made by randomForest on testX: 0.19463892778555714
+		Accuracy of randomForest on testX: 0.8053610722144429
+---------------------------
+	numLearners = 117
+		Error made by randomForest on trainX: 0.12302460492098422
+		Accuracy of randomForest on trainX: 0.8769753950790158
+
+		Performing testing...
+		Error made by randomForest on testX: 0.13362672534506903
+		Accuracy of randomForest on testX: 0.866373274654931
+---------------------------
+	numLearners = 118
+		Error made by randomForest on trainX: 0.10702140428085616
+		Accuracy of randomForest on trainX: 0.8929785957191438
+
+		Performing testing...
+		Error made by randomForest on testX: 0.13262652530506103
+		Accuracy of randomForest on testX: 0.867373474694939
+---------------------------
+	numLearners = 119
+		Error made by randomForest on trainX: 0.1068213642728546
+		Accuracy of randomForest on trainX: 0.8931786357271454
+
+		Performing testing...
+		Error made by randomForest on testX: 0.11302260452090418
+		Accuracy of randomForest on testX: 0.8869773954790958
+---------------------------
+	numLearners = 120
+		Error made by randomForest on trainX: 0.10642128425685138
+		Accuracy of randomForest on trainX: 0.8935787157431486
+
+		Performing testing...
+		Error made by randomForest on testX: 0.123624724944989
+		Accuracy of randomForest on testX: 0.876375275055011
+---------------------------
+	numLearners = 121
+		Error made by randomForest on trainX: 0.12022404480896176
+		Accuracy of randomForest on trainX: 0.8797759551910382
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12602520504100823
+		Accuracy of randomForest on testX: 0.8739747949589918
+---------------------------
+	numLearners = 122
+		Error made by randomForest on trainX: 0.1098219643928785
+		Accuracy of randomForest on trainX: 0.8901780356071215
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12102420484096821
+		Accuracy of randomForest on testX: 0.8789757951590318
+---------------------------
+	numLearners = 123
+		Error made by randomForest on trainX: 0.11782356471294264
+		Accuracy of randomForest on trainX: 0.8821764352870574
+
+		Performing testing...
+		Error made by randomForest on testX: 0.14662932586517308
+		Accuracy of randomForest on testX: 0.8533706741348269
+---------------------------
+	numLearners = 124
+		Error made by randomForest on trainX: 0.12102420484096821
+		Accuracy of randomForest on trainX: 0.8789757951590318
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12802560512102423
+		Accuracy of randomForest on testX: 0.8719743948789758
+---------------------------
+	numLearners = 125
+		Error made by randomForest on trainX: 0.12302460492098422
+		Accuracy of randomForest on trainX: 0.8769753950790158
+
+		Performing testing...
+		Error made by randomForest on testX: 0.13082616523304658
+		Accuracy of randomForest on testX: 0.8691738347669534
+---------------------------
+	numLearners = 126
+		Error made by randomForest on trainX: 0.09521904380876167
+		Accuracy of randomForest on trainX: 0.9047809561912383
+
+		Performing testing...
+		Error made by randomForest on testX: 0.11562312462492497
+		Accuracy of randomForest on testX: 0.884376875375075
+---------------------------
+	numLearners = 127
+		Error made by randomForest on trainX: 0.12402480496099222
+		Accuracy of randomForest on trainX: 0.8759751950390078
+
+		Performing testing...
+		Error made by randomForest on testX: 0.13702740548109626
+		Accuracy of randomForest on testX: 0.8629725945189037
+---------------------------
+	numLearners = 128
+		Error made by randomForest on trainX: 0.11942388477695542
+		Accuracy of randomForest on trainX: 0.8805761152230446
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12542508501700345
+		Accuracy of randomForest on testX: 0.8745749149829966
+---------------------------
+	numLearners = 129
+		Error made by randomForest on trainX: 0.1174234846969393
+		Accuracy of randomForest on trainX: 0.8825765153030607
+
+		Performing testing...
+		Error made by randomForest on testX: 0.11422284456891374
+		Accuracy of randomForest on testX: 0.8857771554310863
+---------------------------
+	numLearners = 130
+		Error made by randomForest on trainX: 0.10002000400080013
+		Accuracy of randomForest on trainX: 0.8999799959991999
+
+		Performing testing...
+		Error made by randomForest on testX: 0.13142628525705147
+		Accuracy of randomForest on testX: 0.8685737147429485
+---------------------------
+	numLearners = 131
+		Error made by randomForest on trainX: 0.11302260452090418
+		Accuracy of randomForest on trainX: 0.8869773954790958
+
+		Performing testing...
+		Error made by randomForest on testX: 0.125625125025005
+		Accuracy of randomForest on testX: 0.874374874974995
+---------------------------
+	numLearners = 132
+		Error made by randomForest on trainX: 0.1170234046809362
+		Accuracy of randomForest on trainX: 0.8829765953190638
+
+		Performing testing...
+		Error made by randomForest on testX: 0.1358271654330867
+		Accuracy of randomForest on testX: 0.8641728345669133
+---------------------------
+	numLearners = 133
+		Error made by randomForest on trainX: 0.1190238047609522
+		Accuracy of randomForest on trainX: 0.8809761952390478
+
+		Performing testing...
+		Error made by randomForest on testX: 0.125625125025005
+		Accuracy of randomForest on testX: 0.874374874974995
+---------------------------
+	numLearners = 134
+		Error made by randomForest on trainX: 0.13062612522504502
+		Accuracy of randomForest on trainX: 0.869373874774955
+
+		Performing testing...
+		Error made by randomForest on testX: 0.14122824564912984
+		Accuracy of randomForest on testX: 0.8587717543508702
+---------------------------
+	numLearners = 135
+		Error made by randomForest on trainX: 0.11762352470494097
+		Accuracy of randomForest on trainX: 0.882376475295059
+
+		Performing testing...
+		Error made by randomForest on testX: 0.1308261652330467
+		Accuracy of randomForest on testX: 0.8691738347669533
+---------------------------
+	numLearners = 136
+		Error made by randomForest on trainX: 0.10822164432886572
+		Accuracy of randomForest on trainX: 0.8917783556711343
+
+		Performing testing...
+		Error made by randomForest on testX: 0.1398279655931186
+		Accuracy of randomForest on testX: 0.8601720344068814
+---------------------------
+	numLearners = 137
+		Error made by randomForest on trainX: 0.12342468493698733
+		Accuracy of randomForest on trainX: 0.8765753150630127
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12602520504100823
+		Accuracy of randomForest on testX: 0.8739747949589918
+---------------------------
+	numLearners = 138
+		Error made by randomForest on trainX: 0.12342468493698744
+		Accuracy of randomForest on trainX: 0.8765753150630126
+
+		Performing testing...
+		Error made by randomForest on testX: 0.1286257251450289
+		Accuracy of randomForest on testX: 0.8713742748549711
+---------------------------
+	numLearners = 139
+		Error made by randomForest on trainX: 0.11122224444888973
+		Accuracy of randomForest on trainX: 0.8887777555511103
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12842568513702735
+		Accuracy of randomForest on testX: 0.8715743148629727
+---------------------------
+	numLearners = 140
+		Error made by randomForest on trainX: 0.1450290058011603
+		Accuracy of randomForest on trainX: 0.8549709941988397
+
+		Performing testing...
+		Error made by randomForest on testX: 0.153630726145229
+		Accuracy of randomForest on testX: 0.846369273854771
+---------------------------
+	numLearners = 141
+		Error made by randomForest on trainX: 0.10242048409681936
+		Accuracy of randomForest on trainX: 0.8975795159031806
+
+		Performing testing...
+		Error made by randomForest on testX: 0.13442688537707537
+		Accuracy of randomForest on testX: 0.8655731146229246
+---------------------------
+	numLearners = 142
+		Error made by randomForest on trainX: 0.12322464492898577
+		Accuracy of randomForest on trainX: 0.8767753550710142
+
+		Performing testing...
+		Error made by randomForest on testX: 0.1398279655931186
+		Accuracy of randomForest on testX: 0.8601720344068814
+---------------------------
+	numLearners = 143
+		Error made by randomForest on trainX: 0.1200240048009602
+		Accuracy of randomForest on trainX: 0.8799759951990398
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12782556511302268
+		Accuracy of randomForest on testX: 0.8721744348869773
+---------------------------
+	numLearners = 144
+		Error made by randomForest on trainX: 0.11182236447289462
+		Accuracy of randomForest on trainX: 0.8881776355271054
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12402480496099222
+		Accuracy of randomForest on testX: 0.8759751950390078
+---------------------------
+	numLearners = 145
+		Error made by randomForest on trainX: 0.13042608521704346
+		Accuracy of randomForest on trainX: 0.8695739147829565
+
+		Performing testing...
+		Error made by randomForest on testX: 0.13562712542508504
+		Accuracy of randomForest on testX: 0.864372874574915
+---------------------------
+	numLearners = 146
+		Error made by randomForest on trainX: 0.11842368473694753
+		Accuracy of randomForest on trainX: 0.8815763152630525
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12742548509701934
+		Accuracy of randomForest on testX: 0.8725745149029807
+---------------------------
+	numLearners = 147
+		Error made by randomForest on trainX: 0.13982796559311872
+		Accuracy of randomForest on trainX: 0.8601720344068813
+
+		Performing testing...
+		Error made by randomForest on testX: 0.1516303260652131
+		Accuracy of randomForest on testX: 0.8483696739347869
+---------------------------
+	numLearners = 148
+		Error made by randomForest on trainX: 0.11822364472894575
+		Accuracy of randomForest on trainX: 0.8817763552710542
+
+		Performing testing...
+		Error made by randomForest on testX: 0.12602520504100823
+		Accuracy of randomForest on testX: 0.8739747949589918
+---------------------------
+	numLearners = 149
+		Error made by randomForest on trainX: 0.10722144428885771
+		Accuracy of randomForest on trainX: 0.8927785557111423
+
+		Performing testing...
+		Error made by randomForest on testX: 0.11762352470494097
+		Accuracy of randomForest on testX: 0.882376475295059
+---------------------------
+	numLearners = 150
+		Error made by randomForest on trainX: 0.1164232846569313
+		Accuracy of randomForest on trainX: 0.8835767153430687
+
+		Performing testing...
+		Error made by randomForest on testX: 0.14662932586517297
+		Accuracy of randomForest on testX: 0.853370674134827
+---------------------------
+(train data) => Best numLearners = 126
+Error = 0.09521904380876167
+BestAccuracy = 0.9047809561912383
+(test data) => Best numLearners = 119
+Error = 0.11302260452090418
+BestAccuracy = 0.8869773954790958
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(train data) => Best numLearners = 126
+Best numAttrs = 6
+Error = 0.09521904380876167
+BestAccuracy = 0.9047809561912383
+(test data)  => Best numLearners = 38
+Best numAttrs = 4
+Error = 0.1114222844568914
+BestAccuracy = 0.8885777155431086

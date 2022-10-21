@@ -10,34 +10,39 @@ from Modules.EnsembleLearning.AdaBoost.helper.functions.labelDecodeCol import la
 #                   weights         :   Numpy array of weights of data instances in X
 #                   Y               :   Numpy array of target labels of instances in X
 #                   Hs              :   List of trained weak learners h's
+#                   alphas          :   List of alphas
 #                   weakLearner     :   Name of weak learner h
 #                                       Choices: ["decisionTree"]
+#                   allLabels       :   List of all unique target labels
 #Output         :
 #                   preds           :   Predictions made by AdaBoosted weak learners on X
 #                   _               :   Prediction error
 #                   _               :   Prediction accuracy
+#                   allErrs         :   List of errors made by all weak learners
+#                   allAccs         :   List of accuracies made by all weak learners
 #What it does   :
 #                   This function is used to make predictions using AdaBoosted weak learners
-def makeAdaBoostPredictions(X, weights, Y, Hs, weakLearner):
+def makeAdaBoostPredictions(X, weights, Y, Hs, alphas, weakLearner, allLabels):
     if weakLearner == "decisionTree":
         le = preprocessing.LabelEncoder()
-        le.fit(np.unique(Y))
+        le.fit(allLabels)
         allPreds = []
-        alphas = []
+        allErrs = []
+        allAccs = []
         for h in Hs:
             preds, err, acc = makePredictions(X, weights, Y, h, weakLearner)
-            epsilon = np.sum(weights[np.where(Y!=preds)])
-            if epsilon == 0:
-                epsilon = 0.0001
-            elif epsilon == 1:
-                epsilon -= 0.0001
-
-            alpha = (1/2)*np.log((1-epsilon)/epsilon)
-            alphas.append(alpha)
+            allErrs.append(err)
+            allAccs.append(acc)
             allPreds.append(preds)
-        finalPreds = np.sign(np.sum((alphas*(2*labelEncodeCol(allPreds, le).T)-1).T,axis=0).astype(int))
+
+        alphas = np.array(alphas)
+        allPreds = np.array(allPreds)
+        finalPreds = np.sign(np.sum((alphas*(2*labelEncodeCol(allPreds, le)-1).T).T,axis=0).astype(np.float64))
         preds = labelDecodeCol(((finalPreds+1)/2).astype(int),le)
-        epsilon = np.sum(weights[np.where(Y!=preds)])
-        return preds, getError(Y, preds, weights), getAccuracy(Y, preds, weights)
+
+        predsAcc = getAccuracy(Y, preds, weights)
+        predsErr = 1 - predsAcc
+
+        return preds, predsErr, predsAcc, allErrs, allAccs
     else: 
-        return None, None, None
+        return None, None, None, None, None

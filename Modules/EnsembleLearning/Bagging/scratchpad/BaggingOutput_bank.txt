@@ -1,0 +1,4006 @@
+Bagging...
+numAttrs = None
+	numLearners = 1
+		Error made by Bagging on trainX: 0.14222844568913784
+		Accuracy of Bagging on trainX: 0.8577715543108622
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16303260652130425
+		Accuracy of Bagging on testX: 0.8369673934786958
+---------------------------
+	numLearners = 2
+		Error made by Bagging on trainX: 0.09781956391278257
+		Accuracy of Bagging on trainX: 0.9021804360872174
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16463292658531703
+		Accuracy of Bagging on testX: 0.835367073414683
+---------------------------
+	numLearners = 3
+		Error made by Bagging on trainX: 0.06361272254450889
+		Accuracy of Bagging on trainX: 0.9363872774554911
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15903180636127234
+		Accuracy of Bagging on testX: 0.8409681936387277
+---------------------------
+	numLearners = 4
+		Error made by Bagging on trainX: 0.06781356271254246
+		Accuracy of Bagging on trainX: 0.9321864372874575
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15383076615323066
+		Accuracy of Bagging on testX: 0.8461692338467693
+---------------------------
+	numLearners = 5
+		Error made by Bagging on trainX: 0.14762952590518108
+		Accuracy of Bagging on trainX: 0.8523704740948189
+
+		Performing testing...
+		Error made by Bagging on testX: 0.17363472694538906
+		Accuracy of Bagging on testX: 0.8263652730546109
+---------------------------
+	numLearners = 6
+		Error made by Bagging on trainX: 0.092618523704741
+		Accuracy of Bagging on trainX: 0.907381476295259
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16343268653730747
+		Accuracy of Bagging on testX: 0.8365673134626925
+---------------------------
+	numLearners = 7
+		Error made by Bagging on trainX: 0.09241848369673944
+		Accuracy of Bagging on trainX: 0.9075815163032606
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15243048609721943
+		Accuracy of Bagging on testX: 0.8475695139027806
+---------------------------
+	numLearners = 8
+		Error made by Bagging on trainX: 0.1414282856571314
+		Accuracy of Bagging on trainX: 0.8585717143428686
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15643128625725145
+		Accuracy of Bagging on testX: 0.8435687137427486
+---------------------------
+	numLearners = 9
+		Error made by Bagging on trainX: 0.18323664732946587
+		Accuracy of Bagging on trainX: 0.8167633526705341
+
+		Performing testing...
+		Error made by Bagging on testX: 0.19103820764152823
+		Accuracy of Bagging on testX: 0.8089617923584718
+---------------------------
+	numLearners = 10
+		Error made by Bagging on trainX: 0.1282256451290258
+		Accuracy of Bagging on trainX: 0.8717743548709742
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1572314462892579
+		Accuracy of Bagging on testX: 0.8427685537107421
+---------------------------
+	numLearners = 11
+		Error made by Bagging on trainX: 0.07941588317663528
+		Accuracy of Bagging on trainX: 0.9205841168233647
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16903380676135227
+		Accuracy of Bagging on testX: 0.8309661932386477
+---------------------------
+	numLearners = 12
+		Error made by Bagging on trainX: 0.08981796359271854
+		Accuracy of Bagging on trainX: 0.9101820364072815
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15023004600920187
+		Accuracy of Bagging on testX: 0.8497699539907981
+---------------------------
+	numLearners = 13
+		Error made by Bagging on trainX: 0.09401880376075222
+		Accuracy of Bagging on trainX: 0.9059811962392478
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1566313262652531
+		Accuracy of Bagging on testX: 0.8433686737347469
+---------------------------
+	numLearners = 14
+		Error made by Bagging on trainX: 0.07401480296059215
+		Accuracy of Bagging on trainX: 0.9259851970394078
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1658331666333267
+		Accuracy of Bagging on testX: 0.8341668333666733
+---------------------------
+	numLearners = 15
+		Error made by Bagging on trainX: 0.17063412682536505
+		Accuracy of Bagging on trainX: 0.829365873174635
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1790358071614323
+		Accuracy of Bagging on testX: 0.8209641928385677
+---------------------------
+	numLearners = 16
+		Error made by Bagging on trainX: 0.093618723744749
+		Accuracy of Bagging on trainX: 0.906381276255251
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15703140628125634
+		Accuracy of Bagging on testX: 0.8429685937187437
+---------------------------
+	numLearners = 17
+		Error made by Bagging on trainX: 0.08621724344868975
+		Accuracy of Bagging on trainX: 0.9137827565513102
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15543108621724344
+		Accuracy of Bagging on testX: 0.8445689137827566
+---------------------------
+	numLearners = 18
+		Error made by Bagging on trainX: 0.10522104420884182
+		Accuracy of Bagging on trainX: 0.8947789557911582
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15803160632126434
+		Accuracy of Bagging on testX: 0.8419683936787357
+---------------------------
+	numLearners = 19
+		Error made by Bagging on trainX: 0.10622124424884971
+		Accuracy of Bagging on trainX: 0.8937787557511503
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1602320464092819
+		Accuracy of Bagging on testX: 0.8397679535907181
+---------------------------
+	numLearners = 20
+		Error made by Bagging on trainX: 0.10862172434486894
+		Accuracy of Bagging on trainX: 0.8913782756551311
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1530306061212242
+		Accuracy of Bagging on testX: 0.8469693938787758
+---------------------------
+	numLearners = 21
+		Error made by Bagging on trainX: 0.13182636527305458
+		Accuracy of Bagging on trainX: 0.8681736347269454
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16963392678535705
+		Accuracy of Bagging on testX: 0.830366073214643
+---------------------------
+	numLearners = 22
+		Error made by Bagging on trainX: 0.1338267653530707
+		Accuracy of Bagging on trainX: 0.8661732346469293
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1668333666733346
+		Accuracy of Bagging on testX: 0.8331666333266654
+---------------------------
+	numLearners = 23
+		Error made by Bagging on trainX: 0.06761352270454091
+		Accuracy of Bagging on trainX: 0.9323864772954591
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16063212642528502
+		Accuracy of Bagging on testX: 0.839367873574715
+---------------------------
+	numLearners = 24
+		Error made by Bagging on trainX: 0.08501700340068008
+		Accuracy of Bagging on trainX: 0.9149829965993199
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16343268653730747
+		Accuracy of Bagging on testX: 0.8365673134626925
+---------------------------
+	numLearners = 25
+		Error made by Bagging on trainX: 0.11542308461692341
+		Accuracy of Bagging on trainX: 0.8845769153830766
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1592318463692739
+		Accuracy of Bagging on testX: 0.8407681536307261
+---------------------------
+	numLearners = 26
+		Error made by Bagging on trainX: 0.0692138427685538
+		Accuracy of Bagging on trainX: 0.9307861572314462
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15603120624124822
+		Accuracy of Bagging on testX: 0.8439687937587518
+---------------------------
+	numLearners = 27
+		Error made by Bagging on trainX: 0.08681736347269453
+		Accuracy of Bagging on trainX: 0.9131826365273055
+
+		Performing testing...
+		Error made by Bagging on testX: 0.14182836567313473
+		Accuracy of Bagging on testX: 0.8581716343268653
+---------------------------
+	numLearners = 28
+		Error made by Bagging on trainX: 0.08321664332866585
+		Accuracy of Bagging on trainX: 0.9167833566713341
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15903180636127223
+		Accuracy of Bagging on testX: 0.8409681936387278
+---------------------------
+	numLearners = 29
+		Error made by Bagging on trainX: 0.11922384476895376
+		Accuracy of Bagging on trainX: 0.8807761552310462
+
+		Performing testing...
+		Error made by Bagging on testX: 0.14842968593718742
+		Accuracy of Bagging on testX: 0.8515703140628126
+---------------------------
+	numLearners = 30
+		Error made by Bagging on trainX: 0.08941788357671543
+		Accuracy of Bagging on trainX: 0.9105821164232846
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1612322464492899
+		Accuracy of Bagging on testX: 0.8387677535507101
+---------------------------
+	numLearners = 31
+		Error made by Bagging on trainX: 0.06301260252050411
+		Accuracy of Bagging on trainX: 0.9369873974794959
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15503100620124022
+		Accuracy of Bagging on testX: 0.8449689937987598
+---------------------------
+	numLearners = 32
+		Error made by Bagging on trainX: 0.06901380276055213
+		Accuracy of Bagging on trainX: 0.9309861972394479
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15603120624124833
+		Accuracy of Bagging on testX: 0.8439687937587517
+---------------------------
+	numLearners = 33
+		Error made by Bagging on trainX: 0.13302660532106425
+		Accuracy of Bagging on trainX: 0.8669733946789357
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1678335667133427
+		Accuracy of Bagging on testX: 0.8321664332866573
+---------------------------
+	numLearners = 34
+		Error made by Bagging on trainX: 0.11422284456891374
+		Accuracy of Bagging on trainX: 0.8857771554310863
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16523304660932192
+		Accuracy of Bagging on testX: 0.8347669533906781
+---------------------------
+	numLearners = 35
+		Error made by Bagging on trainX: 0.07541508301660327
+		Accuracy of Bagging on trainX: 0.9245849169833967
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15483096619323866
+		Accuracy of Bagging on testX: 0.8451690338067613
+---------------------------
+	numLearners = 36
+		Error made by Bagging on trainX: 0.11002200440088017
+		Accuracy of Bagging on trainX: 0.8899779955991198
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16403280656131236
+		Accuracy of Bagging on testX: 0.8359671934386876
+---------------------------
+	numLearners = 37
+		Error made by Bagging on trainX: 0.08621724344868986
+		Accuracy of Bagging on trainX: 0.9137827565513101
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16663332666533304
+		Accuracy of Bagging on testX: 0.833366673334667
+---------------------------
+	numLearners = 38
+		Error made by Bagging on trainX: 0.06881376275255047
+		Accuracy of Bagging on trainX: 0.9311862372474495
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1658331666333266
+		Accuracy of Bagging on testX: 0.8341668333666734
+---------------------------
+	numLearners = 39
+		Error made by Bagging on trainX: 0.09441888377675534
+		Accuracy of Bagging on trainX: 0.9055811162232447
+
+		Performing testing...
+		Error made by Bagging on testX: 0.14782956591318264
+		Accuracy of Bagging on testX: 0.8521704340868174
+---------------------------
+	numLearners = 40
+		Error made by Bagging on trainX: 0.06521304260852179
+		Accuracy of Bagging on trainX: 0.9347869573914782
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15583116623324655
+		Accuracy of Bagging on testX: 0.8441688337667534
+---------------------------
+	numLearners = 41
+		Error made by Bagging on trainX: 0.07241448289657937
+		Accuracy of Bagging on trainX: 0.9275855171034206
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15523104620924189
+		Accuracy of Bagging on testX: 0.8447689537907581
+---------------------------
+	numLearners = 42
+		Error made by Bagging on trainX: 0.06361272254450889
+		Accuracy of Bagging on trainX: 0.9363872774554911
+
+		Performing testing...
+		Error made by Bagging on testX: 0.14922984596919386
+		Accuracy of Bagging on testX: 0.8507701540308061
+---------------------------
+	numLearners = 43
+		Error made by Bagging on trainX: 0.48049609921984404
+		Accuracy of Bagging on trainX: 0.519503900780156
+
+		Performing testing...
+		Error made by Bagging on testX: 0.49249849969994
+		Accuracy of Bagging on testX: 0.50750150030006
+---------------------------
+	numLearners = 44
+		Error made by Bagging on trainX: 0.13822764552910582
+		Accuracy of Bagging on trainX: 0.8617723544708942
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15683136627325456
+		Accuracy of Bagging on testX: 0.8431686337267454
+---------------------------
+	numLearners = 45
+		Error made by Bagging on trainX: 0.0910182036407281
+		Accuracy of Bagging on trainX: 0.9089817963592719
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1618323664732947
+		Accuracy of Bagging on testX: 0.8381676335267053
+---------------------------
+	numLearners = 46
+		Error made by Bagging on trainX: 0.11662332466493308
+		Accuracy of Bagging on trainX: 0.8833766753350669
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16203240648129635
+		Accuracy of Bagging on testX: 0.8379675935187036
+---------------------------
+	numLearners = 47
+		Error made by Bagging on trainX: 0.08821764352870576
+		Accuracy of Bagging on trainX: 0.9117823564712942
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16203240648129635
+		Accuracy of Bagging on testX: 0.8379675935187036
+---------------------------
+	numLearners = 48
+		Error made by Bagging on trainX: 0.12882576515303057
+		Accuracy of Bagging on trainX: 0.8711742348469694
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16363272654530903
+		Accuracy of Bagging on testX: 0.836367273454691
+---------------------------
+	numLearners = 49
+		Error made by Bagging on trainX: 0.05881176235247043
+		Accuracy of Bagging on trainX: 0.9411882376475296
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16063212642528502
+		Accuracy of Bagging on testX: 0.839367873574715
+---------------------------
+	numLearners = 50
+		Error made by Bagging on trainX: 0.12182436487297466
+		Accuracy of Bagging on trainX: 0.8781756351270253
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15783156631326267
+		Accuracy of Bagging on testX: 0.8421684336867373
+---------------------------
+	numLearners = 51
+		Error made by Bagging on trainX: 0.07241448289657926
+		Accuracy of Bagging on trainX: 0.9275855171034207
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15703140628125623
+		Accuracy of Bagging on testX: 0.8429685937187438
+---------------------------
+	numLearners = 52
+		Error made by Bagging on trainX: 0.07341468293658737
+		Accuracy of Bagging on trainX: 0.9265853170634126
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15523104620924189
+		Accuracy of Bagging on testX: 0.8447689537907581
+---------------------------
+	numLearners = 53
+		Error made by Bagging on trainX: 0.1744348869773955
+		Accuracy of Bagging on trainX: 0.8255651130226045
+
+		Performing testing...
+		Error made by Bagging on testX: 0.17863572714542908
+		Accuracy of Bagging on testX: 0.8213642728545709
+---------------------------
+	numLearners = 54
+		Error made by Bagging on trainX: 0.07481496299259849
+		Accuracy of Bagging on trainX: 0.9251850370074015
+
+		Performing testing...
+		Error made by Bagging on testX: 0.159631926385277
+		Accuracy of Bagging on testX: 0.840368073614723
+---------------------------
+	numLearners = 55
+		Error made by Bagging on trainX: 0.15043008601720342
+		Accuracy of Bagging on trainX: 0.8495699139827966
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16623324664932992
+		Accuracy of Bagging on testX: 0.8337667533506701
+---------------------------
+	numLearners = 56
+		Error made by Bagging on trainX: 0.1464292858571714
+		Accuracy of Bagging on trainX: 0.8535707141428286
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15983196639327868
+		Accuracy of Bagging on testX: 0.8401680336067213
+---------------------------
+	numLearners = 57
+		Error made by Bagging on trainX: 0.14682936587317463
+		Accuracy of Bagging on trainX: 0.8531706341268254
+
+		Performing testing...
+		Error made by Bagging on testX: 0.153630726145229
+		Accuracy of Bagging on testX: 0.846369273854771
+---------------------------
+	numLearners = 58
+		Error made by Bagging on trainX: 0.06941388277655536
+		Accuracy of Bagging on trainX: 0.9305861172234446
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15743148629725945
+		Accuracy of Bagging on testX: 0.8425685137027406
+---------------------------
+	numLearners = 59
+		Error made by Bagging on trainX: 0.07901580316063206
+		Accuracy of Bagging on trainX: 0.9209841968393679
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15443088617723544
+		Accuracy of Bagging on testX: 0.8455691138227646
+---------------------------
+	numLearners = 60
+		Error made by Bagging on trainX: 0.07281456291258248
+		Accuracy of Bagging on trainX: 0.9271854370874175
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16283256651330258
+		Accuracy of Bagging on testX: 0.8371674334866974
+---------------------------
+	numLearners = 61
+		Error made by Bagging on trainX: 0.14982996599319864
+		Accuracy of Bagging on trainX: 0.8501700340068014
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1648329665933187
+		Accuracy of Bagging on testX: 0.8351670334066813
+---------------------------
+	numLearners = 62
+		Error made by Bagging on trainX: 0.09741948389677935
+		Accuracy of Bagging on trainX: 0.9025805161032207
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1572314462892579
+		Accuracy of Bagging on testX: 0.8427685537107421
+---------------------------
+	numLearners = 63
+		Error made by Bagging on trainX: 0.08781756351270253
+		Accuracy of Bagging on trainX: 0.9121824364872975
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15143028605721143
+		Accuracy of Bagging on testX: 0.8485697139427886
+---------------------------
+	numLearners = 64
+		Error made by Bagging on trainX: 0.2126425285057011
+		Accuracy of Bagging on trainX: 0.7873574714942989
+
+		Performing testing...
+		Error made by Bagging on testX: 0.22144428885777157
+		Accuracy of Bagging on testX: 0.7785557111422284
+---------------------------
+	numLearners = 65
+		Error made by Bagging on trainX: 0.09121824364872966
+		Accuracy of Bagging on trainX: 0.9087817563512703
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15883176635327068
+		Accuracy of Bagging on testX: 0.8411682336467293
+---------------------------
+	numLearners = 66
+		Error made by Bagging on trainX: 0.06601320264052801
+		Accuracy of Bagging on trainX: 0.933986797359472
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16063212642528502
+		Accuracy of Bagging on testX: 0.839367873574715
+---------------------------
+	numLearners = 67
+		Error made by Bagging on trainX: 0.15983196639327868
+		Accuracy of Bagging on trainX: 0.8401680336067213
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16923384676935382
+		Accuracy of Bagging on testX: 0.8307661532306462
+---------------------------
+	numLearners = 68
+		Error made by Bagging on trainX: 0.10162032406481292
+		Accuracy of Bagging on trainX: 0.8983796759351871
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16083216643328668
+		Accuracy of Bagging on testX: 0.8391678335667133
+---------------------------
+	numLearners = 69
+		Error made by Bagging on trainX: 0.08001600320064006
+		Accuracy of Bagging on trainX: 0.9199839967993599
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15943188637727546
+		Accuracy of Bagging on testX: 0.8405681136227245
+---------------------------
+	numLearners = 70
+		Error made by Bagging on trainX: 0.11402280456091218
+		Accuracy of Bagging on trainX: 0.8859771954390878
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15603120624124822
+		Accuracy of Bagging on testX: 0.8439687937587518
+---------------------------
+	numLearners = 71
+		Error made by Bagging on trainX: 0.14722944588917786
+		Accuracy of Bagging on trainX: 0.8527705541108221
+
+		Performing testing...
+		Error made by Bagging on testX: 0.17083416683336672
+		Accuracy of Bagging on testX: 0.8291658331666333
+---------------------------
+	numLearners = 72
+		Error made by Bagging on trainX: 0.1430286057211443
+		Accuracy of Bagging on trainX: 0.8569713942788557
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16803360672134438
+		Accuracy of Bagging on testX: 0.8319663932786556
+---------------------------
+	numLearners = 73
+		Error made by Bagging on trainX: 0.1434286857371475
+		Accuracy of Bagging on trainX: 0.8565713142628525
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16743348669733948
+		Accuracy of Bagging on testX: 0.8325665133026605
+---------------------------
+	numLearners = 74
+		Error made by Bagging on trainX: 0.08221644328865774
+		Accuracy of Bagging on trainX: 0.9177835567113423
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15303060612122432
+		Accuracy of Bagging on testX: 0.8469693938787757
+---------------------------
+	numLearners = 75
+		Error made by Bagging on trainX: 0.14662932586517297
+		Accuracy of Bagging on trainX: 0.853370674134827
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16543308661732348
+		Accuracy of Bagging on testX: 0.8345669133826765
+---------------------------
+	numLearners = 76
+		Error made by Bagging on trainX: 0.13002600520104024
+		Accuracy of Bagging on trainX: 0.8699739947989598
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16243248649729947
+		Accuracy of Bagging on testX: 0.8375675135027005
+---------------------------
+	numLearners = 77
+		Error made by Bagging on trainX: 0.09541908381676334
+		Accuracy of Bagging on trainX: 0.9045809161832367
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15183036607321454
+		Accuracy of Bagging on testX: 0.8481696339267855
+---------------------------
+	numLearners = 78
+		Error made by Bagging on trainX: 0.11682336467293464
+		Accuracy of Bagging on trainX: 0.8831766353270654
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15683136627325456
+		Accuracy of Bagging on testX: 0.8431686337267454
+---------------------------
+	numLearners = 79
+		Error made by Bagging on trainX: 0.08121624324864962
+		Accuracy of Bagging on trainX: 0.9187837567513504
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16663332666533304
+		Accuracy of Bagging on testX: 0.833366673334667
+---------------------------
+	numLearners = 80
+		Error made by Bagging on trainX: 0.09481896379275856
+		Accuracy of Bagging on trainX: 0.9051810362072414
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16563312662532503
+		Accuracy of Bagging on testX: 0.834366873374675
+---------------------------
+	numLearners = 81
+		Error made by Bagging on trainX: 0.0794158831766354
+		Accuracy of Bagging on trainX: 0.9205841168233646
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16743348669733948
+		Accuracy of Bagging on testX: 0.8325665133026605
+---------------------------
+	numLearners = 82
+		Error made by Bagging on trainX: 0.16543308661732348
+		Accuracy of Bagging on trainX: 0.8345669133826765
+
+		Performing testing...
+		Error made by Bagging on testX: 0.17823564712942597
+		Accuracy of Bagging on testX: 0.821764352870574
+---------------------------
+	numLearners = 83
+		Error made by Bagging on trainX: 0.0748149629925986
+		Accuracy of Bagging on trainX: 0.9251850370074014
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1658331666333266
+		Accuracy of Bagging on testX: 0.8341668333666734
+---------------------------
+	numLearners = 84
+		Error made by Bagging on trainX: 0.0666133226645329
+		Accuracy of Bagging on trainX: 0.9333866773354671
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16523304660932192
+		Accuracy of Bagging on testX: 0.8347669533906781
+---------------------------
+	numLearners = 85
+		Error made by Bagging on trainX: 0.11782356471294264
+		Accuracy of Bagging on trainX: 0.8821764352870574
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16543308661732337
+		Accuracy of Bagging on testX: 0.8345669133826766
+---------------------------
+	numLearners = 86
+		Error made by Bagging on trainX: 0.15603120624124822
+		Accuracy of Bagging on trainX: 0.8439687937587518
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16723344668933782
+		Accuracy of Bagging on testX: 0.8327665533106622
+---------------------------
+	numLearners = 87
+		Error made by Bagging on trainX: 0.06841368273654735
+		Accuracy of Bagging on trainX: 0.9315863172634526
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15483096619323866
+		Accuracy of Bagging on testX: 0.8451690338067613
+---------------------------
+	numLearners = 88
+		Error made by Bagging on trainX: 0.09501900380076012
+		Accuracy of Bagging on trainX: 0.9049809961992399
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1638327665533107
+		Accuracy of Bagging on testX: 0.8361672334466893
+---------------------------
+	numLearners = 89
+		Error made by Bagging on trainX: 0.09721944388877768
+		Accuracy of Bagging on trainX: 0.9027805561112223
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16443288657731547
+		Accuracy of Bagging on testX: 0.8355671134226845
+---------------------------
+	numLearners = 90
+		Error made by Bagging on trainX: 0.13442688537707537
+		Accuracy of Bagging on trainX: 0.8655731146229246
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16403280656131225
+		Accuracy of Bagging on testX: 0.8359671934386878
+---------------------------
+	numLearners = 91
+		Error made by Bagging on trainX: 0.15863172634526912
+		Accuracy of Bagging on trainX: 0.8413682736547309
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16803360672134415
+		Accuracy of Bagging on testX: 0.8319663932786558
+---------------------------
+	numLearners = 92
+		Error made by Bagging on trainX: 0.14402880576115218
+		Accuracy of Bagging on trainX: 0.8559711942388478
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1592318463692738
+		Accuracy of Bagging on testX: 0.8407681536307262
+---------------------------
+	numLearners = 93
+		Error made by Bagging on trainX: 0.092618523704741
+		Accuracy of Bagging on trainX: 0.907381476295259
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16183236647329458
+		Accuracy of Bagging on testX: 0.8381676335267054
+---------------------------
+	numLearners = 94
+		Error made by Bagging on trainX: 0.09821964392878568
+		Accuracy of Bagging on trainX: 0.9017803560712143
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15983196639327868
+		Accuracy of Bagging on testX: 0.8401680336067213
+---------------------------
+	numLearners = 95
+		Error made by Bagging on trainX: 0.0804160832166434
+		Accuracy of Bagging on trainX: 0.9195839167833566
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15143028605721143
+		Accuracy of Bagging on testX: 0.8485697139427886
+---------------------------
+	numLearners = 96
+		Error made by Bagging on trainX: 0.0656131226245249
+		Accuracy of Bagging on trainX: 0.9343868773754751
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15803160632126434
+		Accuracy of Bagging on testX: 0.8419683936787357
+---------------------------
+	numLearners = 97
+		Error made by Bagging on trainX: 0.09241848369673944
+		Accuracy of Bagging on trainX: 0.9075815163032606
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15943188637727546
+		Accuracy of Bagging on testX: 0.8405681136227245
+---------------------------
+	numLearners = 98
+		Error made by Bagging on trainX: 0.08861772354470898
+		Accuracy of Bagging on trainX: 0.911382276455291
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15983196639327857
+		Accuracy of Bagging on testX: 0.8401680336067214
+---------------------------
+	numLearners = 99
+		Error made by Bagging on trainX: 0.06261252250450089
+		Accuracy of Bagging on trainX: 0.9373874774954991
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15803160632126423
+		Accuracy of Bagging on testX: 0.8419683936787358
+---------------------------
+	numLearners = 100
+		Error made by Bagging on trainX: 0.13182636527305458
+		Accuracy of Bagging on trainX: 0.8681736347269454
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1694338867773555
+		Accuracy of Bagging on testX: 0.8305661132226445
+---------------------------
+	numLearners = 101
+		Error made by Bagging on trainX: 0.07541508301660338
+		Accuracy of Bagging on trainX: 0.9245849169833966
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15703140628125634
+		Accuracy of Bagging on testX: 0.8429685937187437
+---------------------------
+	numLearners = 102
+		Error made by Bagging on trainX: 0.07481496299259849
+		Accuracy of Bagging on trainX: 0.9251850370074015
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16763352670534104
+		Accuracy of Bagging on testX: 0.832366473294659
+---------------------------
+	numLearners = 103
+		Error made by Bagging on trainX: 0.12022404480896176
+		Accuracy of Bagging on trainX: 0.8797759551910382
+
+		Performing testing...
+		Error made by Bagging on testX: 0.157631526305261
+		Accuracy of Bagging on testX: 0.842368473694739
+---------------------------
+	numLearners = 104
+		Error made by Bagging on trainX: 0.09581916383276656
+		Accuracy of Bagging on trainX: 0.9041808361672334
+
+		Performing testing...
+		Error made by Bagging on testX: 0.14622924584916985
+		Accuracy of Bagging on testX: 0.8537707541508301
+---------------------------
+	numLearners = 105
+		Error made by Bagging on trainX: 0.08521704340868186
+		Accuracy of Bagging on trainX: 0.9147829565913181
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1602320464092819
+		Accuracy of Bagging on testX: 0.8397679535907181
+---------------------------
+	numLearners = 106
+		Error made by Bagging on trainX: 0.10142028405681147
+		Accuracy of Bagging on trainX: 0.8985797159431885
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16903380676135227
+		Accuracy of Bagging on testX: 0.8309661932386477
+---------------------------
+	numLearners = 107
+		Error made by Bagging on trainX: 0.15843168633726745
+		Accuracy of Bagging on trainX: 0.8415683136627325
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1704340868173635
+		Accuracy of Bagging on testX: 0.8295659131826365
+---------------------------
+	numLearners = 108
+		Error made by Bagging on trainX: 0.20164032806561316
+		Accuracy of Bagging on trainX: 0.7983596719343868
+
+		Performing testing...
+		Error made by Bagging on testX: 0.20424084816963384
+		Accuracy of Bagging on testX: 0.7957591518303662
+---------------------------
+	numLearners = 109
+		Error made by Bagging on trainX: 0.07241448289657937
+		Accuracy of Bagging on trainX: 0.9275855171034206
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15143028605721143
+		Accuracy of Bagging on testX: 0.8485697139427886
+---------------------------
+	numLearners = 110
+		Error made by Bagging on trainX: 0.12902580516103224
+		Accuracy of Bagging on trainX: 0.8709741948389678
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1698339667933586
+		Accuracy of Bagging on testX: 0.8301660332066414
+---------------------------
+	numLearners = 111
+		Error made by Bagging on trainX: 0.11102220444088817
+		Accuracy of Bagging on trainX: 0.8889777955591118
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15903180636127223
+		Accuracy of Bagging on testX: 0.8409681936387278
+---------------------------
+	numLearners = 112
+		Error made by Bagging on trainX: 0.11722344468893775
+		Accuracy of Bagging on trainX: 0.8827765553110622
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1724344868973794
+		Accuracy of Bagging on testX: 0.8275655131026206
+---------------------------
+	numLearners = 113
+		Error made by Bagging on trainX: 0.13042608521704335
+		Accuracy of Bagging on trainX: 0.8695739147829566
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1566313262652531
+		Accuracy of Bagging on testX: 0.8433686737347469
+---------------------------
+	numLearners = 114
+		Error made by Bagging on trainX: 0.12102420484096821
+		Accuracy of Bagging on trainX: 0.8789757951590318
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15503100620124022
+		Accuracy of Bagging on testX: 0.8449689937987598
+---------------------------
+	numLearners = 115
+		Error made by Bagging on trainX: 0.12502500500100022
+		Accuracy of Bagging on trainX: 0.8749749949989998
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15983196639327868
+		Accuracy of Bagging on testX: 0.8401680336067213
+---------------------------
+	numLearners = 116
+		Error made by Bagging on trainX: 0.07381476295259048
+		Accuracy of Bagging on trainX: 0.9261852370474095
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1592318463692739
+		Accuracy of Bagging on testX: 0.8407681536307261
+---------------------------
+	numLearners = 117
+		Error made by Bagging on trainX: 0.0920184036807361
+		Accuracy of Bagging on trainX: 0.9079815963192639
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15603120624124822
+		Accuracy of Bagging on testX: 0.8439687937587518
+---------------------------
+	numLearners = 118
+		Error made by Bagging on trainX: 0.06981396279255847
+		Accuracy of Bagging on trainX: 0.9301860372074415
+
+		Performing testing...
+		Error made by Bagging on testX: 0.153630726145229
+		Accuracy of Bagging on testX: 0.846369273854771
+---------------------------
+	numLearners = 119
+		Error made by Bagging on trainX: 0.1394278855771155
+		Accuracy of Bagging on trainX: 0.8605721144228845
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16203240648129635
+		Accuracy of Bagging on testX: 0.8379675935187036
+---------------------------
+	numLearners = 120
+		Error made by Bagging on trainX: 0.13522704540908181
+		Accuracy of Bagging on trainX: 0.8647729545909182
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1658331666333267
+		Accuracy of Bagging on testX: 0.8341668333666733
+---------------------------
+	numLearners = 121
+		Error made by Bagging on trainX: 0.11842368473694731
+		Accuracy of Bagging on trainX: 0.8815763152630527
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16363272654530903
+		Accuracy of Bagging on testX: 0.836367273454691
+---------------------------
+	numLearners = 122
+		Error made by Bagging on trainX: 0.15443088617723544
+		Accuracy of Bagging on trainX: 0.8455691138227646
+
+		Performing testing...
+		Error made by Bagging on testX: 0.158631726345269
+		Accuracy of Bagging on testX: 0.841368273654731
+---------------------------
+	numLearners = 123
+		Error made by Bagging on trainX: 0.09801960392078413
+		Accuracy of Bagging on trainX: 0.9019803960792159
+
+		Performing testing...
+		Error made by Bagging on testX: 0.14882976595319075
+		Accuracy of Bagging on testX: 0.8511702340468092
+---------------------------
+	numLearners = 124
+		Error made by Bagging on trainX: 0.13722744548909782
+		Accuracy of Bagging on trainX: 0.8627725545109022
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15283056611322277
+		Accuracy of Bagging on testX: 0.8471694338867772
+---------------------------
+	numLearners = 125
+		Error made by Bagging on trainX: 0.09701940388077612
+		Accuracy of Bagging on trainX: 0.9029805961192239
+
+		Performing testing...
+		Error made by Bagging on testX: 0.153630726145229
+		Accuracy of Bagging on testX: 0.846369273854771
+---------------------------
+	numLearners = 126
+		Error made by Bagging on trainX: 0.06701340268053613
+		Accuracy of Bagging on trainX: 0.9329865973194639
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16563312662532503
+		Accuracy of Bagging on testX: 0.834366873374675
+---------------------------
+	numLearners = 127
+		Error made by Bagging on trainX: 0.09301860372074411
+		Accuracy of Bagging on trainX: 0.9069813962792559
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16143228645729146
+		Accuracy of Bagging on testX: 0.8385677135427085
+---------------------------
+	numLearners = 128
+		Error made by Bagging on trainX: 0.06961392278455691
+		Accuracy of Bagging on trainX: 0.9303860772154431
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1490298059611923
+		Accuracy of Bagging on testX: 0.8509701940388077
+---------------------------
+	numLearners = 129
+		Error made by Bagging on trainX: 0.18643728745749155
+		Accuracy of Bagging on trainX: 0.8135627125425084
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1948389677935587
+		Accuracy of Bagging on testX: 0.8051610322064413
+---------------------------
+	numLearners = 130
+		Error made by Bagging on trainX: 0.06521304260852168
+		Accuracy of Bagging on trainX: 0.9347869573914783
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15423084616923388
+		Accuracy of Bagging on testX: 0.8457691538307661
+---------------------------
+	numLearners = 131
+		Error made by Bagging on trainX: 0.11862372474494887
+		Accuracy of Bagging on trainX: 0.8813762752550511
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16363272654530903
+		Accuracy of Bagging on testX: 0.836367273454691
+---------------------------
+	numLearners = 132
+		Error made by Bagging on trainX: 0.0920184036807361
+		Accuracy of Bagging on trainX: 0.9079815963192639
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16163232646529302
+		Accuracy of Bagging on testX: 0.838367673534707
+---------------------------
+	numLearners = 133
+		Error made by Bagging on trainX: 0.07421484296859371
+		Accuracy of Bagging on trainX: 0.9257851570314063
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1582316463292659
+		Accuracy of Bagging on testX: 0.8417683536707341
+---------------------------
+	numLearners = 134
+		Error made by Bagging on trainX: 0.12942588517703535
+		Accuracy of Bagging on trainX: 0.8705741148229647
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15503100620124033
+		Accuracy of Bagging on testX: 0.8449689937987597
+---------------------------
+	numLearners = 135
+		Error made by Bagging on trainX: 0.14842968593718753
+		Accuracy of Bagging on trainX: 0.8515703140628125
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15183036607321476
+		Accuracy of Bagging on testX: 0.8481696339267852
+---------------------------
+	numLearners = 136
+		Error made by Bagging on trainX: 0.064012802560512
+		Accuracy of Bagging on trainX: 0.935987197439488
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1510302060412082
+		Accuracy of Bagging on testX: 0.8489697939587918
+---------------------------
+	numLearners = 137
+		Error made by Bagging on trainX: 0.07081416283256647
+		Accuracy of Bagging on trainX: 0.9291858371674335
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15483096619323877
+		Accuracy of Bagging on testX: 0.8451690338067612
+---------------------------
+	numLearners = 138
+		Error made by Bagging on trainX: 0.08721744348869775
+		Accuracy of Bagging on trainX: 0.9127825565113022
+
+		Performing testing...
+		Error made by Bagging on testX: 0.14822964592918586
+		Accuracy of Bagging on testX: 0.8517703540708141
+---------------------------
+	numLearners = 139
+		Error made by Bagging on trainX: 0.13362672534506903
+		Accuracy of Bagging on trainX: 0.866373274654931
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15943188637727546
+		Accuracy of Bagging on testX: 0.8405681136227245
+---------------------------
+	numLearners = 140
+		Error made by Bagging on trainX: 0.17983596719343864
+		Accuracy of Bagging on trainX: 0.8201640328065614
+
+		Performing testing...
+		Error made by Bagging on testX: 0.19183836767353468
+		Accuracy of Bagging on testX: 0.8081616323264653
+---------------------------
+	numLearners = 141
+		Error made by Bagging on trainX: 0.08621724344868964
+		Accuracy of Bagging on trainX: 0.9137827565513104
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16563312662532503
+		Accuracy of Bagging on testX: 0.834366873374675
+---------------------------
+	numLearners = 142
+		Error made by Bagging on trainX: 0.07481496299259849
+		Accuracy of Bagging on trainX: 0.9251850370074015
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1678335667133426
+		Accuracy of Bagging on testX: 0.8321664332866574
+---------------------------
+	numLearners = 143
+		Error made by Bagging on trainX: 0.1424284856971394
+		Accuracy of Bagging on trainX: 0.8575715143028606
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15163032606521298
+		Accuracy of Bagging on testX: 0.848369673934787
+---------------------------
+	numLearners = 144
+		Error made by Bagging on trainX: 0.10042008401680336
+		Accuracy of Bagging on trainX: 0.8995799159831966
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16403280656131225
+		Accuracy of Bagging on testX: 0.8359671934386878
+---------------------------
+	numLearners = 145
+		Error made by Bagging on trainX: 0.06721344268853768
+		Accuracy of Bagging on trainX: 0.9327865573114623
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16063212642528502
+		Accuracy of Bagging on testX: 0.839367873574715
+---------------------------
+	numLearners = 146
+		Error made by Bagging on trainX: 0.07121424284856981
+		Accuracy of Bagging on trainX: 0.9287857571514302
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16083216643328657
+		Accuracy of Bagging on testX: 0.8391678335667134
+---------------------------
+	numLearners = 147
+		Error made by Bagging on trainX: 0.10162032406481303
+		Accuracy of Bagging on trainX: 0.898379675935187
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15163032606521298
+		Accuracy of Bagging on testX: 0.848369673934787
+---------------------------
+	numLearners = 148
+		Error made by Bagging on trainX: 0.08301660332066418
+		Accuracy of Bagging on trainX: 0.9169833966793358
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16543308661732348
+		Accuracy of Bagging on testX: 0.8345669133826765
+---------------------------
+	numLearners = 149
+		Error made by Bagging on trainX: 0.06881376275255047
+		Accuracy of Bagging on trainX: 0.9311862372474495
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16963392678535705
+		Accuracy of Bagging on testX: 0.830366073214643
+---------------------------
+	numLearners = 150
+		Error made by Bagging on trainX: 0.08121624324864962
+		Accuracy of Bagging on trainX: 0.9187837567513504
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16543308661732348
+		Accuracy of Bagging on testX: 0.8345669133826765
+---------------------------
+	numLearners = 151
+		Error made by Bagging on trainX: 0.11182236447289462
+		Accuracy of Bagging on trainX: 0.8881776355271054
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15903180636127234
+		Accuracy of Bagging on testX: 0.8409681936387277
+---------------------------
+	numLearners = 152
+		Error made by Bagging on trainX: 0.09161832366473299
+		Accuracy of Bagging on trainX: 0.908381676335267
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1592318463692739
+		Accuracy of Bagging on testX: 0.8407681536307261
+---------------------------
+	numLearners = 153
+		Error made by Bagging on trainX: 0.15323064612922588
+		Accuracy of Bagging on trainX: 0.8467693538707741
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16983396679335871
+		Accuracy of Bagging on testX: 0.8301660332066413
+---------------------------
+	numLearners = 154
+		Error made by Bagging on trainX: 0.13142628525705136
+		Accuracy of Bagging on trainX: 0.8685737147429486
+
+		Performing testing...
+		Error made by Bagging on testX: 0.17283456691338261
+		Accuracy of Bagging on testX: 0.8271654330866174
+---------------------------
+	numLearners = 155
+		Error made by Bagging on trainX: 0.08001600320064017
+		Accuracy of Bagging on trainX: 0.9199839967993598
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1622324464892979
+		Accuracy of Bagging on testX: 0.8377675535107021
+---------------------------
+	numLearners = 156
+		Error made by Bagging on trainX: 0.1190238047609522
+		Accuracy of Bagging on trainX: 0.8809761952390478
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1668333666733346
+		Accuracy of Bagging on testX: 0.8331666333266654
+---------------------------
+	numLearners = 157
+		Error made by Bagging on trainX: 0.1078215643128626
+		Accuracy of Bagging on trainX: 0.8921784356871374
+
+		Performing testing...
+		Error made by Bagging on testX: 0.14942988597719542
+		Accuracy of Bagging on testX: 0.8505701140228046
+---------------------------
+	numLearners = 158
+		Error made by Bagging on trainX: 0.0682136427285458
+		Accuracy of Bagging on trainX: 0.9317863572714542
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16083216643328668
+		Accuracy of Bagging on testX: 0.8391678335667133
+---------------------------
+	numLearners = 159
+		Error made by Bagging on trainX: 0.08361672334466896
+		Accuracy of Bagging on trainX: 0.916383276655331
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15703140628125634
+		Accuracy of Bagging on testX: 0.8429685937187437
+---------------------------
+	numLearners = 160
+		Error made by Bagging on trainX: 0.0682136427285458
+		Accuracy of Bagging on trainX: 0.9317863572714542
+
+		Performing testing...
+		Error made by Bagging on testX: 0.157631526305261
+		Accuracy of Bagging on testX: 0.842368473694739
+---------------------------
+	numLearners = 161
+		Error made by Bagging on trainX: 0.06981396279255847
+		Accuracy of Bagging on trainX: 0.9301860372074415
+
+		Performing testing...
+		Error made by Bagging on testX: 0.152630526105221
+		Accuracy of Bagging on testX: 0.847369473894779
+---------------------------
+	numLearners = 162
+		Error made by Bagging on trainX: 0.10222044408881781
+		Accuracy of Bagging on trainX: 0.8977795559111822
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1622324464892978
+		Accuracy of Bagging on testX: 0.8377675535107022
+---------------------------
+	numLearners = 163
+		Error made by Bagging on trainX: 0.10402080416083215
+		Accuracy of Bagging on trainX: 0.8959791958391679
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1684336867373475
+		Accuracy of Bagging on testX: 0.8315663132626525
+---------------------------
+	numLearners = 164
+		Error made by Bagging on trainX: 0.09601920384076823
+		Accuracy of Bagging on trainX: 0.9039807961592318
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1744348869773955
+		Accuracy of Bagging on testX: 0.8255651130226045
+---------------------------
+	numLearners = 165
+		Error made by Bagging on trainX: 0.08001600320064006
+		Accuracy of Bagging on trainX: 0.9199839967993599
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16163232646529302
+		Accuracy of Bagging on testX: 0.838367673534707
+---------------------------
+	numLearners = 166
+		Error made by Bagging on trainX: 0.11982396479295865
+		Accuracy of Bagging on trainX: 0.8801760352070414
+
+		Performing testing...
+		Error made by Bagging on testX: 0.12402480496099222
+		Accuracy of Bagging on testX: 0.8759751950390078
+---------------------------
+	numLearners = 167
+		Error made by Bagging on trainX: 0.09401880376075211
+		Accuracy of Bagging on trainX: 0.9059811962392479
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16083216643328657
+		Accuracy of Bagging on testX: 0.8391678335667134
+---------------------------
+	numLearners = 168
+		Error made by Bagging on trainX: 0.09741948389677935
+		Accuracy of Bagging on trainX: 0.9025805161032207
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1562312462492499
+		Accuracy of Bagging on testX: 0.8437687537507501
+---------------------------
+	numLearners = 169
+		Error made by Bagging on trainX: 0.06981396279255847
+		Accuracy of Bagging on trainX: 0.9301860372074415
+
+		Performing testing...
+		Error made by Bagging on testX: 0.152630526105221
+		Accuracy of Bagging on testX: 0.847369473894779
+---------------------------
+	numLearners = 170
+		Error made by Bagging on trainX: 0.1002200440088018
+		Accuracy of Bagging on trainX: 0.8997799559911982
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15743148629725945
+		Accuracy of Bagging on testX: 0.8425685137027406
+---------------------------
+	numLearners = 171
+		Error made by Bagging on trainX: 0.07481496299259849
+		Accuracy of Bagging on trainX: 0.9251850370074015
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16743348669733948
+		Accuracy of Bagging on testX: 0.8325665133026605
+---------------------------
+	numLearners = 172
+		Error made by Bagging on trainX: 0.0804160832166434
+		Accuracy of Bagging on trainX: 0.9195839167833566
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15943188637727546
+		Accuracy of Bagging on testX: 0.8405681136227245
+---------------------------
+	numLearners = 173
+		Error made by Bagging on trainX: 0.09681936387277457
+		Accuracy of Bagging on trainX: 0.9031806361272254
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1592318463692738
+		Accuracy of Bagging on testX: 0.8407681536307262
+---------------------------
+	numLearners = 174
+		Error made by Bagging on trainX: 0.10582116423284649
+		Accuracy of Bagging on trainX: 0.8941788357671535
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16923384676935394
+		Accuracy of Bagging on testX: 0.8307661532306461
+---------------------------
+	numLearners = 175
+		Error made by Bagging on trainX: 0.08581716343268664
+		Accuracy of Bagging on trainX: 0.9141828365673134
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1612322464492898
+		Accuracy of Bagging on testX: 0.8387677535507102
+---------------------------
+	numLearners = 176
+		Error made by Bagging on trainX: 0.12122424484896976
+		Accuracy of Bagging on trainX: 0.8787757551510302
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15243048609721943
+		Accuracy of Bagging on testX: 0.8475695139027806
+---------------------------
+	numLearners = 177
+		Error made by Bagging on trainX: 0.07661532306461294
+		Accuracy of Bagging on trainX: 0.9233846769353871
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15483096619323866
+		Accuracy of Bagging on testX: 0.8451690338067613
+---------------------------
+	numLearners = 178
+		Error made by Bagging on trainX: 0.1292258451690338
+		Accuracy of Bagging on trainX: 0.8707741548309662
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15903180636127234
+		Accuracy of Bagging on testX: 0.8409681936387277
+---------------------------
+	numLearners = 179
+		Error made by Bagging on trainX: 0.10622124424884982
+		Accuracy of Bagging on trainX: 0.8937787557511502
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15723144628925778
+		Accuracy of Bagging on testX: 0.8427685537107422
+---------------------------
+	numLearners = 180
+		Error made by Bagging on trainX: 0.08861772354470898
+		Accuracy of Bagging on trainX: 0.911382276455291
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15123024604920987
+		Accuracy of Bagging on testX: 0.8487697539507901
+---------------------------
+	numLearners = 181
+		Error made by Bagging on trainX: 0.11862372474494909
+		Accuracy of Bagging on trainX: 0.8813762752550509
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15883176635327068
+		Accuracy of Bagging on testX: 0.8411682336467293
+---------------------------
+	numLearners = 182
+		Error made by Bagging on trainX: 0.0758151630326066
+		Accuracy of Bagging on trainX: 0.9241848369673934
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16403280656131236
+		Accuracy of Bagging on testX: 0.8359671934386876
+---------------------------
+	numLearners = 183
+		Error made by Bagging on trainX: 0.1582316463292659
+		Accuracy of Bagging on trainX: 0.8417683536707341
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1776355271054212
+		Accuracy of Bagging on testX: 0.8223644728945788
+---------------------------
+	numLearners = 184
+		Error made by Bagging on trainX: 0.13762752550510093
+		Accuracy of Bagging on trainX: 0.8623724744948991
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16763352670534104
+		Accuracy of Bagging on testX: 0.832366473294659
+---------------------------
+	numLearners = 185
+		Error made by Bagging on trainX: 0.06681336267253446
+		Accuracy of Bagging on trainX: 0.9331866373274655
+
+		Performing testing...
+		Error made by Bagging on testX: 0.156631326265253
+		Accuracy of Bagging on testX: 0.843368673734747
+---------------------------
+	numLearners = 186
+		Error made by Bagging on trainX: 0.0768153630726145
+		Accuracy of Bagging on trainX: 0.9231846369273855
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15703140628125623
+		Accuracy of Bagging on testX: 0.8429685937187438
+---------------------------
+	numLearners = 187
+		Error made by Bagging on trainX: 0.19623924784956992
+		Accuracy of Bagging on trainX: 0.8037607521504301
+
+		Performing testing...
+		Error made by Bagging on testX: 0.20324064812962583
+		Accuracy of Bagging on testX: 0.7967593518703742
+---------------------------
+	numLearners = 188
+		Error made by Bagging on trainX: 0.12522504500900178
+		Accuracy of Bagging on trainX: 0.8747749549909982
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15803160632126423
+		Accuracy of Bagging on testX: 0.8419683936787358
+---------------------------
+	numLearners = 189
+		Error made by Bagging on trainX: 0.1078215643128626
+		Accuracy of Bagging on trainX: 0.8921784356871374
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15743148629725945
+		Accuracy of Bagging on testX: 0.8425685137027406
+---------------------------
+	numLearners = 190
+		Error made by Bagging on trainX: 0.1668333666733346
+		Accuracy of Bagging on trainX: 0.8331666333266654
+
+		Performing testing...
+		Error made by Bagging on testX: 0.18843768753750756
+		Accuracy of Bagging on testX: 0.8115623124624924
+---------------------------
+	numLearners = 191
+		Error made by Bagging on trainX: 0.08861772354470898
+		Accuracy of Bagging on trainX: 0.911382276455291
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16243248649729947
+		Accuracy of Bagging on testX: 0.8375675135027005
+---------------------------
+	numLearners = 192
+		Error made by Bagging on trainX: 0.17223444688937783
+		Accuracy of Bagging on trainX: 0.8277655531106222
+
+		Performing testing...
+		Error made by Bagging on testX: 0.18383676735347065
+		Accuracy of Bagging on testX: 0.8161632326465293
+---------------------------
+	numLearners = 193
+		Error made by Bagging on trainX: 0.08201640328065618
+		Accuracy of Bagging on trainX: 0.9179835967193438
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16423284656931392
+		Accuracy of Bagging on testX: 0.8357671534306861
+---------------------------
+	numLearners = 194
+		Error made by Bagging on trainX: 0.10442088417683548
+		Accuracy of Bagging on trainX: 0.8955791158231645
+
+		Performing testing...
+		Error made by Bagging on testX: 0.153630726145229
+		Accuracy of Bagging on testX: 0.846369273854771
+---------------------------
+	numLearners = 195
+		Error made by Bagging on trainX: 0.0844168833766753
+		Accuracy of Bagging on trainX: 0.9155831166233247
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1592318463692739
+		Accuracy of Bagging on testX: 0.8407681536307261
+---------------------------
+	numLearners = 196
+		Error made by Bagging on trainX: 0.093618723744749
+		Accuracy of Bagging on trainX: 0.906381276255251
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15683136627325456
+		Accuracy of Bagging on testX: 0.8431686337267454
+---------------------------
+	numLearners = 197
+		Error made by Bagging on trainX: 0.08161632326465296
+		Accuracy of Bagging on trainX: 0.918383676735347
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16183236647329458
+		Accuracy of Bagging on testX: 0.8381676335267054
+---------------------------
+	numLearners = 198
+		Error made by Bagging on trainX: 0.07201440288057603
+		Accuracy of Bagging on trainX: 0.927985597119424
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15183036607321465
+		Accuracy of Bagging on testX: 0.8481696339267853
+---------------------------
+	numLearners = 199
+		Error made by Bagging on trainX: 0.09081816363272655
+		Accuracy of Bagging on trainX: 0.9091818363672735
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15863172634526912
+		Accuracy of Bagging on testX: 0.8413682736547309
+---------------------------
+	numLearners = 200
+		Error made by Bagging on trainX: 0.13822764552910582
+		Accuracy of Bagging on trainX: 0.8617723544708942
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16203240648129624
+		Accuracy of Bagging on testX: 0.8379675935187038
+---------------------------
+	numLearners = 201
+		Error made by Bagging on trainX: 0.14002800560112028
+		Accuracy of Bagging on trainX: 0.8599719943988797
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15743148629725945
+		Accuracy of Bagging on testX: 0.8425685137027406
+---------------------------
+	numLearners = 202
+		Error made by Bagging on trainX: 0.06761352270454091
+		Accuracy of Bagging on trainX: 0.9323864772954591
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15043008601720342
+		Accuracy of Bagging on testX: 0.8495699139827966
+---------------------------
+	numLearners = 203
+		Error made by Bagging on trainX: 0.09481896379275856
+		Accuracy of Bagging on trainX: 0.9051810362072414
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16643328665733148
+		Accuracy of Bagging on testX: 0.8335667133426685
+---------------------------
+	numLearners = 204
+		Error made by Bagging on trainX: 0.09321864372874578
+		Accuracy of Bagging on trainX: 0.9067813562712542
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15483096619323866
+		Accuracy of Bagging on testX: 0.8451690338067613
+---------------------------
+	numLearners = 205
+		Error made by Bagging on trainX: 0.10702140428085616
+		Accuracy of Bagging on trainX: 0.8929785957191438
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15643128625725145
+		Accuracy of Bagging on testX: 0.8435687137427486
+---------------------------
+	numLearners = 206
+		Error made by Bagging on trainX: 0.13002600520104013
+		Accuracy of Bagging on trainX: 0.8699739947989599
+
+		Performing testing...
+		Error made by Bagging on testX: 0.157631526305261
+		Accuracy of Bagging on testX: 0.842368473694739
+---------------------------
+	numLearners = 207
+		Error made by Bagging on trainX: 0.0702140428085617
+		Accuracy of Bagging on trainX: 0.9297859571914383
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16243248649729947
+		Accuracy of Bagging on testX: 0.8375675135027005
+---------------------------
+	numLearners = 208
+		Error made by Bagging on trainX: 0.0966193238647729
+		Accuracy of Bagging on trainX: 0.9033806761352271
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15783156631326256
+		Accuracy of Bagging on testX: 0.8421684336867374
+---------------------------
+	numLearners = 209
+		Error made by Bagging on trainX: 0.07501500300060004
+		Accuracy of Bagging on trainX: 0.9249849969994
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16503300660132025
+		Accuracy of Bagging on testX: 0.8349669933986797
+---------------------------
+	numLearners = 210
+		Error made by Bagging on trainX: 0.07561512302460494
+		Accuracy of Bagging on trainX: 0.9243848769753951
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15323064612922588
+		Accuracy of Bagging on testX: 0.8467693538707741
+---------------------------
+	numLearners = 211
+		Error made by Bagging on trainX: 0.12322464492898577
+		Accuracy of Bagging on trainX: 0.8767753550710142
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16703340668133615
+		Accuracy of Bagging on testX: 0.8329665933186639
+---------------------------
+	numLearners = 212
+		Error made by Bagging on trainX: 0.10462092418483704
+		Accuracy of Bagging on trainX: 0.895379075815163
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16503300660132036
+		Accuracy of Bagging on testX: 0.8349669933986796
+---------------------------
+	numLearners = 213
+		Error made by Bagging on trainX: 0.0794158831766354
+		Accuracy of Bagging on trainX: 0.9205841168233646
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1648329665933186
+		Accuracy of Bagging on testX: 0.8351670334066814
+---------------------------
+	numLearners = 214
+		Error made by Bagging on trainX: 0.16643328665733148
+		Accuracy of Bagging on trainX: 0.8335667133426685
+
+		Performing testing...
+		Error made by Bagging on testX: 0.19123824764953
+		Accuracy of Bagging on testX: 0.80876175235047
+---------------------------
+	numLearners = 215
+		Error made by Bagging on trainX: 0.0814162832566514
+		Accuracy of Bagging on trainX: 0.9185837167433486
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15183036607321454
+		Accuracy of Bagging on testX: 0.8481696339267855
+---------------------------
+	numLearners = 216
+		Error made by Bagging on trainX: 0.06701340268053613
+		Accuracy of Bagging on trainX: 0.9329865973194639
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1622324464892979
+		Accuracy of Bagging on testX: 0.8377675535107021
+---------------------------
+	numLearners = 217
+		Error made by Bagging on trainX: 0.08321664332866574
+		Accuracy of Bagging on trainX: 0.9167833566713343
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1638327665533107
+		Accuracy of Bagging on testX: 0.8361672334466893
+---------------------------
+	numLearners = 218
+		Error made by Bagging on trainX: 0.10702140428085616
+		Accuracy of Bagging on trainX: 0.8929785957191438
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1678335667133426
+		Accuracy of Bagging on testX: 0.8321664332866574
+---------------------------
+	numLearners = 219
+		Error made by Bagging on trainX: 0.10002000400080013
+		Accuracy of Bagging on trainX: 0.8999799959991999
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16723344668933793
+		Accuracy of Bagging on testX: 0.8327665533106621
+---------------------------
+	numLearners = 220
+		Error made by Bagging on trainX: 0.09961992398479702
+		Accuracy of Bagging on trainX: 0.900380076015203
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16503300660132025
+		Accuracy of Bagging on testX: 0.8349669933986797
+---------------------------
+	numLearners = 221
+		Error made by Bagging on trainX: 0.07941588317663528
+		Accuracy of Bagging on trainX: 0.9205841168233647
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16043208641728346
+		Accuracy of Bagging on testX: 0.8395679135827165
+---------------------------
+	numLearners = 222
+		Error made by Bagging on trainX: 0.07361472294458893
+		Accuracy of Bagging on trainX: 0.9263852770554111
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1566313262652531
+		Accuracy of Bagging on testX: 0.8433686737347469
+---------------------------
+	numLearners = 223
+		Error made by Bagging on trainX: 0.13362672534506903
+		Accuracy of Bagging on trainX: 0.866373274654931
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16203240648129635
+		Accuracy of Bagging on testX: 0.8379675935187036
+---------------------------
+	numLearners = 224
+		Error made by Bagging on trainX: 0.07921584316863373
+		Accuracy of Bagging on trainX: 0.9207841568313663
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1572314462892579
+		Accuracy of Bagging on testX: 0.8427685537107421
+---------------------------
+	numLearners = 225
+		Error made by Bagging on trainX: 0.09581916383276656
+		Accuracy of Bagging on trainX: 0.9041808361672334
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16003200640128024
+		Accuracy of Bagging on testX: 0.8399679935987198
+---------------------------
+	numLearners = 226
+		Error made by Bagging on trainX: 0.08401680336067219
+		Accuracy of Bagging on trainX: 0.9159831966393278
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16203240648129624
+		Accuracy of Bagging on testX: 0.8379675935187038
+---------------------------
+	numLearners = 227
+		Error made by Bagging on trainX: 0.06481296259251845
+		Accuracy of Bagging on trainX: 0.9351870374074815
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15383076615323066
+		Accuracy of Bagging on testX: 0.8461692338467693
+---------------------------
+	numLearners = 228
+		Error made by Bagging on trainX: 0.08581716343268653
+		Accuracy of Bagging on trainX: 0.9141828365673135
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15203040608121632
+		Accuracy of Bagging on testX: 0.8479695939187837
+---------------------------
+	numLearners = 229
+		Error made by Bagging on trainX: 0.07441488297659526
+		Accuracy of Bagging on trainX: 0.9255851170234047
+
+		Performing testing...
+		Error made by Bagging on testX: 0.154630926185237
+		Accuracy of Bagging on testX: 0.845369073814763
+---------------------------
+	numLearners = 230
+		Error made by Bagging on trainX: 0.11122224444888973
+		Accuracy of Bagging on trainX: 0.8887777555511103
+
+		Performing testing...
+		Error made by Bagging on testX: 0.17843568713742752
+		Accuracy of Bagging on testX: 0.8215643128625725
+---------------------------
+	numLearners = 231
+		Error made by Bagging on trainX: 0.13182636527305458
+		Accuracy of Bagging on trainX: 0.8681736347269454
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15943188637727546
+		Accuracy of Bagging on testX: 0.8405681136227245
+---------------------------
+	numLearners = 232
+		Error made by Bagging on trainX: 0.11202240448089618
+		Accuracy of Bagging on trainX: 0.8879775955191038
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1572314462892579
+		Accuracy of Bagging on testX: 0.8427685537107421
+---------------------------
+	numLearners = 233
+		Error made by Bagging on trainX: 0.07121424284856981
+		Accuracy of Bagging on trainX: 0.9287857571514302
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15963192638527712
+		Accuracy of Bagging on testX: 0.8403680736147229
+---------------------------
+	numLearners = 234
+		Error made by Bagging on trainX: 0.1968393678735747
+		Accuracy of Bagging on trainX: 0.8031606321264253
+
+		Performing testing...
+		Error made by Bagging on testX: 0.20164032806561316
+		Accuracy of Bagging on testX: 0.7983596719343868
+---------------------------
+	numLearners = 235
+		Error made by Bagging on trainX: 0.0814162832566514
+		Accuracy of Bagging on trainX: 0.9185837167433486
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15943188637727546
+		Accuracy of Bagging on testX: 0.8405681136227245
+---------------------------
+	numLearners = 236
+		Error made by Bagging on trainX: 0.08001600320064006
+		Accuracy of Bagging on trainX: 0.9199839967993599
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15783156631326267
+		Accuracy of Bagging on testX: 0.8421684336867373
+---------------------------
+	numLearners = 237
+		Error made by Bagging on trainX: 0.12462492498499711
+		Accuracy of Bagging on trainX: 0.8753750750150029
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15443088617723544
+		Accuracy of Bagging on testX: 0.8455691138227646
+---------------------------
+	numLearners = 238
+		Error made by Bagging on trainX: 0.07321464292858582
+		Accuracy of Bagging on trainX: 0.9267853570714142
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16503300660132025
+		Accuracy of Bagging on testX: 0.8349669933986797
+---------------------------
+	numLearners = 239
+		Error made by Bagging on trainX: 0.11002200440088017
+		Accuracy of Bagging on trainX: 0.8899779955991198
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15283056611322265
+		Accuracy of Bagging on testX: 0.8471694338867773
+---------------------------
+	numLearners = 240
+		Error made by Bagging on trainX: 0.0844168833766753
+		Accuracy of Bagging on trainX: 0.9155831166233247
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1612322464492899
+		Accuracy of Bagging on testX: 0.8387677535507101
+---------------------------
+	numLearners = 241
+		Error made by Bagging on trainX: 0.11662332466493308
+		Accuracy of Bagging on trainX: 0.8833766753350669
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1572314462892579
+		Accuracy of Bagging on testX: 0.8427685537107421
+---------------------------
+	numLearners = 242
+		Error made by Bagging on trainX: 0.10602120424084815
+		Accuracy of Bagging on trainX: 0.8939787957591518
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16523304660932192
+		Accuracy of Bagging on testX: 0.8347669533906781
+---------------------------
+	numLearners = 243
+		Error made by Bagging on trainX: 0.16203240648129624
+		Accuracy of Bagging on trainX: 0.8379675935187038
+
+		Performing testing...
+		Error made by Bagging on testX: 0.19863972794558915
+		Accuracy of Bagging on testX: 0.8013602720544108
+---------------------------
+	numLearners = 244
+		Error made by Bagging on trainX: 0.18903780756151223
+		Accuracy of Bagging on trainX: 0.8109621924384878
+
+		Performing testing...
+		Error made by Bagging on testX: 0.19743948789757948
+		Accuracy of Bagging on testX: 0.8025605121024205
+---------------------------
+	numLearners = 245
+		Error made by Bagging on trainX: 0.07501500300060016
+		Accuracy of Bagging on trainX: 0.9249849969993998
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15643128625725145
+		Accuracy of Bagging on testX: 0.8435687137427486
+---------------------------
+	numLearners = 246
+		Error made by Bagging on trainX: 0.126625325065013
+		Accuracy of Bagging on trainX: 0.873374674934987
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16343268653730747
+		Accuracy of Bagging on testX: 0.8365673134626925
+---------------------------
+	numLearners = 247
+		Error made by Bagging on trainX: 0.08121624324864973
+		Accuracy of Bagging on trainX: 0.9187837567513503
+
+		Performing testing...
+		Error made by Bagging on testX: 0.159631926385277
+		Accuracy of Bagging on testX: 0.840368073614723
+---------------------------
+	numLearners = 248
+		Error made by Bagging on trainX: 0.15123024604920987
+		Accuracy of Bagging on trainX: 0.8487697539507901
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15603120624124833
+		Accuracy of Bagging on testX: 0.8439687937587517
+---------------------------
+	numLearners = 249
+		Error made by Bagging on trainX: 0.21224244848969787
+		Accuracy of Bagging on trainX: 0.7877575515103021
+
+		Performing testing...
+		Error made by Bagging on testX: 0.2192438487697539
+		Accuracy of Bagging on testX: 0.7807561512302461
+---------------------------
+	numLearners = 250
+		Error made by Bagging on trainX: 0.08201640328065618
+		Accuracy of Bagging on trainX: 0.9179835967193438
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1622324464892979
+		Accuracy of Bagging on testX: 0.8377675535107021
+---------------------------
+	numLearners = 251
+		Error made by Bagging on trainX: 0.1084216843368675
+		Accuracy of Bagging on trainX: 0.8915783156631325
+
+		Performing testing...
+		Error made by Bagging on testX: 0.153630726145229
+		Accuracy of Bagging on testX: 0.846369273854771
+---------------------------
+	numLearners = 252
+		Error made by Bagging on trainX: 0.12502500500100022
+		Accuracy of Bagging on trainX: 0.8749749949989998
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15843168633726745
+		Accuracy of Bagging on testX: 0.8415683136627325
+---------------------------
+	numLearners = 253
+		Error made by Bagging on trainX: 0.10562112422484504
+		Accuracy of Bagging on trainX: 0.894378875775155
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1510302060412082
+		Accuracy of Bagging on testX: 0.8489697939587918
+---------------------------
+	numLearners = 254
+		Error made by Bagging on trainX: 0.1506301260252051
+		Accuracy of Bagging on trainX: 0.8493698739747949
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15903180636127234
+		Accuracy of Bagging on testX: 0.8409681936387277
+---------------------------
+	numLearners = 255
+		Error made by Bagging on trainX: 0.12162432486497288
+		Accuracy of Bagging on trainX: 0.8783756751350271
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15283056611322254
+		Accuracy of Bagging on testX: 0.8471694338867775
+---------------------------
+	numLearners = 256
+		Error made by Bagging on trainX: 0.09081816363272655
+		Accuracy of Bagging on trainX: 0.9091818363672735
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16563312662532503
+		Accuracy of Bagging on testX: 0.834366873374675
+---------------------------
+	numLearners = 257
+		Error made by Bagging on trainX: 0.1012202440488097
+		Accuracy of Bagging on trainX: 0.8987797559511903
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15183036607321454
+		Accuracy of Bagging on testX: 0.8481696339267855
+---------------------------
+	numLearners = 258
+		Error made by Bagging on trainX: 0.1282256451290258
+		Accuracy of Bagging on trainX: 0.8717743548709742
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1694338867773555
+		Accuracy of Bagging on testX: 0.8305661132226445
+---------------------------
+	numLearners = 259
+		Error made by Bagging on trainX: 0.08741748349669942
+		Accuracy of Bagging on trainX: 0.9125825165033006
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1572314462892579
+		Accuracy of Bagging on testX: 0.8427685537107421
+---------------------------
+	numLearners = 260
+		Error made by Bagging on trainX: 0.07961592318463684
+		Accuracy of Bagging on trainX: 0.9203840768153632
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15883176635327056
+		Accuracy of Bagging on testX: 0.8411682336467294
+---------------------------
+	numLearners = 261
+		Error made by Bagging on trainX: 0.11622324464892975
+		Accuracy of Bagging on trainX: 0.8837767553510703
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15483096619323866
+		Accuracy of Bagging on testX: 0.8451690338067613
+---------------------------
+	numLearners = 262
+		Error made by Bagging on trainX: 0.11662332466493297
+		Accuracy of Bagging on trainX: 0.883376675335067
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15843168633726745
+		Accuracy of Bagging on testX: 0.8415683136627325
+---------------------------
+	numLearners = 263
+		Error made by Bagging on trainX: 0.14942988597719542
+		Accuracy of Bagging on trainX: 0.8505701140228046
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16923384676935394
+		Accuracy of Bagging on testX: 0.8307661532306461
+---------------------------
+	numLearners = 264
+		Error made by Bagging on trainX: 0.13742748549709938
+		Accuracy of Bagging on trainX: 0.8625725145029006
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1582316463292659
+		Accuracy of Bagging on testX: 0.8417683536707341
+---------------------------
+	numLearners = 265
+		Error made by Bagging on trainX: 0.11622324464892975
+		Accuracy of Bagging on trainX: 0.8837767553510703
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15583116623324655
+		Accuracy of Bagging on testX: 0.8441688337667534
+---------------------------
+	numLearners = 266
+		Error made by Bagging on trainX: 0.16423284656931392
+		Accuracy of Bagging on trainX: 0.8357671534306861
+
+		Performing testing...
+		Error made by Bagging on testX: 0.17783556711342263
+		Accuracy of Bagging on testX: 0.8221644328865774
+---------------------------
+	numLearners = 267
+		Error made by Bagging on trainX: 0.10702140428085616
+		Accuracy of Bagging on trainX: 0.8929785957191438
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16383276655331058
+		Accuracy of Bagging on testX: 0.8361672334466894
+---------------------------
+	numLearners = 268
+		Error made by Bagging on trainX: 0.12782556511302268
+		Accuracy of Bagging on trainX: 0.8721744348869773
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1688337667533506
+		Accuracy of Bagging on testX: 0.8311662332466494
+---------------------------
+	numLearners = 269
+		Error made by Bagging on trainX: 0.09741948389677935
+		Accuracy of Bagging on trainX: 0.9025805161032207
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15603120624124833
+		Accuracy of Bagging on testX: 0.8439687937587517
+---------------------------
+	numLearners = 270
+		Error made by Bagging on trainX: 0.06541308261652323
+		Accuracy of Bagging on trainX: 0.9345869173834768
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16043208641728346
+		Accuracy of Bagging on testX: 0.8395679135827165
+---------------------------
+	numLearners = 271
+		Error made by Bagging on trainX: 0.10642128425685127
+		Accuracy of Bagging on trainX: 0.8935787157431487
+
+		Performing testing...
+		Error made by Bagging on testX: 0.155631126225245
+		Accuracy of Bagging on testX: 0.844368873774755
+---------------------------
+	numLearners = 272
+		Error made by Bagging on trainX: 0.10422084416883381
+		Accuracy of Bagging on trainX: 0.8957791558311662
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1506301260252051
+		Accuracy of Bagging on testX: 0.8493698739747949
+---------------------------
+	numLearners = 273
+		Error made by Bagging on trainX: 0.07501500300060004
+		Accuracy of Bagging on trainX: 0.9249849969994
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1632326465293059
+		Accuracy of Bagging on testX: 0.8367673534706941
+---------------------------
+	numLearners = 274
+		Error made by Bagging on trainX: 0.09241848369673933
+		Accuracy of Bagging on trainX: 0.9075815163032607
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16743348669733948
+		Accuracy of Bagging on testX: 0.8325665133026605
+---------------------------
+	numLearners = 275
+		Error made by Bagging on trainX: 0.09501900380076012
+		Accuracy of Bagging on trainX: 0.9049809961992399
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1582316463292659
+		Accuracy of Bagging on testX: 0.8417683536707341
+---------------------------
+	numLearners = 276
+		Error made by Bagging on trainX: 0.12682536507301467
+		Accuracy of Bagging on trainX: 0.8731746349269853
+
+		Performing testing...
+		Error made by Bagging on testX: 0.17103420684136827
+		Accuracy of Bagging on testX: 0.8289657931586317
+---------------------------
+	numLearners = 277
+		Error made by Bagging on trainX: 0.12142428485697132
+		Accuracy of Bagging on trainX: 0.8785757151430287
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1454290858171634
+		Accuracy of Bagging on testX: 0.8545709141828366
+---------------------------
+	numLearners = 278
+		Error made by Bagging on trainX: 0.09961992398479691
+		Accuracy of Bagging on trainX: 0.9003800760152031
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1638327665533107
+		Accuracy of Bagging on testX: 0.8361672334466893
+---------------------------
+	numLearners = 279
+		Error made by Bagging on trainX: 0.06681336267253446
+		Accuracy of Bagging on trainX: 0.9331866373274655
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15783156631326256
+		Accuracy of Bagging on testX: 0.8421684336867374
+---------------------------
+	numLearners = 280
+		Error made by Bagging on trainX: 0.06941388277655536
+		Accuracy of Bagging on trainX: 0.9305861172234446
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15743148629725945
+		Accuracy of Bagging on testX: 0.8425685137027406
+---------------------------
+	numLearners = 281
+		Error made by Bagging on trainX: 0.12802560512102423
+		Accuracy of Bagging on trainX: 0.8719743948789758
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16103220644128824
+		Accuracy of Bagging on testX: 0.8389677935587118
+---------------------------
+	numLearners = 282
+		Error made by Bagging on trainX: 0.07901580316063217
+		Accuracy of Bagging on trainX: 0.9209841968393678
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15503100620124033
+		Accuracy of Bagging on testX: 0.8449689937987597
+---------------------------
+	numLearners = 283
+		Error made by Bagging on trainX: 0.07501500300060004
+		Accuracy of Bagging on trainX: 0.9249849969994
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16443288657731547
+		Accuracy of Bagging on testX: 0.8355671134226845
+---------------------------
+	numLearners = 284
+		Error made by Bagging on trainX: 0.06981396279255847
+		Accuracy of Bagging on trainX: 0.9301860372074415
+
+		Performing testing...
+		Error made by Bagging on testX: 0.154630926185237
+		Accuracy of Bagging on testX: 0.845369073814763
+---------------------------
+	numLearners = 285
+		Error made by Bagging on trainX: 0.20484096819363873
+		Accuracy of Bagging on trainX: 0.7951590318063613
+
+		Performing testing...
+		Error made by Bagging on testX: 0.2116423284656932
+		Accuracy of Bagging on testX: 0.7883576715343068
+---------------------------
+	numLearners = 286
+		Error made by Bagging on trainX: 0.1694338867773555
+		Accuracy of Bagging on trainX: 0.8305661132226445
+
+		Performing testing...
+		Error made by Bagging on testX: 0.18123624724944987
+		Accuracy of Bagging on testX: 0.8187637527505501
+---------------------------
+	numLearners = 287
+		Error made by Bagging on trainX: 0.13642728545709137
+		Accuracy of Bagging on trainX: 0.8635727145429086
+
+		Performing testing...
+		Error made by Bagging on testX: 0.17023404680936194
+		Accuracy of Bagging on testX: 0.8297659531906381
+---------------------------
+	numLearners = 288
+		Error made by Bagging on trainX: 0.12642528505701145
+		Accuracy of Bagging on trainX: 0.8735747149429886
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1694338867773555
+		Accuracy of Bagging on testX: 0.8305661132226445
+---------------------------
+	numLearners = 289
+		Error made by Bagging on trainX: 0.14262852570514095
+		Accuracy of Bagging on trainX: 0.857371474294859
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1658331666333266
+		Accuracy of Bagging on testX: 0.8341668333666734
+---------------------------
+	numLearners = 290
+		Error made by Bagging on trainX: 0.10042008401680347
+		Accuracy of Bagging on trainX: 0.8995799159831965
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15123024604920987
+		Accuracy of Bagging on testX: 0.8487697539507901
+---------------------------
+	numLearners = 291
+		Error made by Bagging on trainX: 0.15083016603320665
+		Accuracy of Bagging on trainX: 0.8491698339667934
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1718343668733746
+		Accuracy of Bagging on testX: 0.8281656331266254
+---------------------------
+	numLearners = 292
+		Error made by Bagging on trainX: 0.09881976395279057
+		Accuracy of Bagging on trainX: 0.9011802360472094
+
+		Performing testing...
+		Error made by Bagging on testX: 0.14862972594518908
+		Accuracy of Bagging on testX: 0.8513702740548109
+---------------------------
+	numLearners = 293
+		Error made by Bagging on trainX: 0.10362072414482904
+		Accuracy of Bagging on trainX: 0.896379275855171
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15483096619323866
+		Accuracy of Bagging on testX: 0.8451690338067613
+---------------------------
+	numLearners = 294
+		Error made by Bagging on trainX: 0.11622324464892975
+		Accuracy of Bagging on trainX: 0.8837767553510703
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16003200640128035
+		Accuracy of Bagging on testX: 0.8399679935987197
+---------------------------
+	numLearners = 295
+		Error made by Bagging on trainX: 0.20824164832966585
+		Accuracy of Bagging on trainX: 0.7917583516703341
+
+		Performing testing...
+		Error made by Bagging on testX: 0.22244448889777957
+		Accuracy of Bagging on testX: 0.7775555111022204
+---------------------------
+	numLearners = 296
+		Error made by Bagging on trainX: 0.14522904580916185
+		Accuracy of Bagging on trainX: 0.8547709541908382
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15543108621724344
+		Accuracy of Bagging on testX: 0.8445689137827566
+---------------------------
+	numLearners = 297
+		Error made by Bagging on trainX: 0.08561712342468497
+		Accuracy of Bagging on trainX: 0.914382876575315
+
+		Performing testing...
+		Error made by Bagging on testX: 0.159631926385277
+		Accuracy of Bagging on testX: 0.840368073614723
+---------------------------
+	numLearners = 298
+		Error made by Bagging on trainX: 0.10282056411282259
+		Accuracy of Bagging on trainX: 0.8971794358871774
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16263252650530102
+		Accuracy of Bagging on testX: 0.837367473494699
+---------------------------
+	numLearners = 299
+		Error made by Bagging on trainX: 0.09701940388077612
+		Accuracy of Bagging on trainX: 0.9029805961192239
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16563312662532503
+		Accuracy of Bagging on testX: 0.834366873374675
+---------------------------
+	numLearners = 300
+		Error made by Bagging on trainX: 0.10502100420084015
+		Accuracy of Bagging on trainX: 0.8949789957991598
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15843168633726745
+		Accuracy of Bagging on testX: 0.8415683136627325
+---------------------------
+	numLearners = 301
+		Error made by Bagging on trainX: 0.06961392278455691
+		Accuracy of Bagging on trainX: 0.9303860772154431
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1536307261452291
+		Accuracy of Bagging on testX: 0.8463692738547709
+---------------------------
+	numLearners = 302
+		Error made by Bagging on trainX: 0.11322264452890574
+		Accuracy of Bagging on trainX: 0.8867773554710943
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15583116623324667
+		Accuracy of Bagging on testX: 0.8441688337667533
+---------------------------
+	numLearners = 303
+		Error made by Bagging on trainX: 0.09801960392078413
+		Accuracy of Bagging on trainX: 0.9019803960792159
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16343268653730747
+		Accuracy of Bagging on testX: 0.8365673134626925
+---------------------------
+	numLearners = 304
+		Error made by Bagging on trainX: 0.11662332466493308
+		Accuracy of Bagging on trainX: 0.8833766753350669
+
+		Performing testing...
+		Error made by Bagging on testX: 0.17123424684936994
+		Accuracy of Bagging on testX: 0.8287657531506301
+---------------------------
+	numLearners = 305
+		Error made by Bagging on trainX: 0.06941388277655536
+		Accuracy of Bagging on trainX: 0.9305861172234446
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15903180636127234
+		Accuracy of Bagging on testX: 0.8409681936387277
+---------------------------
+	numLearners = 306
+		Error made by Bagging on trainX: 0.1480296059211843
+		Accuracy of Bagging on trainX: 0.8519703940788157
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16963392678535705
+		Accuracy of Bagging on testX: 0.830366073214643
+---------------------------
+	numLearners = 307
+		Error made by Bagging on trainX: 0.07901580316063206
+		Accuracy of Bagging on trainX: 0.9209841968393679
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15803160632126423
+		Accuracy of Bagging on testX: 0.8419683936787358
+---------------------------
+	numLearners = 308
+		Error made by Bagging on trainX: 0.15483096619323866
+		Accuracy of Bagging on trainX: 0.8451690338067613
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1662332466493298
+		Accuracy of Bagging on testX: 0.8337667533506702
+---------------------------
+	numLearners = 309
+		Error made by Bagging on trainX: 0.07761552310462094
+		Accuracy of Bagging on trainX: 0.9223844768953791
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16523304660932192
+		Accuracy of Bagging on testX: 0.8347669533906781
+---------------------------
+	numLearners = 310
+		Error made by Bagging on trainX: 0.12482496499299855
+		Accuracy of Bagging on trainX: 0.8751750350070014
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1572314462892579
+		Accuracy of Bagging on testX: 0.8427685537107421
+---------------------------
+	numLearners = 311
+		Error made by Bagging on trainX: 0.07181436287257459
+		Accuracy of Bagging on trainX: 0.9281856371274254
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15783156631326256
+		Accuracy of Bagging on testX: 0.8421684336867374
+---------------------------
+	numLearners = 312
+		Error made by Bagging on trainX: 0.07161432286457292
+		Accuracy of Bagging on trainX: 0.9283856771354271
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15983196639327868
+		Accuracy of Bagging on testX: 0.8401680336067213
+---------------------------
+	numLearners = 313
+		Error made by Bagging on trainX: 0.11322264452890574
+		Accuracy of Bagging on trainX: 0.8867773554710943
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1678335667133426
+		Accuracy of Bagging on testX: 0.8321664332866574
+---------------------------
+	numLearners = 314
+		Error made by Bagging on trainX: 0.10362072414482892
+		Accuracy of Bagging on trainX: 0.8963792758551711
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16083216643328668
+		Accuracy of Bagging on testX: 0.8391678335667133
+---------------------------
+	numLearners = 315
+		Error made by Bagging on trainX: 0.08801760352070409
+		Accuracy of Bagging on trainX: 0.9119823964792959
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15383076615323066
+		Accuracy of Bagging on testX: 0.8461692338467693
+---------------------------
+	numLearners = 316
+		Error made by Bagging on trainX: 0.10502100420084015
+		Accuracy of Bagging on trainX: 0.8949789957991598
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1638327665533107
+		Accuracy of Bagging on testX: 0.8361672334466893
+---------------------------
+	numLearners = 317
+		Error made by Bagging on trainX: 0.07061412282456492
+		Accuracy of Bagging on trainX: 0.9293858771754351
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15323064612922588
+		Accuracy of Bagging on testX: 0.8467693538707741
+---------------------------
+	numLearners = 318
+		Error made by Bagging on trainX: 0.11982396479295854
+		Accuracy of Bagging on trainX: 0.8801760352070415
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16443288657731547
+		Accuracy of Bagging on testX: 0.8355671134226845
+---------------------------
+	numLearners = 319
+		Error made by Bagging on trainX: 0.10142028405681136
+		Accuracy of Bagging on trainX: 0.8985797159431886
+
+		Performing testing...
+		Error made by Bagging on testX: 0.17023404680936194
+		Accuracy of Bagging on testX: 0.8297659531906381
+---------------------------
+	numLearners = 320
+		Error made by Bagging on trainX: 0.13442688537707537
+		Accuracy of Bagging on trainX: 0.8655731146229246
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1694338867773555
+		Accuracy of Bagging on testX: 0.8305661132226445
+---------------------------
+	numLearners = 321
+		Error made by Bagging on trainX: 0.10962192438487706
+		Accuracy of Bagging on trainX: 0.8903780756151229
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16103220644128824
+		Accuracy of Bagging on testX: 0.8389677935587118
+---------------------------
+	numLearners = 322
+		Error made by Bagging on trainX: 0.10382076415283059
+		Accuracy of Bagging on trainX: 0.8961792358471694
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16043208641728346
+		Accuracy of Bagging on testX: 0.8395679135827165
+---------------------------
+	numLearners = 323
+		Error made by Bagging on trainX: 0.09941988397679535
+		Accuracy of Bagging on trainX: 0.9005801160232046
+
+		Performing testing...
+		Error made by Bagging on testX: 0.153630726145229
+		Accuracy of Bagging on testX: 0.846369273854771
+---------------------------
+	numLearners = 324
+		Error made by Bagging on trainX: 0.1180236047209442
+		Accuracy of Bagging on trainX: 0.8819763952790558
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16263252650530102
+		Accuracy of Bagging on testX: 0.837367473494699
+---------------------------
+	numLearners = 325
+		Error made by Bagging on trainX: 0.08821764352870576
+		Accuracy of Bagging on trainX: 0.9117823564712942
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16003200640128035
+		Accuracy of Bagging on testX: 0.8399679935987197
+---------------------------
+	numLearners = 326
+		Error made by Bagging on trainX: 0.0798159631926385
+		Accuracy of Bagging on trainX: 0.9201840368073615
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16603320664132837
+		Accuracy of Bagging on testX: 0.8339667933586716
+---------------------------
+	numLearners = 327
+		Error made by Bagging on trainX: 0.16003200640128035
+		Accuracy of Bagging on trainX: 0.8399679935987197
+
+		Performing testing...
+		Error made by Bagging on testX: 0.17183436687337472
+		Accuracy of Bagging on testX: 0.8281656331266253
+---------------------------
+	numLearners = 328
+		Error made by Bagging on trainX: 0.07101420284056814
+		Accuracy of Bagging on trainX: 0.9289857971594319
+
+		Performing testing...
+		Error made by Bagging on testX: 0.157631526305261
+		Accuracy of Bagging on testX: 0.842368473694739
+---------------------------
+	numLearners = 329
+		Error made by Bagging on trainX: 0.06801360272054413
+		Accuracy of Bagging on trainX: 0.9319863972794559
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15403080616123221
+		Accuracy of Bagging on testX: 0.8459691938387678
+---------------------------
+	numLearners = 330
+		Error made by Bagging on trainX: 0.0666133226645329
+		Accuracy of Bagging on trainX: 0.9333866773354671
+
+		Performing testing...
+		Error made by Bagging on testX: 0.14882976595319064
+		Accuracy of Bagging on testX: 0.8511702340468094
+---------------------------
+	numLearners = 331
+		Error made by Bagging on trainX: 0.12142428485697132
+		Accuracy of Bagging on trainX: 0.8785757151430287
+
+		Performing testing...
+		Error made by Bagging on testX: 0.159631926385277
+		Accuracy of Bagging on testX: 0.840368073614723
+---------------------------
+	numLearners = 332
+		Error made by Bagging on trainX: 0.18963792758551712
+		Accuracy of Bagging on trainX: 0.8103620724144829
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1988397679535907
+		Accuracy of Bagging on testX: 0.8011602320464093
+---------------------------
+	numLearners = 333
+		Error made by Bagging on trainX: 0.10202040408081614
+		Accuracy of Bagging on trainX: 0.8979795959191839
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1612322464492898
+		Accuracy of Bagging on testX: 0.8387677535507102
+---------------------------
+	numLearners = 334
+		Error made by Bagging on trainX: 0.0702140428085617
+		Accuracy of Bagging on trainX: 0.9297859571914383
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15743148629725945
+		Accuracy of Bagging on testX: 0.8425685137027406
+---------------------------
+	numLearners = 335
+		Error made by Bagging on trainX: 0.09301860372074411
+		Accuracy of Bagging on trainX: 0.9069813962792559
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16243248649729947
+		Accuracy of Bagging on testX: 0.8375675135027005
+---------------------------
+	numLearners = 336
+		Error made by Bagging on trainX: 0.1602320464092819
+		Accuracy of Bagging on trainX: 0.8397679535907181
+
+		Performing testing...
+		Error made by Bagging on testX: 0.17623524704940985
+		Accuracy of Bagging on testX: 0.8237647529505902
+---------------------------
+	numLearners = 337
+		Error made by Bagging on trainX: 0.12322464492898577
+		Accuracy of Bagging on trainX: 0.8767753550710142
+
+		Performing testing...
+		Error made by Bagging on testX: 0.18483696739347866
+		Accuracy of Bagging on testX: 0.8151630326065213
+---------------------------
+	numLearners = 338
+		Error made by Bagging on trainX: 0.12082416483296665
+		Accuracy of Bagging on trainX: 0.8791758351670333
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16823364672934593
+		Accuracy of Bagging on testX: 0.8317663532706541
+---------------------------
+	numLearners = 339
+		Error made by Bagging on trainX: 0.17303460692138428
+		Accuracy of Bagging on trainX: 0.8269653930786157
+
+		Performing testing...
+		Error made by Bagging on testX: 0.18963792758551712
+		Accuracy of Bagging on testX: 0.8103620724144829
+---------------------------
+	numLearners = 340
+		Error made by Bagging on trainX: 0.0910182036407281
+		Accuracy of Bagging on trainX: 0.9089817963592719
+
+		Performing testing...
+		Error made by Bagging on testX: 0.157631526305261
+		Accuracy of Bagging on testX: 0.842368473694739
+---------------------------
+	numLearners = 341
+		Error made by Bagging on trainX: 0.15343068613722743
+		Accuracy of Bagging on trainX: 0.8465693138627726
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16603320664132826
+		Accuracy of Bagging on testX: 0.8339667933586717
+---------------------------
+	numLearners = 342
+		Error made by Bagging on trainX: 0.14002800560112028
+		Accuracy of Bagging on trainX: 0.8599719943988797
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1638327665533107
+		Accuracy of Bagging on testX: 0.8361672334466893
+---------------------------
+	numLearners = 343
+		Error made by Bagging on trainX: 0.10982196439287861
+		Accuracy of Bagging on trainX: 0.8901780356071214
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15703140628125623
+		Accuracy of Bagging on testX: 0.8429685937187438
+---------------------------
+	numLearners = 344
+		Error made by Bagging on trainX: 0.06641328265653135
+		Accuracy of Bagging on trainX: 0.9335867173434687
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16303260652130436
+		Accuracy of Bagging on testX: 0.8369673934786956
+---------------------------
+	numLearners = 345
+		Error made by Bagging on trainX: 0.07361472294458893
+		Accuracy of Bagging on trainX: 0.9263852770554111
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15683136627325467
+		Accuracy of Bagging on testX: 0.8431686337267453
+---------------------------
+	numLearners = 346
+		Error made by Bagging on trainX: 0.1612322464492899
+		Accuracy of Bagging on trainX: 0.8387677535507101
+
+		Performing testing...
+		Error made by Bagging on testX: 0.17883576715343064
+		Accuracy of Bagging on testX: 0.8211642328465694
+---------------------------
+	numLearners = 347
+		Error made by Bagging on trainX: 0.09321864372874566
+		Accuracy of Bagging on trainX: 0.9067813562712543
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16523304660932192
+		Accuracy of Bagging on testX: 0.8347669533906781
+---------------------------
+	numLearners = 348
+		Error made by Bagging on trainX: 0.11342268453690729
+		Accuracy of Bagging on trainX: 0.8865773154630927
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15203040608121632
+		Accuracy of Bagging on testX: 0.8479695939187837
+---------------------------
+	numLearners = 349
+		Error made by Bagging on trainX: 0.1170234046809362
+		Accuracy of Bagging on trainX: 0.8829765953190638
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15543108621724344
+		Accuracy of Bagging on testX: 0.8445689137827566
+---------------------------
+	numLearners = 350
+		Error made by Bagging on trainX: 0.08161632326465296
+		Accuracy of Bagging on trainX: 0.918383676735347
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1562312462492499
+		Accuracy of Bagging on testX: 0.8437687537507501
+---------------------------
+	numLearners = 351
+		Error made by Bagging on trainX: 0.10442088417683537
+		Accuracy of Bagging on trainX: 0.8955791158231646
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15583116623324667
+		Accuracy of Bagging on testX: 0.8441688337667533
+---------------------------
+	numLearners = 352
+		Error made by Bagging on trainX: 0.08921784356871376
+		Accuracy of Bagging on trainX: 0.9107821564312862
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15983196639327857
+		Accuracy of Bagging on testX: 0.8401680336067214
+---------------------------
+	numLearners = 353
+		Error made by Bagging on trainX: 0.18443688737747543
+		Accuracy of Bagging on trainX: 0.8155631126225246
+
+		Performing testing...
+		Error made by Bagging on testX: 0.19503900780156025
+		Accuracy of Bagging on testX: 0.8049609921984398
+---------------------------
+	numLearners = 354
+		Error made by Bagging on trainX: 0.13202640528105625
+		Accuracy of Bagging on trainX: 0.8679735947189438
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1694338867773555
+		Accuracy of Bagging on testX: 0.8305661132226445
+---------------------------
+	numLearners = 355
+		Error made by Bagging on trainX: 0.08421684336867374
+		Accuracy of Bagging on trainX: 0.9157831566313263
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1658331666333266
+		Accuracy of Bagging on testX: 0.8341668333666734
+---------------------------
+	numLearners = 356
+		Error made by Bagging on trainX: 0.08561712342468497
+		Accuracy of Bagging on trainX: 0.914382876575315
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15983196639327868
+		Accuracy of Bagging on testX: 0.8401680336067213
+---------------------------
+	numLearners = 357
+		Error made by Bagging on trainX: 0.10902180436087217
+		Accuracy of Bagging on trainX: 0.8909781956391278
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1612322464492899
+		Accuracy of Bagging on testX: 0.8387677535507101
+---------------------------
+	numLearners = 358
+		Error made by Bagging on trainX: 0.08281656331266252
+		Accuracy of Bagging on trainX: 0.9171834366873375
+
+		Performing testing...
+		Error made by Bagging on testX: 0.158631726345269
+		Accuracy of Bagging on testX: 0.841368273654731
+---------------------------
+	numLearners = 359
+		Error made by Bagging on trainX: 0.0702140428085617
+		Accuracy of Bagging on trainX: 0.9297859571914383
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16243248649729947
+		Accuracy of Bagging on testX: 0.8375675135027005
+---------------------------
+	numLearners = 360
+		Error made by Bagging on trainX: 0.1490298059611923
+		Accuracy of Bagging on trainX: 0.8509701940388077
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1734346869373875
+		Accuracy of Bagging on testX: 0.8265653130626125
+---------------------------
+	numLearners = 361
+		Error made by Bagging on trainX: 0.0656131226245249
+		Accuracy of Bagging on trainX: 0.9343868773754751
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15163032606521298
+		Accuracy of Bagging on testX: 0.848369673934787
+---------------------------
+	numLearners = 362
+		Error made by Bagging on trainX: 0.11422284456891374
+		Accuracy of Bagging on trainX: 0.8857771554310863
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15223044608921787
+		Accuracy of Bagging on testX: 0.8477695539107821
+---------------------------
+	numLearners = 363
+		Error made by Bagging on trainX: 0.08381676335267052
+		Accuracy of Bagging on trainX: 0.9161832366473295
+
+		Performing testing...
+		Error made by Bagging on testX: 0.158631726345269
+		Accuracy of Bagging on testX: 0.841368273654731
+---------------------------
+	numLearners = 364
+		Error made by Bagging on trainX: 0.1124224844968994
+		Accuracy of Bagging on trainX: 0.8875775155031006
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1734346869373875
+		Accuracy of Bagging on testX: 0.8265653130626125
+---------------------------
+	numLearners = 365
+		Error made by Bagging on trainX: 0.0804160832166434
+		Accuracy of Bagging on trainX: 0.9195839167833566
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15103020604120831
+		Accuracy of Bagging on testX: 0.8489697939587917
+---------------------------
+	numLearners = 366
+		Error made by Bagging on trainX: 0.16303260652130425
+		Accuracy of Bagging on trainX: 0.8369673934786958
+
+		Performing testing...
+		Error made by Bagging on testX: 0.17163432686537305
+		Accuracy of Bagging on testX: 0.828365673134627
+---------------------------
+	numLearners = 367
+		Error made by Bagging on trainX: 0.08481696339267852
+		Accuracy of Bagging on trainX: 0.9151830366073215
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16763352670534115
+		Accuracy of Bagging on testX: 0.8323664732946588
+---------------------------
+	numLearners = 368
+		Error made by Bagging on trainX: 0.10402080416083215
+		Accuracy of Bagging on trainX: 0.8959791958391679
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16003200640128024
+		Accuracy of Bagging on testX: 0.8399679935987198
+---------------------------
+	numLearners = 369
+		Error made by Bagging on trainX: 0.09721944388877779
+		Accuracy of Bagging on trainX: 0.9027805561112222
+
+		Performing testing...
+		Error made by Bagging on testX: 0.156631326265253
+		Accuracy of Bagging on testX: 0.843368673734747
+---------------------------
+	numLearners = 370
+		Error made by Bagging on trainX: 0.14822964592918586
+		Accuracy of Bagging on trainX: 0.8517703540708141
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15603120624124822
+		Accuracy of Bagging on testX: 0.8439687937587518
+---------------------------
+	numLearners = 371
+		Error made by Bagging on trainX: 0.07581516303260649
+		Accuracy of Bagging on trainX: 0.9241848369673935
+
+		Performing testing...
+		Error made by Bagging on testX: 0.14622924584916985
+		Accuracy of Bagging on testX: 0.8537707541508301
+---------------------------
+	numLearners = 372
+		Error made by Bagging on trainX: 0.10522104420884171
+		Accuracy of Bagging on trainX: 0.8947789557911583
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15843168633726745
+		Accuracy of Bagging on testX: 0.8415683136627325
+---------------------------
+	numLearners = 373
+		Error made by Bagging on trainX: 0.16003200640128035
+		Accuracy of Bagging on trainX: 0.8399679935987197
+
+		Performing testing...
+		Error made by Bagging on testX: 0.17403480696139229
+		Accuracy of Bagging on testX: 0.8259651930386077
+---------------------------
+	numLearners = 374
+		Error made by Bagging on trainX: 0.07461492298459693
+		Accuracy of Bagging on trainX: 0.9253850770154031
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15023004600920187
+		Accuracy of Bagging on testX: 0.8497699539907981
+---------------------------
+	numLearners = 375
+		Error made by Bagging on trainX: 0.07521504300860182
+		Accuracy of Bagging on trainX: 0.9247849569913982
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1582316463292659
+		Accuracy of Bagging on testX: 0.8417683536707341
+---------------------------
+	numLearners = 376
+		Error made by Bagging on trainX: 0.09601920384076812
+		Accuracy of Bagging on trainX: 0.9039807961592319
+
+		Performing testing...
+		Error made by Bagging on testX: 0.14782956591318264
+		Accuracy of Bagging on testX: 0.8521704340868174
+---------------------------
+	numLearners = 377
+		Error made by Bagging on trainX: 0.08161632326465296
+		Accuracy of Bagging on trainX: 0.918383676735347
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1612322464492899
+		Accuracy of Bagging on testX: 0.8387677535507101
+---------------------------
+	numLearners = 378
+		Error made by Bagging on trainX: 0.14482896579315863
+		Accuracy of Bagging on trainX: 0.8551710342068414
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15223044608921787
+		Accuracy of Bagging on testX: 0.8477695539107821
+---------------------------
+	numLearners = 379
+		Error made by Bagging on trainX: 0.06881376275255047
+		Accuracy of Bagging on trainX: 0.9311862372474495
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15743148629725945
+		Accuracy of Bagging on testX: 0.8425685137027406
+---------------------------
+	numLearners = 380
+		Error made by Bagging on trainX: 0.07421484296859382
+		Accuracy of Bagging on trainX: 0.9257851570314062
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1638327665533107
+		Accuracy of Bagging on testX: 0.8361672334466893
+---------------------------
+	numLearners = 381
+		Error made by Bagging on trainX: 0.0722144428885777
+		Accuracy of Bagging on trainX: 0.9277855571114223
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16643328665733148
+		Accuracy of Bagging on testX: 0.8335667133426685
+---------------------------
+	numLearners = 382
+		Error made by Bagging on trainX: 0.06201240248049611
+		Accuracy of Bagging on trainX: 0.9379875975195039
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15043008601720353
+		Accuracy of Bagging on testX: 0.8495699139827965
+---------------------------
+	numLearners = 383
+		Error made by Bagging on trainX: 0.08301660332066407
+		Accuracy of Bagging on trainX: 0.9169833966793359
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16263252650530102
+		Accuracy of Bagging on testX: 0.837367473494699
+---------------------------
+	numLearners = 384
+		Error made by Bagging on trainX: 0.08121624324864984
+		Accuracy of Bagging on trainX: 0.9187837567513502
+
+		Performing testing...
+		Error made by Bagging on testX: 0.158631726345269
+		Accuracy of Bagging on testX: 0.841368273654731
+---------------------------
+	numLearners = 385
+		Error made by Bagging on trainX: 0.12742548509701934
+		Accuracy of Bagging on trainX: 0.8725745149029807
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16723344668933782
+		Accuracy of Bagging on testX: 0.8327665533106622
+---------------------------
+	numLearners = 386
+		Error made by Bagging on trainX: 0.16343268653730747
+		Accuracy of Bagging on trainX: 0.8365673134626925
+
+		Performing testing...
+		Error made by Bagging on testX: 0.19863972794558915
+		Accuracy of Bagging on testX: 0.8013602720544108
+---------------------------
+	numLearners = 387
+		Error made by Bagging on trainX: 0.13562712542508504
+		Accuracy of Bagging on trainX: 0.864372874574915
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16403280656131236
+		Accuracy of Bagging on testX: 0.8359671934386876
+---------------------------
+	numLearners = 388
+		Error made by Bagging on trainX: 0.07141428285657136
+		Accuracy of Bagging on trainX: 0.9285857171434286
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1602320464092819
+		Accuracy of Bagging on testX: 0.8397679535907181
+---------------------------
+	numLearners = 389
+		Error made by Bagging on trainX: 0.08781756351270253
+		Accuracy of Bagging on trainX: 0.9121824364872975
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16143228645729146
+		Accuracy of Bagging on testX: 0.8385677135427085
+---------------------------
+	numLearners = 390
+		Error made by Bagging on trainX: 0.08341668333666741
+		Accuracy of Bagging on trainX: 0.9165833166633326
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16463292658531714
+		Accuracy of Bagging on testX: 0.8353670734146829
+---------------------------
+	numLearners = 391
+		Error made by Bagging on trainX: 0.10282056411282259
+		Accuracy of Bagging on trainX: 0.8971794358871774
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15503100620124022
+		Accuracy of Bagging on testX: 0.8449689937987598
+---------------------------
+	numLearners = 392
+		Error made by Bagging on trainX: 0.12322464492898577
+		Accuracy of Bagging on trainX: 0.8767753550710142
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15783156631326267
+		Accuracy of Bagging on testX: 0.8421684336867373
+---------------------------
+	numLearners = 393
+		Error made by Bagging on trainX: 0.07501500300060016
+		Accuracy of Bagging on trainX: 0.9249849969993998
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1658331666333266
+		Accuracy of Bagging on testX: 0.8341668333666734
+---------------------------
+	numLearners = 394
+		Error made by Bagging on trainX: 0.14782956591318264
+		Accuracy of Bagging on trainX: 0.8521704340868174
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1592318463692739
+		Accuracy of Bagging on testX: 0.8407681536307261
+---------------------------
+	numLearners = 395
+		Error made by Bagging on trainX: 0.07561512302460494
+		Accuracy of Bagging on trainX: 0.9243848769753951
+
+		Performing testing...
+		Error made by Bagging on testX: 0.157631526305261
+		Accuracy of Bagging on testX: 0.842368473694739
+---------------------------
+	numLearners = 396
+		Error made by Bagging on trainX: 0.09861972394478902
+		Accuracy of Bagging on trainX: 0.901380276055211
+
+		Performing testing...
+		Error made by Bagging on testX: 0.156631326265253
+		Accuracy of Bagging on testX: 0.843368673734747
+---------------------------
+	numLearners = 397
+		Error made by Bagging on trainX: 0.09441888377675545
+		Accuracy of Bagging on trainX: 0.9055811162232446
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15583116623324667
+		Accuracy of Bagging on testX: 0.8441688337667533
+---------------------------
+	numLearners = 398
+		Error made by Bagging on trainX: 0.08721744348869775
+		Accuracy of Bagging on trainX: 0.9127825565113022
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15543108621724344
+		Accuracy of Bagging on testX: 0.8445689137827566
+---------------------------
+	numLearners = 399
+		Error made by Bagging on trainX: 0.12402480496099222
+		Accuracy of Bagging on trainX: 0.8759751950390078
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1562312462492499
+		Accuracy of Bagging on testX: 0.8437687537507501
+---------------------------
+	numLearners = 400
+		Error made by Bagging on trainX: 0.1190238047609522
+		Accuracy of Bagging on trainX: 0.8809761952390478
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16363272654530903
+		Accuracy of Bagging on testX: 0.836367273454691
+---------------------------
+	numLearners = 401
+		Error made by Bagging on trainX: 0.0890178035607121
+		Accuracy of Bagging on trainX: 0.9109821964392879
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16463292658531714
+		Accuracy of Bagging on testX: 0.8353670734146829
+---------------------------
+	numLearners = 402
+		Error made by Bagging on trainX: 0.09981996399279858
+		Accuracy of Bagging on trainX: 0.9001800360072014
+
+		Performing testing...
+		Error made by Bagging on testX: 0.159631926385277
+		Accuracy of Bagging on testX: 0.840368073614723
+---------------------------
+	numLearners = 403
+		Error made by Bagging on trainX: 0.07861572314462895
+		Accuracy of Bagging on trainX: 0.921384276855371
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15903180636127223
+		Accuracy of Bagging on testX: 0.8409681936387278
+---------------------------
+	numLearners = 404
+		Error made by Bagging on trainX: 0.08381676335267052
+		Accuracy of Bagging on trainX: 0.9161832366473295
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15603120624124822
+		Accuracy of Bagging on testX: 0.8439687937587518
+---------------------------
+	numLearners = 405
+		Error made by Bagging on trainX: 0.07221444288857781
+		Accuracy of Bagging on trainX: 0.9277855571114222
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16383276655331058
+		Accuracy of Bagging on testX: 0.8361672334466894
+---------------------------
+	numLearners = 406
+		Error made by Bagging on trainX: 0.126625325065013
+		Accuracy of Bagging on trainX: 0.873374674934987
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15603120624124833
+		Accuracy of Bagging on testX: 0.8439687937587517
+---------------------------
+	numLearners = 407
+		Error made by Bagging on trainX: 0.07841568313662728
+		Accuracy of Bagging on trainX: 0.9215843168633727
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15103020604120831
+		Accuracy of Bagging on testX: 0.8489697939587917
+---------------------------
+	numLearners = 408
+		Error made by Bagging on trainX: 0.1302260452090418
+		Accuracy of Bagging on trainX: 0.8697739547909582
+
+		Performing testing...
+		Error made by Bagging on testX: 0.17023404680936194
+		Accuracy of Bagging on testX: 0.8297659531906381
+---------------------------
+	numLearners = 409
+		Error made by Bagging on trainX: 0.1114222844568914
+		Accuracy of Bagging on trainX: 0.8885777155431086
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15483096619323866
+		Accuracy of Bagging on testX: 0.8451690338067613
+---------------------------
+	numLearners = 410
+		Error made by Bagging on trainX: 0.07741548309661939
+		Accuracy of Bagging on trainX: 0.9225845169033806
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15103020604120831
+		Accuracy of Bagging on testX: 0.8489697939587917
+---------------------------
+	numLearners = 411
+		Error made by Bagging on trainX: 0.08421684336867374
+		Accuracy of Bagging on trainX: 0.9157831566313263
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16943388677735538
+		Accuracy of Bagging on testX: 0.8305661132226446
+---------------------------
+	numLearners = 412
+		Error made by Bagging on trainX: 0.15323064612922588
+		Accuracy of Bagging on trainX: 0.8467693538707741
+
+		Performing testing...
+		Error made by Bagging on testX: 0.17323464692938584
+		Accuracy of Bagging on testX: 0.8267653530706142
+---------------------------
+	numLearners = 413
+		Error made by Bagging on trainX: 0.15083016603320665
+		Accuracy of Bagging on trainX: 0.8491698339667934
+
+		Performing testing...
+		Error made by Bagging on testX: 0.17583516703340663
+		Accuracy of Bagging on testX: 0.8241648329665934
+---------------------------
+	numLearners = 414
+		Error made by Bagging on trainX: 0.10282056411282259
+		Accuracy of Bagging on trainX: 0.8971794358871774
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15903180636127223
+		Accuracy of Bagging on testX: 0.8409681936387278
+---------------------------
+	numLearners = 415
+		Error made by Bagging on trainX: 0.13502700540108026
+		Accuracy of Bagging on trainX: 0.8649729945989197
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16543308661732348
+		Accuracy of Bagging on testX: 0.8345669133826765
+---------------------------
+	numLearners = 416
+		Error made by Bagging on trainX: 0.06501300260052012
+		Accuracy of Bagging on trainX: 0.9349869973994799
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15943188637727546
+		Accuracy of Bagging on testX: 0.8405681136227245
+---------------------------
+	numLearners = 417
+		Error made by Bagging on trainX: 0.0656131226245249
+		Accuracy of Bagging on trainX: 0.9343868773754751
+
+		Performing testing...
+		Error made by Bagging on testX: 0.14842968593718742
+		Accuracy of Bagging on testX: 0.8515703140628126
+---------------------------
+	numLearners = 418
+		Error made by Bagging on trainX: 0.08701740348069609
+		Accuracy of Bagging on trainX: 0.9129825965193039
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16083216643328668
+		Accuracy of Bagging on testX: 0.8391678335667133
+---------------------------
+	numLearners = 419
+		Error made by Bagging on trainX: 0.14422884576915385
+		Accuracy of Bagging on trainX: 0.8557711542308462
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15143028605721143
+		Accuracy of Bagging on testX: 0.8485697139427886
+---------------------------
+	numLearners = 420
+		Error made by Bagging on trainX: 0.13442688537707537
+		Accuracy of Bagging on trainX: 0.8655731146229246
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15983196639327868
+		Accuracy of Bagging on testX: 0.8401680336067213
+---------------------------
+	numLearners = 421
+		Error made by Bagging on trainX: 0.1042208441688337
+		Accuracy of Bagging on trainX: 0.8957791558311663
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16643328665733148
+		Accuracy of Bagging on testX: 0.8335667133426685
+---------------------------
+	numLearners = 422
+		Error made by Bagging on trainX: 0.06201240248049611
+		Accuracy of Bagging on trainX: 0.9379875975195039
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15223044608921787
+		Accuracy of Bagging on testX: 0.8477695539107821
+---------------------------
+	numLearners = 423
+		Error made by Bagging on trainX: 0.06681336267253446
+		Accuracy of Bagging on trainX: 0.9331866373274655
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1480296059211843
+		Accuracy of Bagging on testX: 0.8519703940788157
+---------------------------
+	numLearners = 424
+		Error made by Bagging on trainX: 0.10162032406481303
+		Accuracy of Bagging on trainX: 0.898379675935187
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15843168633726745
+		Accuracy of Bagging on testX: 0.8415683136627325
+---------------------------
+	numLearners = 425
+		Error made by Bagging on trainX: 0.10402080416083215
+		Accuracy of Bagging on trainX: 0.8959791958391679
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16563312662532503
+		Accuracy of Bagging on testX: 0.834366873374675
+---------------------------
+	numLearners = 426
+		Error made by Bagging on trainX: 0.12082416483296665
+		Accuracy of Bagging on trainX: 0.8791758351670333
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16923384676935382
+		Accuracy of Bagging on testX: 0.8307661532306462
+---------------------------
+	numLearners = 427
+		Error made by Bagging on trainX: 0.14422884576915385
+		Accuracy of Bagging on trainX: 0.8557711542308462
+
+		Performing testing...
+		Error made by Bagging on testX: 0.17663532706541307
+		Accuracy of Bagging on testX: 0.8233646729345869
+---------------------------
+	numLearners = 428
+		Error made by Bagging on trainX: 0.07721544308861772
+		Accuracy of Bagging on trainX: 0.9227845569113823
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15323064612922588
+		Accuracy of Bagging on testX: 0.8467693538707741
+---------------------------
+	numLearners = 429
+		Error made by Bagging on trainX: 0.09081816363272655
+		Accuracy of Bagging on trainX: 0.9091818363672735
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15323064612922588
+		Accuracy of Bagging on testX: 0.8467693538707741
+---------------------------
+	numLearners = 430
+		Error made by Bagging on trainX: 0.08561712342468497
+		Accuracy of Bagging on trainX: 0.914382876575315
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15683136627325467
+		Accuracy of Bagging on testX: 0.8431686337267453
+---------------------------
+	numLearners = 431
+		Error made by Bagging on trainX: 0.1526305261052211
+		Accuracy of Bagging on trainX: 0.8473694738947789
+
+		Performing testing...
+		Error made by Bagging on testX: 0.17743548709741952
+		Accuracy of Bagging on testX: 0.8225645129025805
+---------------------------
+	numLearners = 432
+		Error made by Bagging on trainX: 0.13722744548909782
+		Accuracy of Bagging on trainX: 0.8627725545109022
+
+		Performing testing...
+		Error made by Bagging on testX: 0.17463492698539707
+		Accuracy of Bagging on testX: 0.8253650730146029
+---------------------------
+	numLearners = 433
+		Error made by Bagging on trainX: 0.11762352470494097
+		Accuracy of Bagging on trainX: 0.882376475295059
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16143228645729146
+		Accuracy of Bagging on testX: 0.8385677135427085
+---------------------------
+	numLearners = 434
+		Error made by Bagging on trainX: 0.07121424284856981
+		Accuracy of Bagging on trainX: 0.9287857571514302
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15543108621724344
+		Accuracy of Bagging on testX: 0.8445689137827566
+---------------------------
+	numLearners = 435
+		Error made by Bagging on trainX: 0.07481496299259849
+		Accuracy of Bagging on trainX: 0.9251850370074015
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1582316463292659
+		Accuracy of Bagging on testX: 0.8417683536707341
+---------------------------
+	numLearners = 436
+		Error made by Bagging on trainX: 0.09521904380876167
+		Accuracy of Bagging on trainX: 0.9047809561912383
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16143228645729146
+		Accuracy of Bagging on testX: 0.8385677135427085
+---------------------------
+	numLearners = 437
+		Error made by Bagging on trainX: 0.13262652530506103
+		Accuracy of Bagging on trainX: 0.867373474694939
+
+		Performing testing...
+		Error made by Bagging on testX: 0.17523504700940196
+		Accuracy of Bagging on testX: 0.824764952990598
+---------------------------
+	numLearners = 438
+		Error made by Bagging on trainX: 0.09161832366473299
+		Accuracy of Bagging on trainX: 0.908381676335267
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15123024604920987
+		Accuracy of Bagging on testX: 0.8487697539507901
+---------------------------
+	numLearners = 439
+		Error made by Bagging on trainX: 0.0702140428085617
+		Accuracy of Bagging on trainX: 0.9297859571914383
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16763352670534104
+		Accuracy of Bagging on testX: 0.832366473294659
+---------------------------
+	numLearners = 440
+		Error made by Bagging on trainX: 0.11462292458491696
+		Accuracy of Bagging on trainX: 0.885377075415083
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15983196639327857
+		Accuracy of Bagging on testX: 0.8401680336067214
+---------------------------
+	numLearners = 441
+		Error made by Bagging on trainX: 0.13182636527305458
+		Accuracy of Bagging on trainX: 0.8681736347269454
+
+		Performing testing...
+		Error made by Bagging on testX: 0.17003400680136027
+		Accuracy of Bagging on testX: 0.8299659931986397
+---------------------------
+	numLearners = 442
+		Error made by Bagging on trainX: 0.09641928385677134
+		Accuracy of Bagging on trainX: 0.9035807161432287
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15403080616123221
+		Accuracy of Bagging on testX: 0.8459691938387678
+---------------------------
+	numLearners = 443
+		Error made by Bagging on trainX: 0.1582316463292659
+		Accuracy of Bagging on trainX: 0.8417683536707341
+
+		Performing testing...
+		Error made by Bagging on testX: 0.17303460692138428
+		Accuracy of Bagging on testX: 0.8269653930786157
+---------------------------
+	numLearners = 444
+		Error made by Bagging on trainX: 0.10242048409681936
+		Accuracy of Bagging on trainX: 0.8975795159031806
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15823164632926578
+		Accuracy of Bagging on testX: 0.8417683536707342
+---------------------------
+	numLearners = 445
+		Error made by Bagging on trainX: 0.11302260452090418
+		Accuracy of Bagging on trainX: 0.8869773954790958
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15163032606521298
+		Accuracy of Bagging on testX: 0.848369673934787
+---------------------------
+	numLearners = 446
+		Error made by Bagging on trainX: 0.07521504300860171
+		Accuracy of Bagging on trainX: 0.9247849569913983
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15543108621724344
+		Accuracy of Bagging on testX: 0.8445689137827566
+---------------------------
+	numLearners = 447
+		Error made by Bagging on trainX: 0.15203040608121632
+		Accuracy of Bagging on trainX: 0.8479695939187837
+
+		Performing testing...
+		Error made by Bagging on testX: 0.17303460692138428
+		Accuracy of Bagging on testX: 0.8269653930786157
+---------------------------
+	numLearners = 448
+		Error made by Bagging on trainX: 0.13202640528105625
+		Accuracy of Bagging on trainX: 0.8679735947189438
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15483096619323866
+		Accuracy of Bagging on testX: 0.8451690338067613
+---------------------------
+	numLearners = 449
+		Error made by Bagging on trainX: 0.08401680336067208
+		Accuracy of Bagging on trainX: 0.9159831966393279
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15323064612922588
+		Accuracy of Bagging on testX: 0.8467693538707741
+---------------------------
+	numLearners = 450
+		Error made by Bagging on trainX: 0.10762152430486105
+		Accuracy of Bagging on trainX: 0.892378475695139
+
+		Performing testing...
+		Error made by Bagging on testX: 0.152630526105221
+		Accuracy of Bagging on testX: 0.847369473894779
+---------------------------
+	numLearners = 451
+		Error made by Bagging on trainX: 0.07441488297659538
+		Accuracy of Bagging on trainX: 0.9255851170234046
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15523104620924189
+		Accuracy of Bagging on testX: 0.8447689537907581
+---------------------------
+	numLearners = 452
+		Error made by Bagging on trainX: 0.0982196439287858
+		Accuracy of Bagging on trainX: 0.9017803560712142
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15903180636127234
+		Accuracy of Bagging on testX: 0.8409681936387277
+---------------------------
+	numLearners = 453
+		Error made by Bagging on trainX: 0.09701940388077612
+		Accuracy of Bagging on trainX: 0.9029805961192239
+
+		Performing testing...
+		Error made by Bagging on testX: 0.157631526305261
+		Accuracy of Bagging on testX: 0.842368473694739
+---------------------------
+	numLearners = 454
+		Error made by Bagging on trainX: 0.13622724544908982
+		Accuracy of Bagging on trainX: 0.8637727545509102
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1688337667533506
+		Accuracy of Bagging on testX: 0.8311662332466494
+---------------------------
+	numLearners = 455
+		Error made by Bagging on trainX: 0.15483096619323866
+		Accuracy of Bagging on trainX: 0.8451690338067613
+
+		Performing testing...
+		Error made by Bagging on testX: 0.17923584716943397
+		Accuracy of Bagging on testX: 0.820764152830566
+---------------------------
+	numLearners = 456
+		Error made by Bagging on trainX: 0.15443088617723544
+		Accuracy of Bagging on trainX: 0.8455691138227646
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15343068613722743
+		Accuracy of Bagging on testX: 0.8465693138627726
+---------------------------
+	numLearners = 457
+		Error made by Bagging on trainX: 0.08801760352070409
+		Accuracy of Bagging on trainX: 0.9119823964792959
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15683136627325467
+		Accuracy of Bagging on testX: 0.8431686337267453
+---------------------------
+	numLearners = 458
+		Error made by Bagging on trainX: 0.08861772354470898
+		Accuracy of Bagging on trainX: 0.911382276455291
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15883176635327056
+		Accuracy of Bagging on testX: 0.8411682336467294
+---------------------------
+	numLearners = 459
+		Error made by Bagging on trainX: 0.12842568513702746
+		Accuracy of Bagging on trainX: 0.8715743148629725
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1658331666333267
+		Accuracy of Bagging on testX: 0.8341668333666733
+---------------------------
+	numLearners = 460
+		Error made by Bagging on trainX: 0.12782556511302257
+		Accuracy of Bagging on trainX: 0.8721744348869774
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15103020604120831
+		Accuracy of Bagging on testX: 0.8489697939587917
+---------------------------
+	numLearners = 461
+		Error made by Bagging on trainX: 0.14822964592918586
+		Accuracy of Bagging on trainX: 0.8517703540708141
+
+		Performing testing...
+		Error made by Bagging on testX: 0.18123624724944987
+		Accuracy of Bagging on testX: 0.8187637527505501
+---------------------------
+	numLearners = 462
+		Error made by Bagging on trainX: 0.11682336467293464
+		Accuracy of Bagging on trainX: 0.8831766353270654
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16963392678535705
+		Accuracy of Bagging on testX: 0.830366073214643
+---------------------------
+	numLearners = 463
+		Error made by Bagging on trainX: 0.06861372274454891
+		Accuracy of Bagging on trainX: 0.9313862772554511
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16183236647329458
+		Accuracy of Bagging on testX: 0.8381676335267054
+---------------------------
+	numLearners = 464
+		Error made by Bagging on trainX: 0.08161632326465296
+		Accuracy of Bagging on trainX: 0.918383676735347
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15903180636127223
+		Accuracy of Bagging on testX: 0.8409681936387278
+---------------------------
+	numLearners = 465
+		Error made by Bagging on trainX: 0.11782356471294253
+		Accuracy of Bagging on trainX: 0.8821764352870575
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15963192638527712
+		Accuracy of Bagging on testX: 0.8403680736147229
+---------------------------
+	numLearners = 466
+		Error made by Bagging on trainX: 0.08101620324064818
+		Accuracy of Bagging on trainX: 0.9189837967593518
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16263252650530102
+		Accuracy of Bagging on testX: 0.837367473494699
+---------------------------
+	numLearners = 467
+		Error made by Bagging on trainX: 0.10862172434486894
+		Accuracy of Bagging on trainX: 0.8913782756551311
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15203040608121632
+		Accuracy of Bagging on testX: 0.8479695939187837
+---------------------------
+	numLearners = 468
+		Error made by Bagging on trainX: 0.11862372474494909
+		Accuracy of Bagging on trainX: 0.8813762752550509
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15423084616923388
+		Accuracy of Bagging on testX: 0.8457691538307661
+---------------------------
+	numLearners = 469
+		Error made by Bagging on trainX: 0.17643528705741152
+		Accuracy of Bagging on trainX: 0.8235647129425885
+
+		Performing testing...
+		Error made by Bagging on testX: 0.18783756751350267
+		Accuracy of Bagging on testX: 0.8121624324864973
+---------------------------
+	numLearners = 470
+		Error made by Bagging on trainX: 0.0804160832166434
+		Accuracy of Bagging on trainX: 0.9195839167833566
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1618323664732948
+		Accuracy of Bagging on testX: 0.8381676335267052
+---------------------------
+	numLearners = 471
+		Error made by Bagging on trainX: 0.13502700540108015
+		Accuracy of Bagging on trainX: 0.8649729945989199
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15943188637727546
+		Accuracy of Bagging on testX: 0.8405681136227245
+---------------------------
+	numLearners = 472
+		Error made by Bagging on trainX: 0.06881376275255058
+		Accuracy of Bagging on trainX: 0.9311862372474494
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15403080616123233
+		Accuracy of Bagging on testX: 0.8459691938387677
+---------------------------
+	numLearners = 473
+		Error made by Bagging on trainX: 0.08861772354470898
+		Accuracy of Bagging on trainX: 0.911382276455291
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1496299259851971
+		Accuracy of Bagging on testX: 0.8503700740148029
+---------------------------
+	numLearners = 474
+		Error made by Bagging on trainX: 0.07801560312062406
+		Accuracy of Bagging on trainX: 0.921984396879376
+
+		Performing testing...
+		Error made by Bagging on testX: 0.17163432686537305
+		Accuracy of Bagging on testX: 0.828365673134627
+---------------------------
+	numLearners = 475
+		Error made by Bagging on trainX: 0.10702140428085616
+		Accuracy of Bagging on trainX: 0.8929785957191438
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1704340868173635
+		Accuracy of Bagging on testX: 0.8295659131826365
+---------------------------
+	numLearners = 476
+		Error made by Bagging on trainX: 0.1180236047209442
+		Accuracy of Bagging on trainX: 0.8819763952790558
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16163232646529302
+		Accuracy of Bagging on testX: 0.838367673534707
+---------------------------
+	numLearners = 477
+		Error made by Bagging on trainX: 0.14382876575315062
+		Accuracy of Bagging on trainX: 0.8561712342468494
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1642328465693138
+		Accuracy of Bagging on testX: 0.8357671534306862
+---------------------------
+	numLearners = 478
+		Error made by Bagging on trainX: 0.16143228645729146
+		Accuracy of Bagging on trainX: 0.8385677135427085
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16703340668133626
+		Accuracy of Bagging on testX: 0.8329665933186637
+---------------------------
+	numLearners = 479
+		Error made by Bagging on trainX: 0.1500300060012002
+		Accuracy of Bagging on trainX: 0.8499699939987998
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16003200640128035
+		Accuracy of Bagging on testX: 0.8399679935987197
+---------------------------
+	numLearners = 480
+		Error made by Bagging on trainX: 0.07501500300060016
+		Accuracy of Bagging on trainX: 0.9249849969993998
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1628325665133027
+		Accuracy of Bagging on testX: 0.8371674334866973
+---------------------------
+	numLearners = 481
+		Error made by Bagging on trainX: 0.06421284256851367
+		Accuracy of Bagging on trainX: 0.9357871574314863
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16143228645729146
+		Accuracy of Bagging on testX: 0.8385677135427085
+---------------------------
+	numLearners = 482
+		Error made by Bagging on trainX: 0.11322264452890574
+		Accuracy of Bagging on trainX: 0.8867773554710943
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16663332666533304
+		Accuracy of Bagging on testX: 0.833366673334667
+---------------------------
+	numLearners = 483
+		Error made by Bagging on trainX: 0.12942588517703546
+		Accuracy of Bagging on trainX: 0.8705741148229645
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16983396679335871
+		Accuracy of Bagging on testX: 0.8301660332066413
+---------------------------
+	numLearners = 484
+		Error made by Bagging on trainX: 0.07181436287257448
+		Accuracy of Bagging on trainX: 0.9281856371274255
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15743148629725945
+		Accuracy of Bagging on testX: 0.8425685137027406
+---------------------------
+	numLearners = 485
+		Error made by Bagging on trainX: 0.0738147629525906
+		Accuracy of Bagging on trainX: 0.9261852370474094
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15803160632126434
+		Accuracy of Bagging on testX: 0.8419683936787357
+---------------------------
+	numLearners = 486
+		Error made by Bagging on trainX: 0.12842568513702735
+		Accuracy of Bagging on trainX: 0.8715743148629727
+
+		Performing testing...
+		Error made by Bagging on testX: 0.14222844568913784
+		Accuracy of Bagging on testX: 0.8577715543108622
+---------------------------
+	numLearners = 487
+		Error made by Bagging on trainX: 0.19803960792158437
+		Accuracy of Bagging on trainX: 0.8019603920784156
+
+		Performing testing...
+		Error made by Bagging on testX: 0.20524104820964195
+		Accuracy of Bagging on testX: 0.794758951790358
+---------------------------
+	numLearners = 488
+		Error made by Bagging on trainX: 0.14162832566513306
+		Accuracy of Bagging on trainX: 0.8583716743348669
+
+		Performing testing...
+		Error made by Bagging on testX: 0.17883576715343064
+		Accuracy of Bagging on testX: 0.8211642328465694
+---------------------------
+	numLearners = 489
+		Error made by Bagging on trainX: 0.08981796359271854
+		Accuracy of Bagging on trainX: 0.9101820364072815
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16863372674534904
+		Accuracy of Bagging on testX: 0.831366273254651
+---------------------------
+	numLearners = 490
+		Error made by Bagging on trainX: 0.06821364272854569
+		Accuracy of Bagging on trainX: 0.9317863572714543
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1612322464492898
+		Accuracy of Bagging on testX: 0.8387677535507102
+---------------------------
+	numLearners = 491
+		Error made by Bagging on trainX: 0.09081816363272655
+		Accuracy of Bagging on trainX: 0.9091818363672735
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16103220644128824
+		Accuracy of Bagging on testX: 0.8389677935587118
+---------------------------
+	numLearners = 492
+		Error made by Bagging on trainX: 0.06961392278455691
+		Accuracy of Bagging on trainX: 0.9303860772154431
+
+		Performing testing...
+		Error made by Bagging on testX: 0.156631326265253
+		Accuracy of Bagging on testX: 0.843368673734747
+---------------------------
+	numLearners = 493
+		Error made by Bagging on trainX: 0.12522504500900178
+		Accuracy of Bagging on trainX: 0.8747749549909982
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16763352670534104
+		Accuracy of Bagging on testX: 0.832366473294659
+---------------------------
+	numLearners = 494
+		Error made by Bagging on trainX: 0.07621524304860983
+		Accuracy of Bagging on trainX: 0.9237847569513902
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16563312662532503
+		Accuracy of Bagging on testX: 0.834366873374675
+---------------------------
+	numLearners = 495
+		Error made by Bagging on trainX: 0.1200240048009602
+		Accuracy of Bagging on trainX: 0.8799759951990398
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1688337667533507
+		Accuracy of Bagging on testX: 0.8311662332466493
+---------------------------
+	numLearners = 496
+		Error made by Bagging on trainX: 0.07901580316063206
+		Accuracy of Bagging on trainX: 0.9209841968393679
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16443288657731547
+		Accuracy of Bagging on testX: 0.8355671134226845
+---------------------------
+	numLearners = 497
+		Error made by Bagging on trainX: 0.1282256451290258
+		Accuracy of Bagging on trainX: 0.8717743548709742
+
+		Performing testing...
+		Error made by Bagging on testX: 0.1638327665533107
+		Accuracy of Bagging on testX: 0.8361672334466893
+---------------------------
+	numLearners = 498
+		Error made by Bagging on trainX: 0.07921584316863362
+		Accuracy of Bagging on trainX: 0.9207841568313664
+
+		Performing testing...
+		Error made by Bagging on testX: 0.15503100620124022
+		Accuracy of Bagging on testX: 0.8449689937987598
+---------------------------
+	numLearners = 499
+		Error made by Bagging on trainX: 0.1206241248249651
+		Accuracy of Bagging on trainX: 0.8793758751750349
+
+		Performing testing...
+		Error made by Bagging on testX: 0.14722944588917786
+		Accuracy of Bagging on testX: 0.8527705541108221
+---------------------------
+	numLearners = 500
+		Error made by Bagging on trainX: 0.06801360272054413
+		Accuracy of Bagging on trainX: 0.9319863972794559
+
+		Performing testing...
+		Error made by Bagging on testX: 0.16403280656131225
+		Accuracy of Bagging on testX: 0.8359671934386878
+---------------------------
+Best numLearners = 49
+Error = 0.05881176235247043
+BestAccuracy = 0.9411882376475296
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
