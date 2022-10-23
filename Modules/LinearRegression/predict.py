@@ -81,7 +81,7 @@ debug = args.debug
 
 validationSplit = 0.3
 saveResults = args.saveResults
-miscConfig.shuffle = args.shuffle
+miscConfig.shuffleData = args.shuffle
 miscConfig.gradientDescent = args.gradientDescent
 miscConfig.loss = args.loss
 if args.learningRate:

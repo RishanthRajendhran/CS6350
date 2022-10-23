@@ -88,7 +88,7 @@ tune = args.tuneNumWeakLearners
 saveResults = args.saveResults
 
 validationSplit = 0.3
-miscConfig.shuffle = args.shuffle
+miscConfig.shuffleData = args.shuffle
 if args.validationSplit:
     miscConfig.validationSplit = args.validationSplit
 

@@ -9,6 +9,7 @@ Modules.egg-info/top_level.txt
 Modules/Datasets/__init__.py
 Modules/Datasets/processDatasets.py
 Modules/Datasets/bank/__init__.py
+Modules/Datasets/bankNote/__init__.py
 Modules/Datasets/car/__init__.py
 Modules/Datasets/concrete/__init__.py
 Modules/Datasets/creditCard/__init__.py
@@ -82,6 +83,13 @@ Modules/LinearRegression/helper/imports/__init__.py
 Modules/LinearRegression/helper/imports/configImports.py
 Modules/LinearRegression/helper/imports/functionImports.py
 Modules/LinearRegression/helper/imports/packageImports.py
+Modules/Perceptron/__init__.py
+Modules/Perceptron/predit.py
+Modules/Perceptron/helper/__init__.py
+Modules/Perceptron/helper/classes/__init__.py
+Modules/Perceptron/helper/config/__init__.py
+Modules/Perceptron/helper/functions/__init__.py
+Modules/Perceptron/helper/imports/__init__.py
 Modules/Results/__init__.py
 Modules/helper/__init__.py
 Modules/helper/config/__init__.py

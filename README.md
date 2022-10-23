@@ -18,6 +18,9 @@
         <li>
             Linear Regression
         </li>
+        <li>
+            Perceptron
+        </li>
     </ul>
     The following datasets are in use:
     <ul>
@@ -35,6 +38,9 @@
         </li>
         <li>
             concrete
+        </li>
+        <li>
+            bankNote
         </li>
     </ul>
 </p>

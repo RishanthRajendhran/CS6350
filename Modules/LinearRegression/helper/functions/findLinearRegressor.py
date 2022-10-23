@@ -9,6 +9,8 @@ from Modules.LinearRegression.helper.imports.functionImports import performGradi
 #                   learningRate    :   Learning rate to use for GD
 #                   gd              :   Type of gradient descent to perform
 #                                       Default: batch
+#                   loss            :   Type of loss function to use
+#                                       Default: "lms"
 #                   debug           :   Boolean flag to switch to debug mode
 #                                       Default: False
 #Output         :
