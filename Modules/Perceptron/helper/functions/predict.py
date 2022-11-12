@@ -16,3 +16,8 @@ def predict(X, model):
         return (np.sign(np.sum((model["Cs"]*allPreds.T).T,axis=0))+1)/2
     if model["pa"] == "averaged":
         return (np.sign(np.dot(X,model["a"])+model["z"])+1)/2
+    if model["pa"] == "gaussianKernel":
+        preds = []
+        for i in range(len(X)):
+            preds.append(np.sign(np.dot(model["c"]*model["Y"], model["K"](model["X"], X[i]))))
+        return np.array(preds)

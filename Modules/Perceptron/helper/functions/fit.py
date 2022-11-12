@@ -81,4 +81,15 @@ def fit(X, weights, Y, learningRate, T, pa="standard", debug=False):
                 print(f"\t\t\tTrain Error = {err}")
                 print("\t\t\t-----------------------")
         return {"pa":"averaged", "a":np.array(a), "z": np.array(z)}
+    elif pa == "gaussianKernel":
+        beta = 0.0075
+        K = lambda x, y: (np.exp(-(np.linalg.norm(x-y, axis=1)**2)/beta))
+        c = np.zeros((X.shape[0],))
+        for t in range(T):
+            newOrder = np.random.permutation(len(X))
+            for i in newOrder:
+                if np.dot(c*Y, K(X, X[i]))<=0:
+                    c[i] += 1
+        return {"pa": "gaussianKernel", "c":np.array(c), "beta":beta, "K":K, "X":X, "Y":Y}
+
     return None

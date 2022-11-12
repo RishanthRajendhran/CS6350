@@ -1,7 +1,7 @@
 <pre>
-usage: python3 predict.py [-h] [-ds {bankNote}] [-hmv] [-debug] [-v]
+usage: predict.py [-h] [-ds {bankNote}] [-hmv] [-debug] [-v]
                   [-nvi NUMVALINSTANCES] [-vs VALIDATIONSPLIT] [-shuffle]
-                  [-pa {standard,voted,averaged}]
+                  [-pa {standard,voted,averaged,guassianKernel}]
                   [-r LEARNINGRATE [LEARNINGRATE ...]] [-T NUMEPOCHS]
 
 optional arguments:
@@ -20,7 +20,7 @@ optional arguments:
                         Validation Split as a fraction
   -shuffle              Boolean flag to indicate whether to shuffle the train
                         data
-  -pa {standard,voted,averaged}, --perceptronAlgorithm {standard,voted,averaged}
+  -pa {standard,voted,averaged,guassianKernel}, --perceptronAlgorithm {standard,voted,averaged,gaussianKernel}
                         Perceptron algorithm to use
   -r LEARNINGRATE [LEARNINGRATE ...], --learningRate LEARNINGRATE [LEARNINGRATE ...]
                         Learning Rate for GD

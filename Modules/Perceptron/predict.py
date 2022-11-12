@@ -44,7 +44,7 @@ parser.add_argument("-shuffle",
 
 parser.add_argument("-pa",
                     "--perceptronAlgorithm",
-                    choices=["standard", "voted", "averaged"],
+                    choices=["standard", "voted", "averaged", "gaussianKernel"],
                     default="standard",
                     help="Perceptron algorithm to use",
                 )
@@ -137,9 +137,9 @@ for lr in miscConfig.learningRate:
     np.set_printoptions(precision=3)
     np.set_printoptions(suppress=True)
     print("\t\t-----------------------")
-    print(f"\t\tLearned model:")
-    for key in model.keys():
-            print(f"\t\t{key}:\n\t\t\t{model[key]}")
+    # print(f"\t\tLearned model:")
+    # for key in model.keys():
+    #         print(f"\t\t{key}:\n\t\t\t{model[key]}")
     preds = predict(train_X, model)
     err = getError(preds, train_Y)
 

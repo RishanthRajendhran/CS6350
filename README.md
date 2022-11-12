@@ -21,6 +21,9 @@
         <li>
             Perceptron
         </li>
+        <li>
+            SVM
+        </li>
     </ul>
     The following datasets are in use:
     <ul>

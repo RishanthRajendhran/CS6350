@@ -6,4 +6,6 @@ echo "Building voted perceptron with learning rate = 0.1 and numEpochs = 10 in d
 python3 predict.py -ds bankNote -debug -pa voted -T 10 -r 0.1
 echo "Building averaged perceptron with learning rate = 0.1 and numEpochs = 10 in debug mode"
 python3 predict.py -ds bankNote -debug -pa averaged -T 10 -r 0.1
+echo "Building (gaussian) kernel perceptron with learning rate = 0.1 and numEpochs = 10 in debug mode"
+python3 predict.py -ds bankNote -debug -pa gaussianKernel -T 10 -r 0.1
 
