@@ -24,6 +24,12 @@
         <li>
             SVM
         </li>
+        <li>
+            Neural Network
+        </li>
+        <li>
+            Logistic Regression
+        </li>
     </ul>
     The following datasets are in use:
     <ul>

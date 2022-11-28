@@ -1,4 +1,6 @@
 echo("SVM")
+echo "Building packages..."
+pip3 install -e ../../
 echo("Running primal form of SVM with scheme1 learning rate decomposition")
 python3 predict.py -ds bankNote -form primal -lrScheme scheme1 -r 0.000001 -C 0.572737686139748
 echo("Running primal form of SVM with scheme2 learning rate decomposition")

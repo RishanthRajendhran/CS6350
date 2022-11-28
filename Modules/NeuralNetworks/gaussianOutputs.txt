@@ -1,0 +1,236 @@
+python3 predict.py -ds bankNote -lrScheme scheme1 -wInit gaussian -debug -savePlots
+Width: 5
+	Learning rate: 0.1
+			Iteration 1: Loss=12.473998571153366
+			Iteration 11: Loss=5.091019183882876
+			Iteration 21: Loss=2.933100275777079
+			Iteration 31: Loss=2.3417425904116422
+			Iteration 41: Loss=2.3786376761902326
+			Iteration 51: Loss=1.6241812127091817
+			Iteration 61: Loss=1.6314798447796746
+			Iteration 71: Loss=1.0287758211658449
+			Iteration 81: Loss=0.9131823884187686
+			Iteration 91: Loss=0.8157019989395227
+			End of training: Loss=0.7281564394922125
+			Train set: loss: 0.7281564394922125, error: 0.0
+			Test set: loss: 0.4668081211450981, error: 0.0
++++++++++++++++++++++++++
+	Learning rate: 0.01
+			Iteration 1: Loss=58.552978733786844
+			Iteration 11: Loss=7.370507240297532
+			Iteration 21: Loss=5.788876850092569
+			Iteration 31: Loss=4.899914055907766
+			Iteration 41: Loss=4.543978321338745
+			Iteration 51: Loss=3.916192852698418
+			Iteration 61: Loss=3.7073563263485245
+			Iteration 71: Loss=3.4602315013071054
+			Iteration 81: Loss=3.271883139805989
+			Iteration 91: Loss=3.148900917323937
+			End of training: Loss=3.0125600072438736
+			Train set: loss: 3.0125600072438736, error: 0.008027522935779796
+			Test set: loss: 1.7848767867648938, error: 0.008000000000000118
++++++++++++++++++++++++++
+	Learning rate: 1e-06
+			Iteration 1: Loss=354.6944536377771
+			Iteration 11: Loss=340.41929756092316
+			Iteration 21: Loss=326.87123630351516
+			Iteration 31: Loss=314.0134420606635
+			Iteration 41: Loss=301.8116624744439
+			Iteration 51: Loss=290.23253386440786
+			Iteration 61: Loss=279.2445106643518
+			Iteration 71: Loss=268.81786929845345
+			Iteration 81: Loss=258.9242550767538
+			Iteration 91: Loss=249.53654862741215
+			End of training: Loss=241.4989570197118
+			Train set: loss: 241.4989570197118, error: 0.5538990825688073
+			Test set: loss: 136.03502169347217, error: 0.5580000000000002
++++++++++++++++++++++++++
+Width: 10
+	Learning rate: 0.1
+			Iteration 1: Loss=14.346246063887603
+			Iteration 11: Loss=5.015067485426705
+			Iteration 21: Loss=1.2381106226703915
+			Iteration 31: Loss=0.9516800299104715
+			Iteration 41: Loss=1.236134310056082
+			Iteration 51: Loss=0.7808630047983818
+			Iteration 61: Loss=0.5366219774531402
+			Iteration 71: Loss=0.439587390260152
+			Iteration 81: Loss=0.40826053972436993
+			Iteration 91: Loss=0.3662295773002761
+			End of training: Loss=0.3334926671932502
+			Train set: loss: 0.3334926671932502, error: 0.0
+			Test set: loss: 0.2858307745283388, error: 0.0
++++++++++++++++++++++++++
+	Learning rate: 0.01
+			Iteration 1: Loss=18.57889040158419
+			Iteration 11: Loss=5.189330730592532
+			Iteration 21: Loss=3.831419900605006
+			Iteration 31: Loss=3.3817563284685335
+			Iteration 41: Loss=3.1655550155282883
+			Iteration 51: Loss=2.9957076790117982
+			Iteration 61: Loss=2.889790256032227
+			Iteration 71: Loss=2.7482899737575273
+			Iteration 81: Loss=2.6336258828323214
+			Iteration 91: Loss=2.4860085967189955
+			End of training: Loss=2.4790667951189054
+			Train set: loss: 2.4790667951189054, error: 0.0
+			Test set: loss: 1.6622090521060642, error: 0.0
++++++++++++++++++++++++++
+	Learning rate: 1e-06
+			Iteration 1: Loss=330.3974616140356
+			Iteration 11: Loss=329.1833790152222
+			Iteration 21: Loss=328.0145770527496
+			Iteration 31: Loss=326.88708673190786
+			Iteration 41: Loss=325.79729408710125
+			Iteration 51: Loss=324.74188926142193
+			Iteration 61: Loss=323.7179105719183
+			Iteration 71: Loss=322.72277353617244
+			Iteration 81: Loss=321.75399381732484
+			Iteration 91: Loss=320.8092620387168
+			End of training: Loss=319.97799046460034
+			Train set: loss: 319.97799046460034, error: 0.8096330275229358
+			Test set: loss: 179.204243148525, error: 0.784
++++++++++++++++++++++++++
+Width: 25
+	Learning rate: 0.1
+			Iteration 1: Loss=18.432241105475605
+			Iteration 11: Loss=1.3858087879858114
+			Iteration 21: Loss=0.7956901173820856
+			Iteration 31: Loss=0.45147758344283884
+			Iteration 41: Loss=0.3638199483243652
+			Iteration 51: Loss=0.5345636882663964
+			Iteration 61: Loss=0.2572188125733956
+			Iteration 71: Loss=0.22124827752455278
+			Iteration 81: Loss=0.20956551686981087
+			Iteration 91: Loss=0.3102708200829611
+			End of training: Loss=0.2195590634420204
+			Train set: loss: 0.2195590634420204, error: 0.0
+			Test set: loss: 0.20882022461012195, error: 0.0
++++++++++++++++++++++++++
+	Learning rate: 0.01
+			Iteration 1: Loss=39.361947814592924
+			Iteration 11: Loss=6.79504122191587
+			Iteration 21: Loss=4.491899043754763
+			Iteration 31: Loss=3.6459945553919497
+			Iteration 41: Loss=3.4646519308800734
+			Iteration 51: Loss=2.738736173465046
+			Iteration 61: Loss=3.047348899624159
+			Iteration 71: Loss=2.385614258119757
+			Iteration 81: Loss=2.318603944127388
+			Iteration 91: Loss=1.9875865284071845
+			End of training: Loss=1.9012806646620883
+			Train set: loss: 1.9012806646620883, error: 0.0
+			Test set: loss: 1.4548806977648097, error: 0.0
++++++++++++++++++++++++++
+	Learning rate: 1e-06
+			Iteration 1: Loss=583.4098777546262
+			Iteration 11: Loss=519.5615473875766
+			Iteration 21: Loss=468.55110028048966
+			Iteration 31: Loss=427.71871821032664
+			Iteration 41: Loss=394.9444535389908
+			Iteration 51: Loss=368.55277054063527
+			Iteration 61: Loss=347.2146129619158
+			Iteration 71: Loss=329.874678130027
+			Iteration 81: Loss=315.699611229725
+			Iteration 91: Loss=304.0325568742173
+			End of training: Loss=295.24108667951947
+			Train set: loss: 295.24108667951947, error: 0.5206422018348623
+			Test set: loss: 176.2074187215001, error: 0.5160000000000002
++++++++++++++++++++++++++
+Width: 50
+	Learning rate: 0.1
+			Iteration 1: Loss=14.512439048301417
+			Iteration 11: Loss=3.7845477693974385
+			Iteration 21: Loss=1.5913343733921002
+			Iteration 31: Loss=1.3646262064286003
+			Iteration 41: Loss=0.7447449674978717
+			Iteration 51: Loss=0.5839043656718235
+			Iteration 61: Loss=0.5657449320953319
+			Iteration 71: Loss=0.46267285526792545
+			Iteration 81: Loss=0.5218916102965059
+			Iteration 91: Loss=0.5151616021803582
+			End of training: Loss=0.4253843529893755
+			Train set: loss: 0.4253843529893755, error: 0.0
+			Test set: loss: 0.8787775658262128, error: 0.004000000000000115
++++++++++++++++++++++++++
+	Learning rate: 0.01
+			Iteration 1: Loss=62.081312485482584
+			Iteration 11: Loss=6.671573758446563
+			Iteration 21: Loss=3.5398316969327004
+			Iteration 31: Loss=2.0747212723442194
+			Iteration 41: Loss=1.8983284418143378
+			Iteration 51: Loss=1.4845235156174303
+			Iteration 61: Loss=1.7484015026959816
+			Iteration 71: Loss=1.1720405764093438
+			Iteration 81: Loss=1.0817799084441617
+			Iteration 91: Loss=0.9980033355573916
+			End of training: Loss=0.9519807254342073
+			Train set: loss: 0.9519807254342073, error: 0.0
+			Test set: loss: 1.8871380657006422, error: 0.004000000000000115
++++++++++++++++++++++++++
+	Learning rate: 1e-06
+			Iteration 1: Loss=1586.4612172436657
+			Iteration 11: Loss=1276.8883277088541
+			Iteration 21: Loss=1099.181368315708
+			Iteration 31: Loss=989.6425429082865
+			Iteration 41: Loss=916.3622353204103
+			Iteration 51: Loss=863.0876474546669
+			Iteration 61: Loss=821.4051073495467
+			Iteration 71: Loss=786.8949573841398
+			Iteration 81: Loss=757.1202625652759
+			Iteration 91: Loss=730.696940983368
+			End of training: Loss=709.0881943833176
+			Train set: loss: 709.0881943833176, error: 0.6938073394495412
+			Test set: loss: 424.7957278224844, error: 0.7160000000000001
++++++++++++++++++++++++++
+Width: 100
+	Learning rate: 0.1
+/Users/rishanthrajendhran/Library/Mobile Documents/com~apple~CloudDocs/UofU/CS6350/CS6350repo/Modules/NeuralNetworks/helper/classes/Dense.py:33: RuntimeWarning: overflow encountered in exp
+  result = 1/(1+np.exp(-result))
+			Iteration 1: Loss=134.69638376812827
+			Iteration 11: Loss=11.896766939318322
+			Iteration 21: Loss=4.141584964868092
+			Iteration 31: Loss=1.5084929124794326
+			Iteration 41: Loss=1.2919153830826844
+			Iteration 51: Loss=0.6181692224999903
+			Iteration 61: Loss=0.38315549130530213
+			Iteration 71: Loss=1.0055842624263183
+			Iteration 81: Loss=0.3409889519288421
+			Iteration 91: Loss=0.33069258796383016
+			End of training: Loss=0.23260829882486678
+/Users/rishanthrajendhran/Library/Mobile Documents/com~apple~CloudDocs/UofU/CS6350/CS6350repo/Modules/NeuralNetworks/helper/classes/Dense.py:33: RuntimeWarning: overflow encountered in exp
+  result = 1/(1+np.exp(-result))
+			Train set: loss: 0.23260829882486678, error: 0.0
+			Test set: loss: 0.33337847203967136, error: 0.002000000000000113
++++++++++++++++++++++++++
+	Learning rate: 0.01
+			Iteration 1: Loss=83.2816551651523
+			Iteration 11: Loss=10.38436531444422
+			Iteration 21: Loss=4.299886525962195
+			Iteration 31: Loss=3.2580134191820056
+			Iteration 41: Loss=2.2306784745307784
+			Iteration 51: Loss=2.826797569000737
+			Iteration 61: Loss=1.8301434102184708
+			Iteration 71: Loss=3.5006444206973564
+			Iteration 81: Loss=1.4917633039735692
+			Iteration 91: Loss=1.1587371842325478
+			End of training: Loss=1.3453284798347835
+			Train set: loss: 1.3453284798347835, error: 0.0
+			Test set: loss: 3.5514217515310187, error: 0.006000000000000116
++++++++++++++++++++++++++
+	Learning rate: 1e-06
+			Iteration 1: Loss=14257.904483770548
+			Iteration 11: Loss=8643.763450501378
+			Iteration 21: Loss=6325.357697353206
+			Iteration 31: Loss=5207.028622797855
+			Iteration 41: Loss=4545.692331546022
+			Iteration 51: Loss=4075.241159449031
+			Iteration 61: Loss=3697.680518329754
+			Iteration 71: Loss=3375.5909509810017
+			Iteration 81: Loss=3093.146711389692
+			Iteration 91: Loss=2842.584897967909
+			End of training: Loss=2640.4425479515976
+			Train set: loss: 2640.4425479515976, error: 0.8325688073394495
+			Test set: loss: 1463.9401334780891, error: 0.8520000000000001
++++++++++++++++++++++++++
+{'width': 5, 'learningRate': 0.1, 'trainLoss': 0.7281564394922125, 'testLoss': 0.4668081211450981, 'trainError': 0.0, 'testError': 0.0}

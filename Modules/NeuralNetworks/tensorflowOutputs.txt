@@ -1,0 +1,110 @@
+python3 predict.py -ds bankNote -tensorflow
+depth: 3
+	width: 5
+		activation: relu
+			Train set: loss: 0.0105 error: 0.0069
+			Test set: loss: 0.0108 error: 0.002
+		activation: tanh
+			Train set: loss: 0.0846 error: 0.0424
+			Test set: loss: 0.0998 error: 0.044
+	width: 10
+		activation: relu
+			Train set: loss: 0.0155 error: 0.0
+			Test set: loss: 0.0216 error: 0.002
+		activation: tanh
+			Train set: loss: 0.0517 error: 0.0229
+			Test set: loss: 0.0998 error: 0.03
+	width: 25
+		activation: relu
+			Train set: loss: 0.0001 error: 0.0
+			Test set: loss: 0.0026 error: 0.002
+		activation: tanh
+			Train set: loss: 0.0 error: 0.0
+			Test set: loss: 0.0007 error: 0.0
+	width: 50
+		activation: relu
+			Train set: loss: 0.0 error: 0.0
+			Test set: loss: 0.0004 error: 0.0
+		activation: tanh
+			Train set: loss: 0.0 error: 0.0
+			Test set: loss: 0.0023 error: 0.0
+	width: 100
+		activation: relu
+			Train set: loss: 0.0 error: 0.0
+			Test set: loss: 0.0 error: 0.0
+		activation: tanh
+			Train set: loss: 0.0177 error: 0.0011
+			Test set: loss: 0.0405 error: 0.004
+depth: 5
+	width: 5
+		activation: relu
+			Train set: loss: 0.0037 error: 0.0011
+			Test set: loss: 0.006 error: 0.002
+		activation: tanh
+			Train set: loss: 0.2029 error: 0.0447
+			Test set: loss: 0.2402 error: 0.058
+	width: 10
+		activation: relu
+			Train set: loss: 0.0 error: 0.0
+			Test set: loss: 0.0001 error: 0.0
+		activation: tanh
+			Train set: loss: 0.0016 error: 0.0
+			Test set: loss: 0.0021 error: 0.0
+	width: 25
+		activation: relu
+			Train set: loss: 6.8811 error: 0.4461
+			Test set: loss: 6.8178 error: 0.442
+		activation: tanh
+			Train set: loss: 0.0021 error: 0.0
+			Test set: loss: 0.0028 error: 0.0
+	width: 50
+		activation: relu
+			Train set: loss: 0.0 error: 0.0
+			Test set: loss: 0.0001 error: 0.0
+		activation: tanh
+			Train set: loss: 0.0708 error: 0.0046
+			Test set: loss: 0.0961 error: 0.008
+	width: 100
+		activation: relu
+			Train set: loss: 0.0 error: 0.0
+			Test set: loss: 0.0 error: 0.0
+		activation: tanh
+			Train set: loss: 0.2123 error: 0.0138
+			Test set: loss: 0.2165 error: 0.014
+depth: 9
+	width: 5
+		activation: relu
+			Train set: loss: 6.8811 error: 0.4461
+			Test set: loss: 6.8178 error: 0.442
+		activation: tanh
+			Train set: loss: 0.0016 error: 0.0
+			Test set: loss: 0.0019 error: 0.0
+	width: 10
+		activation: relu
+			Train set: loss: 6.8811 error: 0.4461
+			Test set: loss: 6.8178 error: 0.442
+		activation: tanh
+			Train set: loss: 0.0215 error: 0.0034
+			Test set: loss: 0.0356 error: 0.002
+	width: 25
+		activation: relu
+			Train set: loss: 0.0 error: 0.0
+			Test set: loss: 0.0041 error: 0.002
+		activation: tanh
+			Train set: loss: 0.0884 error: 0.0057
+			Test set: loss: 0.1261 error: 0.01
+	width: 50
+		activation: relu
+			Train set: loss: 0.0 error: 0.0
+			Test set: loss: 0.0 error: 0.0
+		activation: tanh
+			Train set: loss: 0.0708 error: 0.0046
+			Test set: loss: 0.0642 error: 0.004
+	width: 100
+		activation: relu
+			Train set: loss: 6.8811 error: 0.4461
+			Test set: loss: 6.8178 error: 0.442
+		activation: tanh
+			Train set: loss: 0.4599 error: 0.0298
+			Test set: loss: 0.7404 error: 0.048
+{'width': 10, 'depth': 3, 'activation': 'relu', 'trainLoss': 0.015490124933421612, 'testLoss': 0.021639056503772736, 'trainError': 0.0, 'testError': 0.001999974250793457}
